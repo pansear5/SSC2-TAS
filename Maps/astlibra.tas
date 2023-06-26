@@ -1,7 +1,4 @@
-# SecretSanta2023
-# https://gamebanana.com/mods/452173
-
-RecordCount: 863
+RecordCount: 882
 
 console load SecretSanta2023/3-Hard/Cabob
    1
@@ -349,20 +346,20 @@ console load SecretSanta2023/3-Hard/Cabob
   40
 
 #lvl_a-08
-#didnt try intended
    1,R
   13,R,X
   15,U,C
-  28,R
-  14,R,X
-  23,U,C
-  13,R,X
-  30,R,U,C
-   6,U,X
-  11,U,C
-   9,L,X
- 363,R,C
-  21,R,D,X
+   2,R
+  32,R,X
+  17,U,C
+  14,U,X
+  13,R,Z
+  28,R,U,X
+   8,U,C
+  11,U,X
+   9,L,C
+ 363,R,X
+  21,R,D,C
    1,R
    1,R,J
   10,R,D,X
@@ -400,5 +397,5 @@ console load SecretSanta2023/3-Hard/Cabob
   14,R,U,X
  135
 
-ChapterTime: 0:56.066(3298)
+ChapterTime: 0:56.015(3295)
 
