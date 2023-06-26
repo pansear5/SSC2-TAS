@@ -1,6 +1,6 @@
-RecordCount: 1391
+RecordCount: 1397
 
-console load SecretSanta2023/1-Maps/Donker19
+console load SecretSanta2023/1-Easy/Donker19
    1
 
 #Start
@@ -320,12 +320,8 @@ stunpause
    2,L
    8,L,J
   12,J
-endstunpause
-   1,S
-  10,J
-   5,U,X
-stunpause
-  10,U
+skipinput 3 1
+  15,U,X
    2,R
    2,L,J
 endstunpause
