@@ -1,7 +1,4 @@
-# SecretSanta2023
-# https://gamebanana.com/mods/452173
-
-RecordCount: 523
+RecordCount: 563
 
 console load SecretSanta2023/2-Medium/ru
    1
@@ -291,13 +288,6 @@ console load SecretSanta2023/2-Medium/ru
 
 #lvl_a08
    2,R
-#proobably do this
-#activate zipper earlier
-#   2,R,J
-#  17,R,D,X
-#   2,R,J
-#   7,R
-#  19,U,G
    5,R,D,J
    5,R
   21,R,J
@@ -306,22 +296,21 @@ console load SecretSanta2023/2-Medium/ru
    2,R,J,G
   25,R,K,G
   15,R,U,X
-   1,L,J
-  19,L
-  15,L,X
-  23,L,D
-  47
-   6,R
-   2
+   1,J,G
+   3,L,J
+   2,L
+  15,D,X
+   2,L
+   3,R,D
+   2,D
+   2,R
    1,R
-  20,L
-  60,G
-   1,U,G
-   6,L,J,G
-   1,K
-   1,L,J,G
-  20,R,J
-  11,U,X
+   1,R,J,G
+  20,R,K,G
+  13,R
+  15,R,U,Z
+   9
+   6,J
  153,R,C
    4,Z
    1,R,J
@@ -330,4 +319,4 @@ console load SecretSanta2023/2-Medium/ru
   14,R,U,X
  135
 
-ChapterTime: 0:49.980(2940)
+ChapterTime: 0:47.668(2804)
