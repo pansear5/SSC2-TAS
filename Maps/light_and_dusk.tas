@@ -1,64 +1,53 @@
-# SecretSanta2023
-# https://gamebanana.com/mods/452173
-
-RecordCount: 925
+RecordCount: 998
 
 console load SecretSanta2023/1-Easy/Ezel
- 190
+   1
 
 #Start
+ 190
+
+#lvl_A-00
   11,R,D,X
-  10,R,J
+   5,R,J
   15,R,D,X
-  11,R,J
-  17,R,D,X
-   1,R,K
-   3,R,J,G
-   5,R,Z
+   7,R,J
+  15,R,D,X
+   2,R,J
+   8,R
    1,R,J
-   5,R
-  39
+  40
 
 #lvl_A-01
-   1
-   2,R
    1,R,J
-   3,R
-   3,L
-  16,L,D,X
-   1,R
 stunpause 
+  18,R,J
 skipinput 3 1
-   7,R,Z
-   8,R,J
-   5,R
-   1,R,J
-  12,R,J
-skipinput 3 1
-  14,U,X
+  15,U,X
   30,L,J
    4,L
-   2
+   2,L
    1,K,G
    1,R
    1,L
    1,L,J,G
-endstunpause
    1,R,J
-  16,L,J
-   1,L,K,G
-  13,L
-  11,R,D,X
-  21,R,J
-  13,U,X
-   4,R,U,J
-   1,R,U,K,G
+endstunpause
+  10,L,J
+   6,L
+   1,K,G
+   8
+   2,R
+   4,Z
+   5,R,J
+  10,R
+   7,R,J
+  14,U,X
+   3,R,J
   12,R
-   4,R,Z
-   1,R,U,J
+   5,R,Z
+   1,R,J
    5,R
   40,R,U,J
-#0:12.852(756)
 
 #lvl_A-06
    2,J
@@ -68,9 +57,8 @@ endstunpause
    9,K,G
    9,L,J
   40
-#0:14.382(846)
 
-#lvl_A-07
+#lvl_A-07 (0)
    8,U
   11,J
   10,L,X
@@ -96,7 +84,6 @@ endstunpause
    3,J
    5,R,K,G
   40
-#0:18.989(1117)
 
 #lvl_A-07b
   11
@@ -114,25 +101,26 @@ endstunpause
   21,L
   20,R
   19,R,D,X
-  24,L,D
-  77
-   5,R,D,X
-  18,R,D
+   6,D
+   1,S
+   1,D,J
+  69,O
+   5,L
+   2,L,J
+  16,D,X
   40
 
-#0:24.004(1412)
-#lvl_A-07r
+#lvl_A-07 (1)
   10,D
-  16,L,D
-  21,L,Z
-   1,L
-  18,L,U,X
-  19,R,U,C
+  16,D
+  23,L,X
+
+  17,L,U,C
+  19,R,U,X
   10,R
   15,U,X
   40
 
-#0:26.350(1550)
 #lvl_A-09
   11,L
   10,L,D,Z
@@ -156,7 +144,6 @@ endstunpause
    6,L,K,G
   40
 
-#0:29.189(1717)
 #lvl_B-04
 
   11,L,D,X
@@ -329,5 +316,6 @@ endstunpause
    1,L
    1,R
   78
-ChapterTime: 0:56.355(3315)
+
+ChapterTime: 0:54.111(3183)
 
