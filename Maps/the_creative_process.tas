@@ -1,4 +1,4 @@
-RecordCount: 864
+RecordCount: 954
 
 console load SecretSanta2023/1-Easy/Jan
    1
@@ -7,21 +7,22 @@ console load SecretSanta2023/1-Easy/Jan
  190
 
 #lvl_01-Intro
-Repeat 22
+   5,R
+repeat 22
    1,R,J
   14,R
 endrepeat
    1,R,J
-  13,R
+   7,R
    1,S
    1,D,J
   34
-   1,R
+   7,R
    1,R,J
-  11,R
+   6,R
 
 #lvl_02-Entranceway (0)
-   2,R
+   1,R
    1,S
    1,D,J
   34
@@ -43,7 +44,7 @@ endrepeat
    2,R
    1,R,K,G
    1,R,J,G
-  10,R
+   9,R
   15,U,X
    7,R,J
   40
@@ -54,7 +55,7 @@ endrepeat
   12,R,J,G
   12,R,K,G
    6,R,J,G
-   8
+   7
   15,U,C
    1,R,J
   40
@@ -89,38 +90,34 @@ endrepeat
    1,R,J
   40
 
-#lvl_03b-Math-Berry (0)
-   2,R,J
-  11,R,D,X
-   1,S
-   1,D,J
-  34
-   4,R,D
+#lvl_03b-Math-Berry 
+   4,R
   15,D,X
-   6,L,Z
+  14,L,Z
    1,R,J
-   7,R
-   1,R,J
-   5,R
-  32,D,X
-   4,J
-   1
-  12,D,X
+   6,R,D,X
    1,S
    1,D,J
   34
-   3,R,D
-  14,R,X
-   3,L,J
-  13,L,U,X
-   1,L,J,G
-  13,L
-   4,X
-  10,L,J
-   5,L
-   2,L,J
-   1,L
-   7,L,Z
+   2
+  18,L,J
+   8,J
+   3,D
+   5,R,D
+  11,R
+   1,S
+   1,D,J
+  34
+   4,R
+  10,L,U,X
+   4,J,G
+   7,L
+   4,Z
+   1,L,J
+   7,L
+   9,L,J
+   3,L
+   9,L,Z
    1,L,J
    1,L
   40
@@ -161,6 +158,7 @@ endrepeat
    1,R,J
   14,R,D,X
   12,R,J
+
   14,R,U,X
    2,R,J,G
    7,R
@@ -233,7 +231,6 @@ endrepeat
    6,L
   40
 
-
 #lvl_04x1-Hallway (1)
    1,L
    6,L,Z
@@ -300,6 +297,7 @@ endrepeat
 
 #lvl_07x3-Hallway
    4,R,J
+
   15,R,D,X
    1,R,J
   14,R
@@ -314,35 +312,22 @@ endrepeat
    1,S
    1,D,J
   34
-  13,R,D
-  11,R,J
-   5,R
-  11,R,U,X
-   1,J,G
+  12,R,D
    4,R
-   8,L
-   4,Z
-   1,L,J
-  26,L,D
-   6,L,Z
-   1,L,J
-   7,L
-   1,L,J
-   7,L
-  15,D,X
-   3,R,D
-Repeat 4
-   2,L,D
-   2,R,D
-endrepeat
-   1,J
-  10,D,X
+  15,L,D,X
+  36,D
+  13,J
+  15,U,X
+  46,D
   40
 
 #lvl_10x2-Hallway
+   2,L,D
+   5,D
+   6,R,D
    2,D
-  10,R,D
-  28,D
+   1,R,D
+  22,D
    5,L,D
   40
 
@@ -350,7 +335,6 @@ endrepeat
    3,R,D
   15,R,D,X
    7,R,D
-   0,R,J
   18,R,D,X
    6,L
    6,R
@@ -365,24 +349,25 @@ endrepeat
    1,R,J
    7,R
    1,R,J
-   9,R,D,X
+   8,R,D,X
+   1,R,J
+   1,R
   40
 
 #lvl_13-Bad-Mapping
-   1,R,J
-   9,L
-   8,R
-  18,R,D,X
-  10,R,U,C
-   1,J,G
-  10,R,J
-  12,R
-   3,L
-  12,R,U,X
-  10,R,J,G
    5,R
    1,R,J
-  15,R
+   3,R,D
+   1,R,J
+   5,R
+   8,R,J
+   5,R
+  18,R,X
+  10,R,C
+   1,R,J,G
+   2,J
+   2,R,J
+  16,R
    6,R,Z
    1,R,J
    6,R
@@ -391,6 +376,7 @@ endrepeat
 #lvl_14-Bad-Mapping
    1,R
    2,R,J
+#   4,R
   30,L,D
    7,D
   10,L,D,X
@@ -416,12 +402,14 @@ endrepeat
    2,R,K
   35,R,J
    5,R,D
-   6,R,J
-  29,R
-  11,R,J
-   6,R
-  21,R,J,G
-  31,R,X
+   7,R,J
+  23,R
+  14,R,X
+   1,R,J,G
+   3,J
+  23,R,J
+   7,R
+ 
    1,S
    1,D,J
   34
@@ -442,11 +430,11 @@ Repeat 7
   14,R
 endrepeat
    1,R,J
-   7,R
+   6,R
    1,S
    1,D,J
   34
-   7,R
+   8,R
    1,R,J
   14,R
    1,R,J
@@ -459,4 +447,4 @@ endrepeat
   14,R,U,X
  135,R,D
 
-ChapterTime: 1:13.542(4326)
+ChapterTime: 1:12.080(4240)
