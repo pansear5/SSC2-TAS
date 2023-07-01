@@ -1,0 +1,122 @@
+RecordCount: 162
+
+console load SecretSanta2023/1-Easy/DanTKO
+   1
+
+#Start
+  84
+
+***s
+#lvl_intro
+   5,R
+   1,R,J
+  22,R,D
+   2,R
+   1,R,J
+  14,R
+   1,R,J
+   7,R,K,G
+   3,R
+   1,R,J,G
+   7,R
+Repeat 5
+   1,R,J
+  14,R
+EndRepeat
+   1,R,J
+  11,R
+  43
+
+***
+#lvl_intro_01
+   3,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,D
+ 155
+***
+# Where are my waterboosts?
+   1,R
+   1,R,J
+  16,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   3,R
+  40
+
+***
+#lvl_intro_02
+
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   7,J
+   5,R,J
+   4,K
+   1
+   5,R,J
+   6,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+***
+   2,R,J
+   6,R
+   1,R,K
+   1,R
+   1,R,K
+   5,R
+   1
+   1,R
+   1,R,J
+   5,R
+  19,R,J
+   5,R,K
+   1,K
+  29,R,K
+   1,R,J,G
+   1,R,K,G
+  14,R
+Repeat 6
+   1,R,J
+  14,R
+EndRepeat
+   3,R
+ 102
+   1,R,J
+   1,R,K
+  43
+
+***s
+#lvl_intro_03
+  17,R
+Repeat 3
+   1,R,J
+  14,R
+EndRepeat
+   1,R,J
+  22,R,D
+   1,R,J
+   1,R,K
+   8,R
+   2,R,J
+   1,R,K,G
+  11,R
+Repeat 2
+   1,R,J
+  14,R
+EndRepeat   
+   1,R,J
+  15,R
+
+1000,R
