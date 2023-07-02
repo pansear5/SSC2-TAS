@@ -1,13 +1,15 @@
 # SecretSanta2023
 # https://gamebanana.com/mods/452173
 
-RecordCount: 1743
+RecordCount: 1749
 
 console load SecretSanta2023/1-Easy/ABuffZucchini
    1
 
 #Start
-  90
+  69
+
+#lvl_00
    6,R
    1,R,K
   21,R
@@ -83,7 +85,7 @@ console load SecretSanta2023/1-Easy/ABuffZucchini
   10,R
   40
 
-#lvl_01_00
+#lvl_01 (0)
    4,R
    1,R,K
   18,R
@@ -153,7 +155,7 @@ console load SecretSanta2023/1-Easy/ABuffZucchini
    3,R
   40
 
-#lvl_02_00
+#lvl_02 (0)
    8,R
    2,R,K
    1,J
@@ -179,7 +181,7 @@ console load SecretSanta2023/1-Easy/ABuffZucchini
    1,L
   40
 
-#lvl_01_01
+#lvl_01 (1)
    2,L
    2,L,K
    4,L,D
@@ -201,7 +203,7 @@ console load SecretSanta2023/1-Easy/ABuffZucchini
    1,R,K
   40
 
-#lvl_02_01
+#lvl_02 (1)
   14,R
    1,R,K
   18,R
@@ -433,7 +435,7 @@ EndRepeat
    3,R
   40
 
-#lvl_06_00
+#lvl_06 (0)
    6,R,K
    8,L
    1
@@ -547,7 +549,7 @@ EndRepeat
    5,L,J,G
   40
 
-#lvl_06_01
+#lvl_06 (1)
   40
   20
   10
@@ -679,6 +681,7 @@ EndRepeat
   10,R
    3
    6,L
+
   10,R
 #  19,L,X
 #   7,L,D,C
@@ -737,4 +740,4 @@ EndRepeat
    9,U,C
  135
 
-ChapterTime: 1:32.565(5445)
+ChapterTime: 1:32.208(5424)
