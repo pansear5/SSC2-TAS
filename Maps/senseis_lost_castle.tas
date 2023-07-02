@@ -1,13 +1,13 @@
 # SecretSanta2023
 # https://gamebanana.com/mods/452173
 
-RecordCount: 1741
+RecordCount: 1743
 
 console load SecretSanta2023/1-Easy/ABuffZucchini
    1
 
 #Start
- 120
+  90
    6,R
    1,R,K
   21,R
@@ -737,4 +737,4 @@ EndRepeat
    9,U,C
  135
 
-ChapterTime: 1:33.075(5475)
+ChapterTime: 1:32.565(5445)
