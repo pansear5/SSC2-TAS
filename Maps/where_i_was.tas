@@ -1,7 +1,7 @@
 # SecretSanta2023
 # https://gamebanana.com/mods/452173
 
-RecordCount: 1319
+RecordCount: 1324
 
 console load SecretSanta2023/2-Medium/Rocketguy2
    1
@@ -20,22 +20,17 @@ console load SecretSanta2023/2-Medium/Rocketguy2
   14,R,D,C
    1,R,J
   25,R,X
-
    4,R,K
   10,R,Z
-   1,R,J
-  12,R,J
+  13,R,J
    4,R
    1,R,J
    1,R
   24,R,Z
    4,R,K
-   1,R,J
-   3,R,J
-  32,R,J
+  36,R,J
   24,R,X
-   4,R,K
-   1,R,K
+   5,R,K
    6,R,Z
    9,R,K
    2,R
@@ -54,8 +49,7 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    3,R,K,G
    1,R,J,G
   19,R,J
-  10,R
-   2,R
+  12,R
   15,R,Z
   33,R,D
    6,R,Z
@@ -70,9 +64,7 @@ console load SecretSanta2023/2-Medium/Rocketguy2
   15,R,D,X
    4,R,K
    6,R,X
-  10,R,J
-   8,R,J
-   7,R,J
+  25,R,J
    5,J
   18,R,U,X
    4,R,K
@@ -88,17 +80,18 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    1,R,J
    6,R,D,X
   40
+
+
+#lvl_a-01
    1,R
    3,R,J
    1,R,K,G
-   4,R
-  13,R,D
+  13,R
+   4
   13,R,U,X
    4
-   1,R,J
-   3,R,J
-   3,R
-   6,R
+   4,R,J
+   9,R
   18,R,Z
   14,R,K
   15,R,U,X
@@ -123,17 +116,14 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    4,R
   27,R,K
   15,R,X
-   5,R
-   4,R
+   9,R
   11,L,X
    4,L,K
    3,L
   16,R,C
    4,R,K
-   1,R,J
-   7,R,J
-   2,R
-  17,R
+   8,R,J
+  19,R
    1,R,J
    5,R
   40
@@ -149,6 +139,8 @@ console load SecretSanta2023/2-Medium/Rocketguy2
 #   4,R
 #   1,R,K
 #  60,R
+
+#lvl_a-03
    1,R
   23,R,X
   19,L,D,C
@@ -162,6 +154,8 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    7,R,Z
   55,R,J
   20,R,U,X
+
+#lvl_b-03
    2,R
    5,L,Z
    1,R,J
@@ -170,8 +164,7 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    5
   24,R,Z
    4,R,K
-   1,J
-   3,J
+   4,J
    3
    3,R
   23,R,U,X
@@ -182,14 +175,12 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    4,L,J
    1,L,G
    4,L,K,G
-   9,K
-   1,K
+  10,K
    2,R,K
   15,R,U,X
    4,L,K
   15,D
-  11,R,D
-  13,R,D
+  24,R,D
   16,R,Z
    8,J
   13,L,K
@@ -197,28 +188,25 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    6,K
   18,L,U,Z
   25
-   4,G
-  14,L,X
-   4,R,G
-  15,R,X
+   8,G
+  18,L,X
+  16,R,C
    4,R,K
    9,R,J
    5,R
-   1,R,J
-   1,R,J
-   1,R,J
-   3,R,J
-   4,R
-   1,R
+   6,R,J
+   5,R
    1
-  14,R,X
+  13,R,X
    1,R,K,G
-  13,R
+   5,R
+
+#lvl_a-04
+   8,R
    1,R,K
   14,R,U,X
    4,K
-   7,L
-  11,L
+  18,L
    7,L,D
   10,D
    1,L,D
@@ -233,8 +221,7 @@ console load SecretSanta2023/2-Medium/Rocketguy2
   12,L,C
    4,L,K
    9,L,J
-   5,J
-   1,J
+   6,J
    1,R,J
    1,K
    1,R,J,G
@@ -255,8 +242,7 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    1,R,J
   15,R,D,X
    1,R,D
-   2,R,K
-   4,R,K
+   6,R,K
   40
 
 #lvl_a-05
@@ -274,27 +260,21 @@ console load SecretSanta2023/2-Medium/Rocketguy2
   13,R,D,X
    5,R,K
    6,R,Z
-   5,R,K
-   5,R,K
-  22,R,K
+  32,R,K
   13,R,D,X
    4,R
    5,R,J
-  10,L,X
-   3,L,X
+  13,L,X
    4,R,K
    2,R,J
    2,R
   15,R,Z
    4,R,K
    8,R,J
-   3,J
-   2,J
-   2,J
+   7,J
    2,R,J
   15,R,U,X
-   2,R
-   7,R
+   9,R
    4,L,K
    3,L,J
   15,L,D,X
@@ -304,13 +284,14 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    7,R,Z
   25,R,K
    1,R
+
+#lvl_b-05
    4,R,Z
    1,R,K
-   5,D
+   5
    8,R
    2,R,K
-  15,R,Z
-  13,R,Z
+  28,R,Z
    7,U,X
   23,R,K
    9,L,J
@@ -318,8 +299,7 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    6,R
    2,R,J
    5,R
-   6,R,J
-  12,R,J
+  18,R,J
   17,R,U,Z
    4,R,J
    7,K
@@ -328,8 +308,7 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    1,D
    1,R
    1
-   1,L,D
-   1,L,D
+   2,L,D
    1,D
    1,L,D
    1,D
@@ -344,11 +323,9 @@ console load SecretSanta2023/2-Medium/Rocketguy2
   17,R,U,X
    4,R,K
    1,R,J
-   1,R
-   1,R
+   2,R
   14,R,Z
-   1,R,J
-   3,R,J
+   4,R,J
    8,R,D,X
   40
 
@@ -358,8 +335,7 @@ console load SecretSanta2023/2-Medium/Rocketguy2
   12,R,D,X
    4,L,K
    1,L,J
-   5,L
-   9,L
+  14,L
    1,R
   15,R,U,X
    4,R,K
@@ -377,6 +353,8 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    1,R,J
   15,R,D,X
   19,R
+
+#lvl_a-06
   10,R,X
   12,R,J
   12,R
@@ -421,17 +399,14 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    2,R,D
   14,R,Z
    4,R,K
-   3,R,J
-   1,R,J
-   5,R
-   2,R
+   4,R,J
+   7,R
   14,R,Z
    4,R,K
    2,R,J
    2,R
    3
-   1,J
-   3,J
+   4,J
   15,U,X
   27,L,D
   27,D
@@ -446,9 +421,6 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    4,R,K
   18,L,X
   19,R,Z
-#   4
-#   5,R,Z
-#  60,R,J
    4,R,K
    1,R,J
    8,R
@@ -512,4 +484,4 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    4,R
  135
 
-ChapterTime: 1:06.215(3895)
+ChapterTime: 1:06.283(3899)
