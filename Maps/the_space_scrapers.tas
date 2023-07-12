@@ -1,0 +1,548 @@
+#SecretSanta2023
+#https://gamebanana.com/mods/452173
+
+RecordCount: 5085
+
+console load SecretSanta2023/3-Hard/fraz
+   1
+
+#Start
+
+  82
+
+# spinner cycle tss-04 + tss-05
+# 0-2
+   1
+#lvl_tss-00
+
+   5,R,U,X
+  10,U
+   1,R
+   2,R,J,G
+   7,R
+   5,R,Z
+   1,R,D,J
+   8,R
+   1,R,J
+   5,R,D,X
+   2,U
+  13
+   2,R,D
+   1
+   1,R,D
+   1,R,J
+   5,R,D,X
+   5
+  12,U
+   5,U,X
+   3,L
+   2
+   5,U,X
+  13
+   4,L
+   4,D,X
+   1,L
+   1,L,D,J
+   8,L
+   1,L,J
+   5,L,D,X
+   3,U
+   7
+   4,L,D
+   6,L,D,X
+   9
+   5,L,U,X
+   4,U
+   1
+   3,L,D
+   5,U,Z
+   1,L
+   2,R,U
+   1
+   4,R,U
+   4,R
+   5,R,D,X
+   5,D
+   5,R
+   5,R,D,X
+   1,R,D
+   9
+   5,R,D,X
+  10
+   5,R,X
+   2
+  43
+
+#lvl_tss-01
+
+   3,U
+   1
+   6,U
+   1,R
+   1,R
+   5,U,X
+   3,L
+   2
+   2,L
+   4,R,U
+   5,R,X
+   1,R,D
+   7
+   1,R,D
+   1,R,D
+   1
+   1,R,D
+   1,R,J
+   5,R,D,X
+   1,R,D
+   9
+   5,R,U,X
+   1,U
+   2
+   1,R,D
+   1
+   6,R,D
+   5,R,D,X
+   3,R,U
+   4
+
+   3,R,D
+   3
+   1,R,D
+   2
+   5,R,X
+   6
+   1,R,D
+   1
+   3,R,D
+   1
+   6,R,D
+   1
+   1,D
+  10,R,D
+   1,D
+
+  10,R,Z
+   2,R,U
+   1
+   1,R,D
+   1
+   2,R,D
+   5,R,D,X
+   4,R,U
+   4,R,D
+   1
+   1,R,D
+   5,R,D,X
+   4,R,U
+   1,R
+   5,U,X
+  12,R
+   5,R,D,X
+   2,R,D
+   6
+   1,R,U
+   7
+   3,R,U
+  14,R
+   8,R,D
+   2,R,D
+   1,D
+   1,D
+
+   1,R,D,J
+   5,R,D,X
+   6
+   1,R,U
+  40
+#lvl_tss-02
+
+   2,R,D
+   1
+   5,R,D,X
+   3,U
+   3,R,D
+
+   3
+   1,R,D
+   5,R,D,X
+   2,R,D
+   4
+
+   1,R,U
+   3
+   5,R,X
+   4,R,U
+   4
+
+   2
+   1,R,D
+   1
+
+
+   2,R,D
+   1
+   2,R,D
+
+   2
+
+   6,L,U,X
+  26
+   1,L,D
+   8,F,180
+  43,F,117
+   5,R,Z
+
+   1,R,D,J
+   8,R
+   1,R,D,J
+   5,R,D,X
+   7
+  40
+
+
+#lvl_tss-03
+  11
+   1,R,D
+  11,R,J
+   5,R
+   5,R,U,Z
+   2,U
+   5
+   5,U
+   1
+   1,R
+   1
+  30,R
+  10,R,D
+   5,R,Z
+   1,R,D,J
+   6,R
+   2
+   1,R,J
+   5,R,D,X
+   5,R,U
+   1
+   2,R,D
+   1
+   5,R,D
+   5,R,D,X
+  14
+  11,U,C
+  11,L,Z
+   5,R,U,C
+   6,U
+   2
+   9,R
+   4,D,X
+  18,R
+   2,R,D
+   3,D
+   8,R,D,J
+   1,R,K,G
+   1,R
+   5,R,D,X
+   5
+   2,R,U
+   2
+   1,R,D
+   1
+   8,U,X
+   9,L,C
+   5,L,X
+   5,L,U
+   1
+   2,L,D
+   7,L,D,J,G
+  28,L
+   5,L,U,Z
+   1,U
+   1
+   1,L
+  11
+   3,L,D
+   1,L,D
+   4,L
+  45
+   1,L,U
+  37,F,0
+   9,U,X
+  40
+#lvl_tss-04(0)
+
+   5,L,J
+   6,L
+   5,R,Z
+   1,R,D,J
+   8,R
+   1,R,J
+   5,R,U,Z
+  15,U
+   5,U,X
+   1,L
+  14
+   4,D,X
+   1,L
+   1,L,D
+   1,R,J
+   8,R
+   1,R,J
+   5,R,D,X
+   9,U
+   9,R,D
+   5,U,X
+   2,R
+   4,L,U
+   4
+   2,L,U
+   1
+   4,D,X
+   1,L
+   1
+   1,L,D,J
+   8,L
+   5,L,D,X
+   5,U
+   1
+   2,L,D
+   1
+   3,L,D
+   5
+   1,L,D
+   1,L
+   1,L,J
+   8,L
+   1,L,J
+   5,L,D,X
+   6
+StunPause
+   8,U
+EndStunPause
+   1,U
+   1,L
+   1,L,D
+   1
+   1,J,G
+   6
+   6,R
+   5,R,Z
+   1,R,D,J
+   8,R
+   1,R,J
+   6,R,D,X
+   4
+   5,U,X
+   5,R
+  17
+  14,R,Z
+   1,L,J
+   5,L,D,X
+   9
+   1,L,D
+   1
+   5,L,D,X
+   5,U
+   1
+   5,L,D
+   2
+   1,L,D
+   4
+   1,L,D
+   1,J
+   5,L,D,X
+   9
+   1,L,D
+   5,L,D,X
+   3,U
+   5,L,D
+   1,L,U
+   1
+   6,L,D,X
+   3
+   5,L,U,Z
+   5,L,D
+   5,L,X
+   3,L,D
+   1,L,U
+   6
+   5,L,U,X
+   3
+   4,L,D
+   1,L,U
+  40
+#lvl_tss-05(0)
+
+   1,L,U
+   1,L,D
+   5,L,D,X
+  13
+   1,L,D
+   5,L,D,X
+   2
+   2,U
+   6
+   1,U
+   1
+   5,R,X
+StunPause
+   1,U
+   1,R,D
+EndStunPause
+   1,U
+   7,R,D
+   5,R,D,X
+   2,R,U
+   6,R,D
+   2
+  40
+
+
+#lvl_tss-04(1)
+
+   5,R,U,X
+   1,R,U
+   1,R,D
+   3
+# lightning cycle tss-05(0)
+# 0-14
+   6
+# -----
+   5,L,X
+   3
+   1,L,D
+   2
+  40
+
+
+#lvl_tss-05(1)
+
+   1,L,U
+   5
+   1,L,D
+   5,L,D,X
+   1,U
+   3
+   1,L,D
+   5,R,X
+   1,U
+   1,R,D
+   1
+   1,R,D
+   1,R,U
+   1
+   1,U
+   1,R,D
+   5,L,X
+   1
+   1,L,D
+   1,L,U
+   1
+   2,L,U
+   2,L,D
+   4,D,X
+   1,R
+   2
+   1,U
+   1
+   1,R,D
+   3
+   5,R,U,X
+   1,U
+  40
+
+
+#lvl_tss-06b
+
+   2,R
+#waiting lightning cycle
+  11
+#------
+   9,L,U,X
+   4,L
+   2
+   5,L,D,X
+   7
+   3,L,D
+   5,R,X
+   1,R,D
+   4,D,X
+   2,U
+  40
+
+
+#lvl_tss-07
+
+   1,S
+   1,D,J
+   1,O
+  68
+
+#spinner cycle
+#   0
+   2
+#------
+
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   3
+   1,R,D
+   6
+   5,R,D,X
+   2,U
+   7
+   3,R,D
+   5,R,D,X
+   2,U
+   7
+   2,R,D
+   1
+   1,R,D
+   1
+   5,R,D,X
+   2,U
+   4
+   2,R,D
+   3
+   1,R,D
+   5,R,D,X
+   3
+   1,R,U
+   6,R,D
+   1
+   2,R,U
+   1
+   2,R,U
+   5,R,D,X
+   2
+   3,R,D
+   6
+   1,R,U
+   4
+   1,R,U
+   5,R,D,X
+   4
+   2,R,D
+   4
+   5,R,X
+   4,R,U
+   1
+   9,R,D
+   1
+   5,R,X
+   2
+   2,U
+   5,R,U,X
+  14,U
+  40
+
+
+#lvl_tss-07h
+
+  11
+   4,R,D
+   5,R,D,X
+  13,D
+ 135
+
+ChapterTime: 0:38.930(2290)
