@@ -1,7 +1,7 @@
 #SecretSanta2023
 #https://gamebanana.com/mods/452173
 
-RecordCount: 5684
+RecordCount: 6606
 
 console load SecretSanta2023/3-Hard/fraz
    1
@@ -122,7 +122,6 @@ console load SecretSanta2023/3-Hard/fraz
    1,R,D
    5,R,D,X
    4,U
-   
    4,R,D
    1
    1,R,D
@@ -354,45 +353,45 @@ EndStunPause
    2
    2,U
    6
-   1,U
-   1
+   2,U
    5,R,X
-StunPause
    1,U
    1,R,D
-EndStunPause
-   1,U
-   7,R,D
-   5,R,D,X
-   2,R,U
-   6,R,D
    2
+   6,R,D
+   5,R,D,X
+   2,U
+   5,R,D
+   1
+   1,R,U
+   1
   40
 
 #lvl_tss-04(1)
    5,R,U,X
-   1,R,U
+   1,U
    1,R,D
-   3
-# lightning cycle tss-05(0)
-# 0-14
-   0
-# -----
+   1
+   2,U
+#lightning cycle tss-05(0)
+   7
+#
    5,L,X
    3
    1,L,D
    2
   40
 
-
 #lvl_tss-05(1)
-   1,L,U
-   5
+   2,L,U
    1,L,D
+   2
+   1,L,D
+   1
    5,L,D,X
-   1,U
-   3
-   1,L,D
+   2,U
+   2,L,D
+   1
    5,R,X
    1,U
    1,R,D
@@ -424,14 +423,15 @@ EndStunPause
 #lvl_tss-06b
    2,R
 #waiting lightning cycle
-  10
+  11
 #------
    9,L,U,X
    4,L
    2
    5,L,D,X
    7
-   3,L,D
+   2,L,D
+   1
    5,R,X
    1,R,D
    4,D,X
@@ -444,9 +444,8 @@ EndStunPause
    1,O
   68
 #spinner cycle
-#   0
-   0
-#------
+   2
+#
   14,L,Z
    1,R,J
    5,R,D,X
@@ -509,4 +508,4 @@ AnalogMode,Ignore
   13,D
  135
 
-ChapterTime: 0:38.165(2245)
+ChapterTime: 0:38.148(2244)
