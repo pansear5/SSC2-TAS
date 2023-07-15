@@ -1,18 +1,17 @@
 #SecretSanta2023
 #https://gamebanana.com/mods/452173
 
-RecordCount: 6606
+RecordCount: 6833
 
 console load SecretSanta2023/3-Hard/fraz
    1
 
 #Start
-
   82
-
-# spinner cycle tss-04 + tss-05
+# cycle tss-04 + tss-05
 # 0-2
    0
+
 #lvl_tss-00
    5,R,U,X
   10,U
@@ -168,7 +167,7 @@ AnalogMode,Precise
    5,R,Z
    1,R,D,J
    8,R
-   1,R,D,J
+   1,R,J
    5,R,D,X
    7
   40
@@ -179,14 +178,11 @@ AnalogMode,Precise
   11,R,J
    5,R
    5,R,U,Z
-   2,U
-   5
-   5,U
-   1
-   1,R
-   1
-  30,R
-  10,R,D
+   3
+   7,U
+   2
+  28,R
+  12,R,D
    5,R,Z
    1,R,D,J
    6,R
@@ -290,13 +286,12 @@ AnalogMode,Precise
 StunPause
    8,U
 EndStunPause
-   1,U
-   1,L
+   2
    1,L,D
    1
    1,J,G
-   6
-   6,R
+   7
+   4,R
    5,R,Z
    1,R,D,J
    8,R
@@ -347,8 +342,11 @@ EndStunPause
    1,L,U
    1,L,D
    5,L,D,X
-  13
-   1,L,D
+   8
+   1,U
+   1
+   2,L,D
+   2
    5,L,D,X
    2
    2,U
@@ -374,7 +372,7 @@ EndStunPause
    1
    2,U
 #lightning cycle tss-05(0)
-   7
+   0
 #
    5,L,X
    3
@@ -402,10 +400,9 @@ EndStunPause
    1,U
    1,R,D
    5,L,X
-   1
    1,L,D
    1,L,U
-   1
+   2
    2,L,U
    2,L,D
    4,D,X
@@ -419,11 +416,10 @@ EndStunPause
    1,U
   40
 
-
 #lvl_tss-06b
    2,R
 #waiting lightning cycle
-  11
+   9
 #------
    9,L,U,X
    4,L
@@ -443,8 +439,8 @@ EndStunPause
    1,D,J
    1,O
   68
-#spinner cycle
-   2
+# cycle
+   0
 #
   14,L,Z
    1,R,J
@@ -508,4 +504,4 @@ AnalogMode,Ignore
   13,D
  135
 
-ChapterTime: 0:38.148(2244)
+ChapterTime: 0:37.893(2229)
