@@ -1,4 +1,4 @@
-RecordCount: 2615
+RecordCount: 2881
 
 console load SecretSanta2023/2-Medium/powerav
    1
@@ -9,7 +9,6 @@ console load SecretSanta2023/2-Medium/powerav
 
 
 #lvl_a-0
-
    1,S
    1,D,J
   34
@@ -25,8 +24,7 @@ console load SecretSanta2023/2-Medium/powerav
    1,R,J
    2,R,K,G
    1,K
-   1,R,K
-   1,R,K
+   2,R,K
    4,R
    9,R,J,G
    9,R,U,X
@@ -34,7 +32,6 @@ console load SecretSanta2023/2-Medium/powerav
 
 
 #lvl_x-1
-
    6
   15,U,X
    1,J,G
@@ -76,7 +73,6 @@ EndStunPause
 
 
 #lvl_x-2
-
    2,R
    1
    1,R,J
@@ -98,9 +94,7 @@ EndStunPause
   14,R,D,X
   40
 
-
 #lvl_3
-
    1,R,J
   14,R,D,X
    1,R,J
@@ -142,9 +136,7 @@ endrepeat
    1,R
   40
 
-
 #lvl_4
-
    6,R
    8,R,D,J
    6,R
@@ -174,9 +166,7 @@ endrepeat
    9,R,D,X
   40
 
-
 #lvl_5-actually
-
    5
    1,R,J
    3,R
@@ -209,9 +199,7 @@ endrepeat
    7,R,D,X
   40
 
-
 #lvl_6-actually
-
    3
    1,R,J
    3,R
@@ -260,9 +248,7 @@ endrepeat
    5,R,D,X
   40
 
-
 #lvl_7
-
    9
    1,R,J
    9,R,D,X
@@ -278,23 +264,23 @@ endrepeat
   21,R,C
   24,D
   15,L,Z
-  10,R
-  12,R,D,X
-   1,R
-  20,R,J,G
-   3,R
-  22,R,X
-   3,R,J,G
+   4,R
+  15,R,D,X
+   6,R,C
+   1,R,J,G
+   1,J
+  25,R,J
    7,R
-   7,R,Z
+   9,R,K,G
+   7,R
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
    8,R,D,X
   43
 
 #lvl_8
-
    6
    1,N
    1,R,J
@@ -345,9 +331,7 @@ endrepeat
   14,R,D,X
   43
 
-
 #lvl_9
-
   25,R,J
   17,R,U,X
   14,U,C
@@ -381,9 +365,7 @@ endrepeat
    7,R,D,X
   40
 
-
 #lvl_10
-
    7
    1,R,J
   14,R,D,X
@@ -422,9 +404,7 @@ endrepeat
   12,R,D,X
   43
 
-
 #lvl_11
-
    2
    1,R,J
   13,R,D,X
@@ -445,26 +425,21 @@ endrepeat
   15,U,X
   17,R,C
   15,D,X
-  15,D,C
    9,R,Z
    1,R,J
    7,R
-   1,R,J
-  15,U,Z
-  34,R
-  21,R,X
-   1
-  18,R,D
-  12,R,Z
-   4,R,J
-  14,J
-  24,R,D,X
-   2,D
+  16,R,J
+  15,R,U,X
+  52,R,D
+  14,R,Z
+   5,R,J
+  13,J
+  15,R,D,X
+   1,R
+  10,R,D
   43
 
-
 #lvl_6
-
    1
    1,J
   74
@@ -478,8 +453,7 @@ endrepeat
    5,L
    1,S
    1,D,J
-  34
-   5
+  39
    2,J
    5,L,D,X
   13,D
@@ -490,9 +464,7 @@ endrepeat
    1,L
   40
 
-
 #lvl_house-entrance
-
    6,L
    1,L,J
   14,L,D,X
@@ -500,15 +472,13 @@ endrepeat
   11,L,D,X
    1,S
    1,D,J
-  34,L,D
-  11,L,D
+  45,L,D
    6,L
    1,X
  158
 
 
 #lvl_party
-
 #CantPause Waiting
   70
 #------
@@ -535,9 +505,7 @@ endrepeat
    9,R,U,Z
   40
 
-
 #lvl_party2
-
    2,L
    6,J,G
   15,R,D,X
@@ -555,9 +523,7 @@ endrepeat
   12,R,D,X
   40
 
-
 #lvl_party3
-
    2
    1,R,J
   14,R,D,X
@@ -586,9 +552,7 @@ endrepeat
   11,R
   40
 
-
 #lvl_beach1
-
    1,R
    1,R,D,J
    1
@@ -603,89 +567,78 @@ endrepeat
    1,R
    2,R,J
    3,R
-  26,R,K,G
-  10,R,K
-  13,R,U,X
-   4,R,J,G
-   2
+   2,R,K,G
+   1,R
+   1
+  15,R,D,X
+   2,R,J
+   6,R,K,G
+  14,R,U,X
+   3,R,K,G
+   1,R
    1,R,J,G
+   1,R
+   8,R,J,G
    7,R
-  13,R,Z
+   9,R,Z
    1,R,J
    6,R
-  11,R,J
+  12,R,J
   14,R,Z
    1,R,J
-  18,R,D,X
-   4,R
-   8,R,J
-   6,R,K,G
-  16,R,D,X
-   5,R,J
-   5,R
-   3,R,J
-  15,U,X
-   1,R,J,G
+  22,R,D,X
+   7,R,J
+   8,R
+  10,R,J
+   9,R
+   2,R,J
+   6,R
+  14,R,U,X
+   2,R,K,G
    7,R
    1,J
-   2
-  10,R,Z
-   4,R,J
-   5,R,K,G
+   1,R,J
+  12,R,Z
+   1,R,J
+   9,R,K,G
+   1,R
+   8,R,J,G
    2,R
-   6,R,J,G
-   3,R,K,G
-   3,K
-   2,R,K
-   8,R,D,X
-   5,R,J,G
-   8,R
+   7,R,D,X
+   1,R,K,G
+   9,R
   40
-
-
-#lvl_beach2
-
-   4,R
+   1,R
    1,R,J
   14,R
    1,R,J
-  14,R,D,X
+  13,R,D,X
    1,S
    1,D,J
   34
-   5,R,J
-   2,R
-  11,R,Z
-   1,J
-   6,L,D
-
-
-#lvl_house-entrance-B
-
-   1,L
+   7,R,J
+  14,R,Z
+   1,L,J
+   9,L,D,X
    1,S
    1,D,J
   34
-  16,L,D
-  10,L,X
+   2,L,K
+  10,L
    2,L,J
-   3,L,K,G
-  13,L,U,X
-   5,L,J,G
-   8,L
-   6,L,J
-   2,L
-  11,L,D,X
+   6,L,K,G
+   3,L
+  12,L,D,X
    1,S
    1,D,J
   34
-   7,L,D
-  18,D,X
+   6,L
+   3
+  15,D,X
+   3,D
   40
 
-
 #lvl_gallery-5
-
   90,D
   40,L,D
    3,D
@@ -710,9 +663,7 @@ endrepeat
    9,L,D
   40
 
-
 #lvl_gallery-4(0)
-
    1,L,D
    1,D
    1,L,D
@@ -758,15 +709,11 @@ endrepeat
   33,L,D,X
   43
 
-
 #lvl_gallery-1
-
    6,U,X
   43
 
-
 #lvl_gallery-4(1)
-
    1,S
    1,D,J
    1,O
@@ -810,9 +757,7 @@ endrepeat
    4,R,J
   43
 
-
 #lvl_gallery-7
-
    4,R,J
   19,R
    1,R,J
@@ -867,9 +812,7 @@ endrepeat
    6,R,D,X
   40
 
-
 #lvl_gallery-8
-
    8
    1,R,J
   14,R,D,X
@@ -899,9 +842,7 @@ endrepeat
    5,R
   40
 
-
 #lvl_gallery-9
-
    1,R
    6,R,D,J
    5,R
@@ -940,9 +881,7 @@ endrepeat
    6,R,K
   40
 
-
 #lvl_gallery-10
-
   12,R
   12,R,Z
    1,R,J
@@ -1009,9 +948,7 @@ endrepeat
    5,L,J
   40
 
-
 #lvl_gallery-8-filler
-
    6,L,J
    7,L
    2,L,J
@@ -1071,9 +1008,7 @@ endrepeat
   10,R,D,X
   40
 
-
 #lvl_gallery-6
-
    4
    1,R,J
   14,R,D,X
@@ -1095,9 +1030,7 @@ endrepeat
   16,R,D
    1,L,D
 
-
 #lvl_chase-1
-
  261,D
   12,J
  232,U,X
@@ -1107,9 +1040,7 @@ endrepeat
   38,R,D
   40
 
-
 #lvl_chase-2
-
    6,L,D
   27,R,D
    4,Z
@@ -1192,9 +1123,7 @@ endrepeat
    8,J
   40
 
-
 #lvl_chase-3
-
   11
  100,U,X
    1,J
@@ -1225,9 +1154,7 @@ endrepeat
    2,R,J
   40
 
-
 #lvl_chase-4
-
   11,R
   10,R,X
    4,J
@@ -1303,9 +1230,7 @@ endrepeat
   14,U,X
   40
 
-
 #lvl_chase-5
-
   18,R,J
    3,R,K,G
    7,R,Z
@@ -1345,9 +1270,7 @@ endrepeat
    9,R
   40
 
-
 #lvl_chase--before-boss
-
    5,R
    1,R,J
    4,R
@@ -1357,9 +1280,7 @@ endrepeat
   34
    8,L,D
 
-
 #lvl_chase-boss
-
   22,D
    5,L,J
   14,L
@@ -1401,16 +1322,18 @@ endrepeat
   28,R,D
    4,Z
    1,R,J
-   7,R
-   3,L,D,J
-   7,R,J
+   8,R
+   1,D,J
+   3,R,D,J
+   4,L,J
   15,U,X
-   8,L
-  25,R,D
+  22
+  12,R
   12
-  20,L,D,X
+  15,L,D,X
+   4,L,D
    1,L,J
-  31
+  33
   20,U,X
   25,R,D
    5,R
@@ -1418,11 +1341,9 @@ endrepeat
    1,R,J
    6,R
    1,R,J
-   4,X
-
+   4,R,D,X
 
 #lvl_chase-after-boss
-
   10,R,D
    1,S
    1,D,J
@@ -1434,7 +1355,6 @@ endrepeat
   40
 
 #lvl_chase-end
-
    5
    1,R,J
   14,R,D,X
@@ -1488,13 +1408,11 @@ endrepeat
   14,R,D
   40
 
-
 #lvl_end
-
   15,R,D,X
    1,R,J
    8,R
   14,R,U,X
  135
 
-ChapterTime: 3:38.926(12878)
+ChapterTime: 3:37.804(12812)
