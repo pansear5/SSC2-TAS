@@ -1,4 +1,4 @@
-RecordCount: 396
+RecordCount: 447
 
 console load SecretSanta2023/0-Lobbies/0-Prologue
    1
@@ -33,15 +33,18 @@ console load SecretSanta2023/0-Lobbies/0-Prologue
   16,U,X
   10,R,J
    8,J
-  12,K,G
-   7,J,G
+  11,K,G
+   1
+   1,R,J,G
+   3,L,J
+   3,R,J
    1
    1,J,G
-   9,R
-   1
-   1,J
+   7,R
+   1,R,J
+   1,R
   15,U,X
-   3,L
+   1,L
    2,L,J
  136,J
   16,L,D,X
@@ -57,8 +60,8 @@ console load SecretSanta2023/0-Lobbies/0-Prologue
    1,L,J
   11,L
    1,N
-   1,S
+   1,S,N
    1,D,J
   18
 
-ChapterTime: 0:06.579(387)
+ChapterTime: 0:06.511(383)
