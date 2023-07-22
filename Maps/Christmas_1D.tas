@@ -1,4 +1,4 @@
-RecordCount: 2637
+RecordCount: 3663
 
 console load SecretSanta2023/2-Medium/LegS
    1
@@ -67,29 +67,31 @@ endrepeat
    1,R
   22,R,Z
   20,D
-  10,L,Z
-   4,R,J
+  12,R,Z
+   1,R,J
    1,R
-  12,R,J
-   6,U,X
+   6,R,J
+   3,R
+   3
+   1,G
+   1,L,J
+   7,L,K
    1,R,J
-   5,R
-   1,J,G
+   3,R,K
+   7,R
+   4,R,Z
+   4,R,J
+   3,J
    1
-  12
-   4,Z
-   1,R,J
-   4,J
-   1,J
   40
 
 #lvl_Ch1D-3
-   1
-   2,J
-  13,D
-   3,R,D
+   1,R
+   1,R,J
+  16
   12,R,D,X
-  25,R,J
+  24,R,J
+   1,J
   14,U,Z
   12,L,J
    9,R,J
@@ -117,6 +119,32 @@ endrepeat
    1
    4,R
    8,U,X
+#frametie
+#   1,R,J
+#   1,R
+#   1,R,J
+#  14,R
+#   5,R,Z
+#   1,R,J
+#   7,R
+#   3,R,J
+#  14,R,Z
+#   1,R,J
+#  10,R,D,X
+#  40
+#   1,R,J
+#   7,R
+#   1,R
+#   5,R,D
+#   9,R,D,J
+#   2,R
+#   3,R
+#   1
+#   1,R,J,G
+#   1,L,J
+#   3,R,J
+#   1,R,K
+#   4,R,Z
    1,J
    1,K
 
@@ -239,36 +267,30 @@ endrepeat
    1,L,D,J
    2,L
    2
-  30
-   1,J
-   1,L
-   2,L
-   1
-   1,L,D
-   3,R,D
-   1,L,D
    1,L,J
-   1,R,K,G
+   2,L
+  13,R,D
+   8,D,G
+   1,G
+   1
+   1,K
+   1,R,J,G
+   8,L,J
+   1,L
+   5,L,J
+   1,L,K
+  10,L,J
+  15,U,X
+  10,L
+   4,L,Z
    1,L,J
    6,L
-   1,R,J,G
-   5,L,J
-   8,L
-   1
-   1,J
-   1,L
-  15,U,X
-   1,L
-   1,L,K,G
-   8,L
-   4,Z
-   1,L,J
-   3,L
   40
 
 #lvl_a05
-   7,L
-  11,D,X
+   5,L
+   1,L,J
+  12,D,X
   29,L
    1,G
   15,D,X
@@ -338,23 +360,20 @@ endrepeat
   10,R
   15,D,X
   12,R,D
-   6,D
-   1,R,D
-   6,L,Z
+   5,R,D
+   2,D
    1,R,J
-   4,R
+   2
+   5,R,Z
    1,R,J
-   2,R
-   1
-   9,R,D,X
+  10,R
   40
 
 #lvl_a07
-   4
+  10,R,D,X
    7,R,J
-   2,R
-   2,R,K,G
-   6,R
+   3,R,K,G
+   4,R
   14,R,Z
    1,R,J
    6,R
@@ -520,8 +539,7 @@ endrepeat
    4,L,J
    7,L
    1,G
-  33
-   3
+  36
    8,R
   15,L,Z
   19,L,G
@@ -534,53 +552,45 @@ endrepeat
    5
    3,L
    1
-   1,L
-  15,L,D
-   1,L,J,G
-   2,L
-  10
-  15,D,X
-   4,R
-  13,L,C
-   5,L,J
-   8,L,U,X
+   1,L,J
+  33,L,D,X
+   5,L,C
+   1,L,J
+  18,L
+   2,L,J
+   5,L,U,X
   40
 
 #lvl_0-D1hC
+  26,L,U,X
+  29,L,U,Z
+  61,L,J
+   1,G
+   1,R,J
+  22,L,J
   10,L
-   2,L,J
+   2
    4,L
-   1,K
-   1,J
-   1,L
-  16,L
-  13,L,U,Z
-   1,R
-   5,J,G
-  52,L,J
-   6
-  18,G
-   1
-   1,J
-  25,L,J
-  10,L,D
-  15,D,X
-  15,D,C
+   1,L,K,G
+   1,L,J,G
+   7,L,D
   15,L,D,X
+Repeat 2
   15,D,C
   15,D,X
+EndRepeat
    8,J
   15,D,X
+Repeat 2
   15,D,C
   15,D,X
-  15,D,C
-  15,D,X
+EndRepeat
    3,J
-  15,D,X
+Repeat 2
   15,D,C
   15,D,X
-  15,D,C
-  12
+EndRepeat
+  14
    1,J
   27,L,D,X
    1,R,J
@@ -588,4 +598,5 @@ endrepeat
   36,R,Z
    1,J
  127,U,Z
-ChapterTime: 1:07.490(3970)
+
+ChapterTime: 1:07.082(3946)
