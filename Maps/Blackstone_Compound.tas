@@ -1,4 +1,4 @@
-RecordCount: 1890
+RecordCount: 2925
 
 console load SecretSanta2023/2-Medium/skqw
    1
@@ -6,7 +6,6 @@ console load SecretSanta2023/2-Medium/skqw
 #Start
 
   69
-
 #lvl_00
 
    7,R,Z
@@ -39,7 +38,6 @@ console load SecretSanta2023/2-Medium/skqw
    7,R,J
    5,R,D,X
   40
-
 
 #lvl_01
 
@@ -85,32 +83,31 @@ console load SecretSanta2023/2-Medium/skqw
    1,R,J
   40
 
-
 #lvl_02
 
    4,R
   15,R,D,X
    1,J
-   4,R,J
-   3,J
-  14,R,U,X
-  21,R,G
+   5,U,C
+  13,R,J
+  13,R,J,G
+   9,R,K,G
    1,R
-  25,R,D
-  10,R,X
-   8,R,J
-  14,R,U,X
-   3,R,J,G
-   6,R
-   1
-   3,J
+   5,R,D,X
+  18,R,D
+  11,R,J
+   5,R,U,X
+  16,R
+   3
+   2,L,J
+   1,R,J
    6,R,X
   13,G
    1,R,J,G
    3,D,G
-  15,R,D,G
-  28,R,G
-  12,R
+  13,R,D,G
+  31,R,G
+  11,R
   15,R,Z
    4,R,J
   10,R
@@ -146,7 +143,6 @@ console load SecretSanta2023/2-Medium/skqw
    1,R,J,G
    6,R
   40
-
 
 #lvl_03
 
@@ -195,7 +191,6 @@ console load SecretSanta2023/2-Medium/skqw
    8,R,D,X
   40
 
-
 #lvl_04
 
   15,R,D
@@ -230,13 +225,13 @@ console load SecretSanta2023/2-Medium/skqw
   14,R
   15,D,X
    4,Z
-   8,R,J
-  16,R
-  21,R,U,X
-  18,D
+  12,R,J
+  10,R
    2
-   2,D
-   1,L,D
+   9,L,X
+   1,R,J
+   7,L,J
+  23,L
    4,Z
   13,R,J
   12,R,K,G
@@ -260,7 +255,6 @@ console load SecretSanta2023/2-Medium/skqw
    2,J
   40
 
-
 #lvl_05
 
    4,R,J
@@ -273,17 +267,23 @@ console load SecretSanta2023/2-Medium/skqw
   15,R,D
    1,R
    9
-   5,R,Z
+   1,R,D
+  14,R,Z
    1,R,J
-   1,R,K
    3
+   1,R,K
    1,R,J
-  10,R,K
-  46,R,J
-   1,J
-  16,R,Z
-  18,R,J
-  15,R,X
+   6,R,K
+  12,R,J
+   5,R
+   6,R,J
+   1,R
+   1,R,J
+  16,R,D
+   5,R,Z
+  10,R
+  19,R,J
+  14,R,X
    1,R,J,G
    2
    1,J,G
@@ -307,10 +307,8 @@ console load SecretSanta2023/2-Medium/skqw
   22,R,D
    8,R,J
   28,R,D
+   1,R,D
    2,R
-  12,G
-   7
-   1,G
   14,R,Z
   11,R,J
    3,R
@@ -327,14 +325,12 @@ console load SecretSanta2023/2-Medium/skqw
   12,R,D,X
   40
 
-
 #lvl_06
 
    3
   24,R,D,J
   15,R,U,X
    1,R,D
-
 
 #lvl_r6
 
@@ -356,7 +352,6 @@ console load SecretSanta2023/2-Medium/skqw
    4,L
   40
 
-
 #lvl_r5
 
    2,L
@@ -374,14 +369,18 @@ console load SecretSanta2023/2-Medium/skqw
   24,L,D,X
    4,L
    8,U,Z
-  14,L,J
-  15,U,X
-  34,L,D
-   1,L
-   1,L,D
-   1,L
+   9,L,J
+   4,J
+   8,U,Z
+   1,J
+   8,R,J
+   9,R
+   1
+  23,L,D
+   2,D
   14,L,Z
-   5,L,J
+   4,L,J
+   1,L
    1,L,K,G
    9,L
   33,L,J
@@ -391,12 +390,12 @@ console load SecretSanta2023/2-Medium/skqw
    1,L
   21,L,Z
   26,L,U,X
-   6,L,J,G
-   5,R
-   9
+   4,J,G
+   2,R,J,G
+   1,R
    5,L,X
-   1,L,J,G
-   9,L
+   2,L,J,G
+  12,L
   30,L,D,X
   17,L,Z
    1,L,J
@@ -419,7 +418,6 @@ console load SecretSanta2023/2-Medium/skqw
   15,L
   13,L,Z
   40
-
 
 #lvl_r4
 
@@ -454,7 +452,6 @@ console load SecretSanta2023/2-Medium/skqw
    2,L
   40
 
-
 #lvl_r3
 
    9,L
@@ -471,80 +468,72 @@ console load SecretSanta2023/2-Medium/skqw
    6,J
    7,R,X
    1,L,J
-  39,L,D
+   8,L,K
+   5,L
+   1,L,J
+  46,L
   14,L,Z
-  34,L,J
-  13,L,K,G
+  22,L,J
+  12,L,K,G
+   6,L,J,G
+   7,L
+   9,L,J
+   5,L
+   1,L,J
+   4,L
    1,L,J,G
-   4,R,J
-   5,L,J
-   2,L
-   1,L,K,G
+   8,L,K,G
+  19,L,D
+   2,L,J
+  42,L,D
+   7,D
+  16,L
    1,L,J,G
-   9,L
-   8,L,J
-   1,L
+   4,R,J,G
    1,L,K,G
    2,L,J,G
-  11,L
-  11,L,J
-   9,L,D
-   1,D
-  13,L,D
-  23,R,D
- 119,G
-  13,D
-   1,L,D
-  28,L
    1,J,G
-   1,R,J
-   1,L,K,G
-   1,L,J,G
-   5,L,K,G
-  14,L,D
-   2,D
-   1,L,D
-   1,J
-  23,L,D
-   8,L,Z
+  16,L,J,G
+  19,L
+   4,D
+   1
+  36,L,J
+   7,L,D
+  14,L,Z
    1,L,J
    1,L,K
+   9,L
+  19,L,J
+  30,L,U,K,G
+   1,R
+  22,L,J
+   5,L,U,Z
+  11,L
+   1,R
+   1,J,G
+  26,L,D
+  14,L,Z
    1,L,J
    1,L,K
-  19,L,D
-  17,L,J
-  24,L,U,J,G
-   1,R,J
-   4,L,J
-   3,L
-   1,L,J
-  15,L
-  13,L,U,X
-   1,R,J,G
-   5,R
-  17,L,D
-  13,L,Z
-   1,L,J
-   1,L,K
-  14,L,D,X
+  16,L,D,X
   40
-
 
 #lvl_r2
 
-   4,L,D
-   2,L,J
+   2,L,D
+   1,L,J
+   3,L
   12,L,D,X
-   3,L,J,G
+   2,L,J,G
   33,L,K,G
   19,L,G
    1,R
-   8,L
-   1,L,D
+   7,L
+   2,L,D
    6,L,J
    5,L
    2,L,J
-   8,L
+   9,L
    1,L,D,J
    4,L
   13,D,X
@@ -574,7 +563,6 @@ console load SecretSanta2023/2-Medium/skqw
    1,L,J
    2,L
   40
-
 
 #lvl_r1
 
@@ -621,7 +609,6 @@ console load SecretSanta2023/2-Medium/skqw
    9,L
   40
 
-
 #lvl_r0
 
    2,L
@@ -637,7 +624,6 @@ console load SecretSanta2023/2-Medium/skqw
   12,U,X
   40
 
-
 #lvl_rend
 
    7,L
@@ -650,4 +636,4 @@ console load SecretSanta2023/2-Medium/skqw
  135
 
 
-ChapterTime: 1:21.158(4774)
+ChapterTime: 1:19.271(4663)
