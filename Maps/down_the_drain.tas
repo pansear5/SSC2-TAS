@@ -1,4 +1,4 @@
-RecordCount: 3115
+RecordCount: 3259
 
 console load SecretSanta2023/1-Easy/DanTKO
    1
@@ -373,43 +373,25 @@ Endrepeat
    1,R,K,G
    5,R,J,G
   16,R
-#  12,R,K,G
-#   5,R,J,G
-#   7,R
-#   1,R,J
-#  14,R
-#   1,R,J
-#  24,R,D
-#   1,R,J
-#  16,R
-#   1,R,J
-#  14,J
-#   5,K
-#  11,R,J
-#   1,J
-#   1,R,K,G
-#   3,R,J,G
-#  18,R
    1,R,N
    1,S
    1,D,J
   34
-   1,R
-   4,R,J
-   7,R
-   3
+   6,R
+   5,R,J
+   3,R
    1,R,J,G
    1,R,K,G
-  19,R
+  14,R
   31
    1,R,J
-   1,R
+   1,R,K
   43
 
 #lvl_a-08(0)
-   4,R
-  10,R,J
-  18,R
+   3,R,K
+   6,R,J
+  14,R
   74
    3,R,J
    8,L,K
@@ -598,34 +580,6 @@ EndRepeat
    1,L,J,G
    8,L,K,G
   19,L
-#   7,L
-#   1,L,J
-#   7,L,J
-#  14,L
-#   9,L,J
-#  16,L
-#   1,L,J
-#  11,L
-#   3,L,J
-#   3,L
-#   9,L,J
-#  15,L,K
-#  45
-#  10,L
-#   2,L,J
-#   3,L
-#   5,L,J
-#   8,L
-#   3,L,J
-#   6,L,K
-#   6,J
-#  12,R,K,G
-#   7,R,J,G
-#  13,L,K
-#   1,L,J,G
-#  14,L
-#   1,L,J
-#  14,L
   43
 
 #lvl_b-02(0)
@@ -644,40 +598,67 @@ EndRepeat
    2,R,J
   11,R
    3,R,D
-  16,L
-  17
-  10,L
-   1,L,D
-   4,L
-   1,D
-   1,L
-   8,L,D
-   5,L
-   1,U
-   5,L
-   1,D
-Repeat 5
-   4,L
-   1,D
-EndRepeat
-   2,L
+  20,L,D
+  23,L
+   6,D
+   9,L
    1,L,J
-  10,R,K,G
-   6,R,J,G
-  13,L,K
-  12,R,J
-   2,K
-  10,L,K
-   1,L,J,G
+   3,L
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   1,L,J
+   6,L
+   9,R,J,G
+  11,L,K
+  11,R,J
+   9,R,K,G
+   2,J
+  11,L,J
    1,L,K,G
+   1,L,J,G
    5,L
-   1,L,J
-  14,L
-   9,L,D
+   2,L,J
+  22,L,D
    1,L,J
   14,L
    1,L,J
    8,L
+
+#  10
+#  10,L
+#   1,L,D
+#   4,L
+#   1,D
+#   1,L
+#   8,L,D
+#   5,L
+#   1,U
+#   5,L
+#   1,D
+#Repeat 5
+#   4,L
+#   1,D
+#EndRepeat
+#   2,L
+#   1,L,J
+#  10,R,K,G
+#   6,R,J,G
+#  13,L,K
+#  12,R,J
+#   2,K
+#  10,L,K
+#   1,L,J,G
+#   1,L,K,G
+#   5,L
+#   1,L,J
+#  14,L
+#   9,L,D
+#   1,L,J
+#  14,L
+#   1,L,J
+#   8,L
   43
 
 #lvl_b-03(0)
@@ -799,13 +780,14 @@ EndRepeat
   12,L,J,G
    8,L
    1,L,J
-  14,L
-   1,L,J
-   4,L
-   1,L,J,G
-  16,L
-   1,L,J
   15,L
+   1,L,J
+   3,L
+   1,L,J,G
+   1,L,K,G
+   4,L
+  10,L,J
+  12,L
  162
 
 #lvl_a-01(2)
@@ -1621,4 +1603,4 @@ EndRepeat
    6,U,X
  135
 
-ChapterTime: 4:31.949(15997)
+ChapterTime: 4:31.252(15956)
