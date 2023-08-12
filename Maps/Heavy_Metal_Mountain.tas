@@ -1,12 +1,10 @@
-
 # SecretSanta2023
 # https://gamebanana.com/mods/452173
 
-RecordCount: 6213
+RecordCount: 7527
 
 console load SecretSanta2023/2-Medium/xolimono
    1
-
 #Start
 #lvl_Trailhead
 #spinner cycle in lvl_Rusty Machinery
@@ -33,6 +31,7 @@ console load SecretSanta2023/2-Medium/xolimono
   40
 
 #lvl_Outskirts
+
    2,R
    1,R,J
    2,J
@@ -55,6 +54,7 @@ console load SecretSanta2023/2-Medium/xolimono
   40
 
 #lvl_Mine Entrance
+
    2,R
   15,R,D,X
   16,R,J
@@ -65,47 +65,46 @@ console load SecretSanta2023/2-Medium/xolimono
    5,R,Z
   10
   11,R
-  15,R,D,X
-   1,L
-   4,L,J
-   8,L,D,X
+  12,R,D,X
    1,R,J
-   6,R
-   1
-   2,R,D
+   5,R
+  13,L,Z
    1,R,J
-  12,R
-  12,R,U,X
-   7,R,J,G
-  42,R
+   3
+   4,R
+   1,R,D
    1,R,J
-   9,R,D,X
+   5,R
+   6,R,J
+  10,R,U,X
+   4,R,J,G
+  40,R
+   1,R,J
+   5,R,D,X
+   3,R,D
    1,S
    1,D,J
   34
-   6,R,J
+   5,R,J
    8,R,K,G
   40
+
 #lvl_Short Fuse
-   3,R,J
-   1,J
-  12,R,J
-   4,R,K,G
-   7,R
-  11,R,J
+
+   6,K,G
+   8,R,K,G
+   4,R,J,G
+   6,R
+  10,R,J
   15,U,Z
    1,L,J,G
    8,G
-   4,L
-   1,G
-   1
-   8,G
-   1,U,G
+   5
+  10,G
    1
    1,K
    8,R,J
-   5,R
-  37,R
+  42,R
   14,R,Z
    1,R,J
    6,R
@@ -118,7 +117,9 @@ console load SecretSanta2023/2-Medium/xolimono
    1,R,J
    6,R,D,X
   40
+
 #lvl_Mineshaft
+
    7
    1,R,J
    7,R
@@ -166,7 +167,9 @@ console load SecretSanta2023/2-Medium/xolimono
    2,R,J
    5,R,U,X
   40
+
 #lvl_Strike Gold
+
    9,L
    6,J,G
    2
@@ -184,7 +187,6 @@ console load SecretSanta2023/2-Medium/xolimono
    5,D
   11,R,Z
    1,L,J
-
    6,L
    1,L,J
    2,L
@@ -196,7 +198,9 @@ console load SecretSanta2023/2-Medium/xolimono
    2,L,J
    5,L,U,X
   40
+
 #lvl_Mineshaft_b
+
    9,R
    2,K,G
   11,L,K
@@ -208,7 +212,9 @@ console load SecretSanta2023/2-Medium/xolimono
   14,U,X
    9,R,J
   40
+
 #lvl_Pushback
+
   11,R,J
   11,K,G
   10,R,X
@@ -235,7 +241,9 @@ console load SecretSanta2023/2-Medium/xolimono
    1,L,J
    2,L
   40
+
 #lvl_Mechanical Chasm
+
    3,L
   10,L,X
    7,L,J
@@ -252,23 +260,18 @@ console load SecretSanta2023/2-Medium/xolimono
   12,R,J
    7
   13,R,K
-  57,L,D
+   5,L,X
+   5,L
+  10,L,J,G
+  41,L
   14,L,Z
-   7,L,J
-   4,L
-  14,L
-  30,L,U,X
-   2
-   1,L
-   4,L,Z
-   1,L,J
-   2,J
-   3,L,K,G
-   1,L
-   2,L,J,G
-   7,L
+  19,L,J
+  21,L,X
    2,L,J
-   2,L
+   5,L,K,G
+   5,L,Z
+   1,L,J
+   7,L
    2,L,J
   15,U,X
   18,R,J
@@ -284,7 +287,9 @@ console load SecretSanta2023/2-Medium/xolimono
    4,L,J
   11,U,X
   40
+
 #lvl_Interlude 1
+
    4,L
   14,R,J
    9,R
@@ -292,14 +297,18 @@ console load SecretSanta2023/2-Medium/xolimono
   10,R
   10,R,J,G
    7,R
-   1,G
-  10,J,G
-   1,K,G
-   4,L,K
-   8,L
-   1,L,J
-  15,L,K
-  31,L,U,X
+  22,U,G
+   1
+   1,K
+   1,R,J,G
+   4,L,J,G
+   1,R,J,G
+  15,U,X
+   3,R
+   1,L
+   5,J,G
+   2
+   6,L
   10,L,C
    7,L,J
    1,K
@@ -321,7 +330,9 @@ console load SecretSanta2023/2-Medium/xolimono
    6,L
    1,L,J
   40
+
 #lvl_Rusty Machinery
+
   14,L,D,X
    4,L,J
    2
@@ -343,7 +354,9 @@ endstunpause
    3,L,J,G
    7,L
   40
+
 #lvl_Heavy Machinery
+
    3,L
    2,L,J
    9,L
@@ -367,7 +380,9 @@ endstunpause
    5,L,K,G
    8,L
   40
+
 #lvl_Freight Elevator
+
    4,L
    6,L,D,J
    4,L
@@ -404,7 +419,9 @@ endstunpause
   25,U,G
   13,R,J
   40
+
 #lvl_Mountain Pass
+
    5
    2,L
    4,R
@@ -431,7 +448,9 @@ endstunpause
    6,R,J
    2,R
   40
+
 #lvl_Interlude 2
+
    3,R
    4,R,J
    1,R
@@ -458,7 +477,9 @@ endstunpause
    5,R,K,G
   17,R,D,X
   40
+
 #lvl_Mining Camp
+
    2,R,J
    5,R
    1,R,J
@@ -498,7 +519,7 @@ endstunpause
    9,R
 #spinner cycle in lvl_High Pressure
 #0-2
-   0
+   1
 #-----------------
    3,R,D,J
    7,R,K,G
@@ -543,7 +564,9 @@ endstunpause
    4,R
   11,R,D,X
   40
+
 #lvl_Interlude 3
+
    7,R
    1,R,J
    1,J
@@ -553,7 +576,9 @@ endstunpause
    3,R,J,G
   13,R
   40
+
 #lvl_High Altitude
+
    6,R
    1,R,J
    1,J
@@ -569,35 +594,31 @@ endstunpause
    3,R,J
    8,R
    1,G
-  34,G
-   1,J
-   3,L,J
-   5,R,X
+  44,G
    1,R,J,G
-   9,R
-   1,R,J
    1,R
-   7,R
-  15,R,X
-  14,L,D,Z
-   1,R,J
-   5,R,D,X
-   3,R,J,G
-   6,R
-   1,R,J
-   4,R
-   4,R,J
-  40
-#lvl_Lit Fuse
-   6,R,J
-   6,R
-  14,R,Z
-   1,R,J,G
-   5,R
-  17,R,J
-   1,R
-   3,R,K
+   5,R,Z
+  10,R
+   4,Z
+   5,R,J
+   1,R,K,G
+  11,R,J,G
    3,R
+  40
+
+#lvl_Lit Fuse
+
+   2,R
+   5,R,D,X
+  10,R,D
+   2,R,J
+  14,R,U,Z
+   3,R,J,G
+  18,R
+   1,R
+   1,D,K
+   2,K
+   3
   12,L,D,X
    1,R,J
    5,R
@@ -611,7 +632,9 @@ endstunpause
    7,R
    5,R,D,J
   40
+
 #lvl_High Pressure
+
    7,R,J
    7,R
   14,G
@@ -636,7 +659,9 @@ endstunpause
   14,U,X
   16,L,J
   40
+
 #lvl_Cliff Face
+
    1,L
    1,J
    9,R
@@ -690,7 +715,9 @@ endstunpause
    1,L,J
    1
   40
+
 #lvl_Windstorm
+
    2
    2,L
    5,L,J
@@ -718,12 +745,21 @@ endstunpause
    1,L,J
   33,L,K,G
   15,L,U,X
-  31,L,D
-   7,L,J
-  15,L,U,X
-  17,L
-  18,L,J
-   1,L,K,G
+  28,L,D
+   1,L
+   1,R
+   1,R,D
+   6,R,Z
+   1,L,J
+   6,L
+   2,L,J
+  14,L,U,X
+   2,L,J,G
+   7,L
+   1,L,J
+   1,L
+  14,L,K
+   2,L,J,G
    5,L,Z
    1,L,J
    5,L,K,G
@@ -732,7 +768,9 @@ endstunpause
    6,L,J
    1,L
   40
+
 #lvl_Shelter
+
    9,L,D,X
    1,L,J,G
    1,L
@@ -760,9 +798,7 @@ endstunpause
    1
    1,J
    5,L,J
-   1,L
-   2,L
-  25,L
+  28,L
   15,L,U,X
   14,L
    6,R
@@ -779,18 +815,20 @@ endstunpause
    1,L,K,G
    3,L,J,G
   10,L,D
-   1,L,J
-   9,L,U,X
+   3,L,J
+   6,L,D,X
    1,L,J,G
    1,L,K,G
-   1,L,K
    1,L,J,G
-   2,L,J
-   3,L,K,G
-  17,L,D
+   4,L
+   1,L,J,G
+   1,L,K,G
+  18,L,D
   40
+
 #lvl_Final Ascent
-   2,L,J
+
+   1,L,J
   11,L
   14,L,D,X
   37,L
@@ -831,7 +869,6 @@ endstunpause
    2,L
    1,D
    2,L,D
-   
   19,L,J
    1,K
    6,L,K
@@ -844,7 +881,9 @@ endstunpause
   16,U,X
  307
   40
+
 #lvl_Summit
+
   72
   10,L,X
    5,L,J
@@ -954,4 +993,4 @@ endstunpause
    9,L
   15,L,U,X
  135
-ChapterTime: 1:55.192(6776)
+ChapterTime: 1:54.019(6707)
