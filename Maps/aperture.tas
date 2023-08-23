@@ -9,6 +9,9 @@ console load SecretSanta2023/2-Medium/Phrog
 #Start
  108
 
+#spinner cycle [b04]
+   0
+
 #lvl_a00
    4,Z
    1,R,J
@@ -575,9 +578,6 @@ EndRepeat
    5,R
   12,R,J
   17,R
-#spinner cycle
-   0
-
   31,U,X
   15,R,C
    1,R
