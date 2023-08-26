@@ -1,4 +1,4 @@
-RecordCount: 3259
+RecordCount: 3345
 
 console load SecretSanta2023/1-Easy/DanTKO
    1
@@ -35,83 +35,80 @@ EndRepeat
    1,R,D
  154
    1,R,J
-  15,R
-Repeat 2
+   4,R
+   1,R,K
+  17,R
    1,R,J
   14,R
-EndRepeat
    1,R,J
-   5,R
+  13,R
   40
 
 #lvl_intro_02
-   9,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-  13,R,J
-  10,R,K
-   7,R
-   1,R,J,G
-   1,R,K,G
-  14,R
-   1,R,J
-  20,R
-   1,R,J,N
    1,S
    1,D,J
-  34
+  71,O
+   5,R
    1,R,J
-  15,R
-   1,R,J
-  36,R,D
-   1,R,J
-  16,R
-  68
-   1,R,J
-  11,R
+  14,R
+  10,R
+   2,R,D
+  36,R,J
+   2,R,D
+   1,R,K,G
+   1,R,J,G
+  14,R
    1,R,J
   14,R
    1,R,J
-  15,R
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  17,R
  102
    1,R,J
    1,R,K
   43
 
 #lvl_intro_03(0)
-  18,R
+  17,R
 Repeat 3
    1,R,J
   14,R
 EndRepeat
-   1,R,J
-  18,R
-   1,R,J
-  14,R
-   1,R,J
-   1,R
+   8,R,D,J
+  21,R
+   1,R,D
+   2,R
+   2,R,U,J
+   1,R,K
+   2,R,J,G
+   2,R
    1,R,K,G
-   1,R,J,G
-  12,R
-Repeat 3
+  10,R
    1,R,J
   14,R
-EndRepeat
-   4,R
-Repeat 5
    1,R,J
-  14,R
-EndRepeat
-   1,R,J
-  12,R
-Repeat 4
+  18,R
+Repeat 6
    1,R,J
   14,R
 EndRepeat
    1,R,J
-   1,R
+  11,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   6,R
   43
 
 #lvl_a-01(0)
@@ -126,14 +123,16 @@ Repeat 3
 EndRepeat
   10,R
    4,R,D,J
-   7,D
+   4,D
+   2,R,D
+   1,D
    1,R,J
    9,R
 Repeat 4
    1,R,J
   14,R
 EndRepeat
-   1,R,J
+   1,R,D,J
   13,R
   43
 
@@ -1593,9 +1592,7 @@ EndRepeat
    1,R,J,G
   12,R
   11,U,X
- 327
-   1,J
-   1,K
+ 329
   43
 
 #lvl_intro_03(2)
@@ -1603,4 +1600,4 @@ EndRepeat
    6,U,X
  135
 
-ChapterTime: 4:31.252(15956)
+ChapterTime: 4:29.773(15869)
