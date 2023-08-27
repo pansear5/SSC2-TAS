@@ -1,14 +1,12 @@
-RecordCount: 2327
+RecordCount: 2389
 
 console load SecretSanta2023/3-Hard/Appels
    1
 
 #Start
-
  214
 
 #lvl_From Nothingness
-
    4,Z
    1,R,J
    7,R
@@ -22,7 +20,6 @@ console load SecretSanta2023/3-Hard/Appels
 
 
 #lvl_Origin Point
-
    5,R,C
   12,R,J
    6,R
@@ -53,9 +50,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,N
  155
 
-
 #lvl_Familiarity
-
   10,L,D,C
    2,R,J
   11,R,D
@@ -118,9 +113,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,X
  155
 
-
 #lvl_Complexity Born
-
    5,L,Z
    1,R,J
   13,D
@@ -187,9 +180,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,X
  155
 
-
 #lvl_In the Midst
-
   10,L,X
    6,R,J
    4,R
@@ -227,9 +218,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,X
  155
 
-
 #lvl_Chamber of Life
-
    5,L,U,X
    1,R,J
    8,R
@@ -242,9 +231,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,N
  155
 
-
 #lvl_Open Frame
-
   10,L,Z
    1,R,J
    7,R
@@ -311,9 +298,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,N
  155
 
-
 #lvl_Chamber of Death
-
    5,R,D,X
    1,L,J
    7,L
@@ -335,9 +320,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,X
  155
 
-
 #lvl_Travellers' Chain
-
    2,J
    3,R,J
   15,L,U,X
@@ -402,10 +385,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,N
  155
 
-
 #lvl_Lake of Rebirth
-
-
    5,J
    3,R,J
    1,J
@@ -437,7 +417,6 @@ console load SecretSanta2023/3-Hard/Appels
  155
 
 #lvl_Spiral of Hell
-
    1,L
   10,R,X
    8,J
@@ -510,9 +489,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,X
  155
 
-
 #lvl_Warring Natural Laws
-
   14,L,X
    1,R,J
   14,U,X
@@ -533,9 +510,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,X
  155
 
-
 #lvl_View from Within
-
    9,L,Z
    1,R,J
    1
@@ -602,15 +577,11 @@ console load SecretSanta2023/3-Hard/Appels
    1,N
  155
 
-
 #lvl_Pit of Deceit
-
    1,X
  155
 
-
 #lvl_Freedom and Captivity
-
   10,R,X
    5,J
   15,R,U,X
@@ -646,35 +617,26 @@ console load SecretSanta2023/3-Hard/Appels
    6,R
    9,L,U,Z
    1,R
-   8,L
-   9,L,J,G
-   7,L
-  11
-  15,U,Z
-  60,D,X
-   4,L,D
-  18,D
-   1,L,D
-   1,D
-   7,R,D
-   9,D
-   4,L
-   1,L,G
+   6,L,J,G
+  10
+  27,U,G
+  11,L
    5
-  15,R
-   3,R,D
-   4,R
-   3,R,D
-  19,R,Z
-  14,R,D,X
+  50,D,X
+  16,L,D
+   2,L
+   3,R
    1,R,J
-   7
+  13,R
+   7,L
+  14,D
+  23,R
+  15,R,X
+  27,R,C
    1,N
  155
 
-
 #lvl_Eternity in Silence
-
   15,L,U,X
   14,L,U,Z
    1,L,J,G
@@ -700,10 +662,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,N
  155
 
-
 #lvl_The Dig
-
-
    6,R,Z
    1,L,J
    2
@@ -767,9 +726,7 @@ console load SecretSanta2023/3-Hard/Appels
    1,X
  155
 
-
 #lvl_Ascendants' Chamber
-
    5,R,Z
    1,R,J
    7,R
@@ -788,4 +745,4 @@ console load SecretSanta2023/3-Hard/Appels
   15,U,X
  135
 
-ChapterTime: 2:27.271(8663)
+ChapterTime: 2:27.390(8670)
