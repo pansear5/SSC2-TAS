@@ -1,4 +1,4 @@
-RecordCount: 1559
+RecordCount: 1573
 
 console load SecretSanta2023/3-Hard/goose
    1
@@ -272,6 +272,7 @@ console load SecretSanta2023/3-Hard/goose
    5,L,J
    5,R,U,X
   40
+
 #lvl_a_06
    9
   14,R,J
@@ -390,12 +391,12 @@ EndStunPause
   13,R,J
    5,R
   34,R,D,X
-   5,R,J
-  21,R
+   6,R,J
+  20,R
   13,U,X
    1,R,J
    1,R,K
-   8,D,X
+   9,D,X
   12,R,J
   26,R
   14,R,X
@@ -445,4 +446,4 @@ EndStunPause
    2,R
  135
 
-ChapterTime: 1:07.983(3999)
+ChapterTime: 1:08.000(4000)
