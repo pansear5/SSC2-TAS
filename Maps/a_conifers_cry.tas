@@ -1,4 +1,4 @@
-RecordCount: 1428
+RecordCount: 1438
 
 console load SecretSanta2023/1-Easy/Donker19
    1
@@ -666,11 +666,15 @@ endstunpause
    9,R,J
   15,R,D,X
    1,N
-   1,S
-   1,D,J
-  34
-  28,L
-  92
+
+Repeat 36
+   1,J
+   1,O
+endrepeat
+
+  15,L
+ 105
+
 
 #lvl_outro-1a
  678
@@ -765,5 +769,5 @@ endstunpause
   15,R,U,X
  135
 
-ChapterTime: 2:00.139(7067)
+ChapterTime: 2:00.751(7103)
 
