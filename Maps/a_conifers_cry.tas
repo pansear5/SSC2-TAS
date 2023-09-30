@@ -1,10 +1,14 @@
-RecordCount: 1429
+RecordCount: 1530
 
 console load SecretSanta2023/1-Easy/Donker19
    1
 
 #Start
  110
+
+##Spinner Cycle [frost-hike-0}
+   0
+##
 
 #lvl_intro-1
    1,S
@@ -193,6 +197,8 @@ console load SecretSanta2023/1-Easy/Donker19
    1,R,J,G
    6,R
   40
+
+#lvl_hike-7
   14,R,D,X
    2,R,J
    2
@@ -234,27 +240,24 @@ console load SecretSanta2023/1-Easy/Donker19
   11,U,Z
   12,L,J
    6,R,J
-  15,U,X
-   6,L,J
-  12,R,J
-   2,L,J
+  17,U,X
+  10,L,J
+   7,R,J
   15,U,X
    1,R
   34,L,J
    1,J
   12,K,G
    1,L,J,G
-   3,R,J
-   1,L,J
+   4,R,J
    1,L,K,G
-   2,L,J,G
-   9,L
+   1,L,J,G
+   7,L
    1,L,J
-   4,L
-  14,R,D,X
-  12,R,J
-   9,R
-  14,R,X
+   8,L
+  10,R,D,X
+  26,R,J
+  13,R,X
   22,R,J,G
    5,J
    4,K,G
@@ -316,16 +319,17 @@ console load SecretSanta2023/1-Easy/Donker19
 # 500,L,U,X
   25,R
    8,L,X
-stunpause
    2,L
-   8,L,J
+   1,L,J
+stunpause
+   7,L,J
   12,J
 skipinput 3 1
   15,U,X
    2,R
-   2,L,J
+   1,L,J
 endstunpause
-  13,L,J
+  14,L,J
   23,L
    5,R,D,X
    1,L,J
@@ -346,39 +350,20 @@ endstunpause
    4,L
   12,L,J,G
    4,L,K,G
-   9,L,J,G
-  12,L,X
-   1,R,J
-   2,R
+  17,L,J,G
   15,D,X
-   9,L
-  12,L,J
-   1,K
-   3,L,K
-  12,L,J,G
-   5,K,G
-   1,R,K
-   1,J
-  25,R,K
-  14,R,Z
-  28,R,J
-   6,J
-  11,K,G
-   1,L,K
-   3,J
-   5,L,J
-   4,R,J
-  11,K,G
-   1,L,K
+   4
+  14,R,C
+  27,R,K
+  25,R,J
+  25,R,U,X
+  12,J
+  12,R,K,G
   12,R,J,G
-   8,K,G
-   4,R,K
-   1,J,G
-   7,R,J
-   1,L,J
-   1,K
-  18,R,K
-   6,R,J,G
+  19,R,K,G
+   1,J
+  20,R,J
+  11,R,K,G
   40
 
 #lvl_frost-hike-3
@@ -627,13 +612,16 @@ endstunpause
   18,L,J
    9,J
   12,R,K,G
-   7,J,G
-  27,L
-   7,U,X
-  21,J
-   6,R,J
-  12,K,G
-  12,J
+   8,R,J,G
+  14,U,X
+   1,J
+   8,R,J
+   7,L,J
+   2,R,J
+  12,R,K
+  12,J,G
+  12,K
+   6,J
    2,K
   56
 
@@ -765,4 +753,4 @@ endstunpause
   15,R,U,X
  135
 
-ChapterTime: 2:00.139(7067)
+ChapterTime: 1:58.983(6999)
