@@ -1,10 +1,15 @@
-RecordCount: 138
+RecordCount: 833
 
 console load SecretSanta2023/3-Hard/Ecl1psed
    1
 
 #Start
  190
+
+#Spinner Cycle
+#0-2
+   1
+#------
 
 #lvl_0-intro
    5,L,D,X
@@ -44,7 +49,46 @@ console load SecretSanta2023/3-Hard/Ecl1psed
 
 # delayed ultra on blue, land on green, cb, ultra on purple
 # 167f to dream block @ 538 speed
-   8,G
+#   8,G
+#  11,L,Z
+#   6,L,J
+#   1,L
+#  12,L,D,X
+#   3,R,J
+#   9,R,K,G
+#  13,R,D,X
+#   5,R,J
+#   3,R
+#  15,R,D,X
+#   3,R,J,G
+#   5,R
+#   1,R,J
+#   5,R
+#   1,R,J
+#   1,J
+#   3,R,K,G
+#   2,K
+#   1,R
+#  18,R,D,X
+#   3,R,J
+#  14,R,X
+#   4,R,J
+#  16,R,K
+#  17,R,D,X
+#   1,R,J
+#   1,R
+#   1,R,K,G
+#   4,K
+#   4,R,K
+#  10,R,J,G
+#   4,R
+#  16,R,D,X
+#   6,R,J
+#  40
+
+#coyote jump instead of cb , get a faster speed
+#160f to dream block @590 speed
+   5,G
   11,L,Z
    6,L,J
    1,L
@@ -52,39 +96,39 @@ console load SecretSanta2023/3-Hard/Ecl1psed
    3,R,J
    9,R,K,G
   13,R,D,X
-   5,R,J
-   3,R
+   1,R,J
+   1,R,K,G
+   4,R
   15,R,D,X
-   3,R,J,G
-   5,R
    1,R,J
    5,R
+   4,R,J
+   2,R
    1,R,J
-   1,J
-   3,R,K,G
-   2,K
-   1,R
-  18,R,D,X
-   3,R,J
+   4,R
+   1,R,J,G
+   3,R
+  17,R,D,X
+   2,R,J
   14,R,X
    4,R,J
-  16,R,K
-  17,R,D,X
-   1,R,J
-   1,R
-   1,R,K,G
-   4,K
-   4,R,K
-  10,R,J,G
+  11,R,K
    4,R
-  16,R,D,X
-   6,R,J
-  40
-
-#lvl_1
-   5,R,J
-   9,R
+  15,R,D,X
+   1
    1,R,J
+   3,R,K,G
+   3,J,G
+   7,R,J
+   9,R,K,G
+  16,R,D,X
+   5,R,J
+  40
+ 
+#lvl_1
+#   5,R,J
+#   9,R
+#   1,R,J
 
 # gultra cancel, can grab at same frame
 #  14,R,D,X
@@ -92,11 +136,19 @@ console load SecretSanta2023/3-Hard/Ecl1psed
 #  10,R,K
 #   7,R
 #   1,G
-   2,R
-  14,R,U,X
+#   2,R
+#  14,R,U,X
+#   4,R,J
+#   5,R,K
+#  10,R
+
+   6,R,J
+   7,R
+  16,R,U,X
    4,R,J
-   5,R,K
-  10,R
+   6,R,K
+   7,R
+
   31,U,G
   34,G
    5,J
@@ -105,65 +157,76 @@ console load SecretSanta2023/3-Hard/Ecl1psed
    6,K
    1,J
   18
-  10,D
-  22,R
-   2
-   2,R,J,G
-   1,K
-   2,J,G
-  15,L,D,X
-   9,L
-   1,L,J
-   7
-  16,R
-   5,R,J
+   2,R,D
+   2,D
+   1,R,D
+   4,D
+   1,R,D
+  12,R
+   5,R,D
+   4,G
+   8,R,J
+   1,G
+   1
+   1,J,G
+   1,K,G
+  24,L,D,X
+   5,L,D,C
+   7,R
+  10,R,J
+   3,R
   14,R,U,X
-   3,R,K,G
-   1,K
-# colliding loses dashattack but we need to activate this gift. potential for speed conservation?
-  12,R,D,X
-   2,R,J
+   1,J,G
+   4,R
+   1,L
+  10,R,D,X
+   6,R,J
+  26,R,X
+   4,R,J
+   1,R,K
+   2,K
+  18,R,D,X
+  18,L,U,C
+  11,U,X
    1,R
-  20,R,X
-   4,J
-   1,R
-   6
-   4,J
-  17
-  17,L,U,X
-   1,R
-  11,U,C
-   1
-   1,K
-   1,R,J,G
-   1
+   1,J
+   2,R,K,G
 # 588.8 seems to be the max speed that can do a ddj after the dreamblock
-  16,L,D,X
+  17,L,D,X
    4,L,J
   15,L,D,X
    1,L
    3
-  33,R
-  13,R,Z
+  24,R
+  16,R,U,X
+   8,R,Z
    1,R,J
    7,R
-  13,R,J
-  14,U,X
-  14,R,J
+  11,R,J
+  14,U,Z
+  15,R,J
   40
 
 #lvl_2
-   1,R,K,G
+   3,R,K,G
    7
    1,G
-  14,U,X
+  15,U,X
   18,L,J
    1,K
   12,R,J
   12,L,K
-  12,R,J
-  10,L,K
-   2,L
+   8,L,J,G
+   6,L,K,G
+   1,J
+  11,R,K
+   1,R,J,G
+   5,R
+   2,R,J
+   1,R
+   1,R,N
+   1,R,J
+   2,R
 
 # stun skip
 #  10,R,J
@@ -237,26 +300,21 @@ console load SecretSanta2023/3-Hard/Ecl1psed
 #  11,R,D,X
 
 # get bino storage (953, +6f)
-  11,R,J
-   4,R
-   3,R,J
-   3,R
-   1,N
-   1,R,J
-   2
    6,R,D,X
    1,R,J
    7,R
    1,R,J
    4,R
   15,U,X
-  10
+   1,L,J,G
+   7
    1,L,G
   10,R
-   3
-   8,D
-   1
-   3,R
+   4
+   7,D
+   2,R
+   1,R,D
+   1,D
 
 
 # don't get bino storage (947)
@@ -345,62 +403,108 @@ console load SecretSanta2023/3-Hard/Ecl1psed
 
 #lvl_3
    4,R,J
-  17,R
+   9,R
+   2,R,J
+   6,R
   27,R,J
    6,R
    1,L
    1
-  20,D
-   7
-  17,R,D,X
-   1,R,J
-   9,R,D,X
-   8,R
-   1,G
-  10,L,D
-  14,D
+  25,D
+   1,R,D
+   9,R
+   1,R,J,G
   10,R,D
-   3,R
-   1,D
-  15,R,U,X
-  22,R
-  15,R,U,Z
-   5,R
-  15,U,X
-  23,R
-   1,G
-  17,R,Z
-  18,R,U,X
-  14,R,D,C
-   1,L,J
-  18,L,D,X
-  15,L,D,C
-   3,D
+  28,L,D
+   7,R,D
+   4,L
    1,L,D
-   2,L,J
    1,L
-  15,L,D,X
-  16,L,D
-  13,L,J
+   1,L,D
+  19,L,Z
+  12,R,D,X
+   1,L,J
+  12,L
+   5,U,Z
+   7,J
+StunPause
+   1,L,J
+  11,J
+SkipInput,3,1
   15,U,X
-  18,L,J
-   7,L,K,G
-   7,L
-  14,U,X
-  13,R,J
+EndStunPause
   40
 
+
+#   4,R,J
+#  17,R
+#  27,R,J
+#   6,R
+#   1,L
+#   1
+#  20,D
+#   7
+#  17,R,D,X
+#   1,R,J
+#   9,R,D,X
+#   8,R
+#   1,G
+#  10,L,D
+#  14,D
+#  10,R,D
+#   3,R
+#   1,D
+#  15,R,U,X
+#  22,R
+#  15,R,U,Z
+#   5,R
+#  15,U,X
+#  23,R
+#   1,G
+#  17,R,Z
+#  18,R,U,X
+#  14,R,D,C
+#   1,L,J
+#  18,L,D,X
+#  15,L,D,C
+#   3,D
+#   1,L,D
+#   2,L,J
+#   1,L
+#  15,L,D,X
+#  16,L,D
+#  13,L,J
+#  15,U,X
+#  18,L,J
+#   7,L,K,G
+#   7,L
+#  14,U,X
+#  13,R,J
+#  40
+
 #lvl_4
-  11
-  12,R,U,X
-  11,R,K,G
-   5,R
-   6,R,J
-   4,R,Z
+
+#  11
+#  12,R,U,X
+#  11,R,K,G
+#   5,R
+#   6,R,J
+#   4,R,Z
+#   1,R,J
+#   6,R
+#  12,R,J
+
+   1,S
+   1,D,J
+   1,O
+  68
+   6,L,D,X
    1,R,J
-   6,R
+   4,R
+   1,R,J
+   2,R
   12,R,J
-  17,R,X
+  15,R,X
   22,L,J
   12,L,K,G
   11,L,J,G
@@ -410,30 +514,50 @@ console load SecretSanta2023/3-Hard/Ecl1psed
    1,J
    1,K,G
   22,R,X
+
+
+#   4,R,J
+#   6,R,K
+#   8,R
+#  13,R,U,X
+#   5,L,J
+#   4,L,Z
+#  15,L,J
+#  15,L,U,Z
+#  11,L
+#  16,U,X
+#   9,R,J,G
+#   2,L,J
+#   1,R,K,G
+#   3,K
+#   6,R,K
+#   1
+#   1,R
+#  13,R,U,X
+#   1,L
+#   8,J,G
+#   2,R,J
+#   5,R
+#   7,R,J
+#   9,R
+
+   8,R,J
+  21,R,U,X
    4,R,J
-   6,R,K
-   8,R
-  13,R,U,X
+   4,X
    5,L,J
-   4,L,Z
-  15,L,J
-  15,L,U,Z
-  11,L
-  16,U,X
+   4,J
+   5
+   1,J
+  15,R,U,Z
+  15,U,X
+   7,L
+  15,U,Z
+   1,R,J,G
+   3
    9,R,J,G
-   2,L,J
-   1,R,K,G
-   3,K
-   6,R,K
-   1
-   1,R
-  13,R,U,X
-   1,L
-   8,J,G
-   2,R,J
-   5,R
-   7,R,J
-   9,R
+   7,R
+
    8,L,Z
    1,R,J
    6,R
@@ -613,31 +737,55 @@ console load SecretSanta2023/3-Hard/Ecl1psed
    8,L
   15,U,X
    3,L
-  29,J
-  64,G
-   2,U,G
-   3
+
+#  29,J
+#  64,G
+#   2,U,G
+#   3
+#   1,J
+#   1,K,G
+#  16,R,D,X
+#   2,R
+#   1,R,J
+#   1,R,K
+#   1,R,J
+#   1,R,K
+#  11,R,J
+#   6,R
+#  40
+
+  11,J
+  10
+   1,R
+   1,L
+   1
+   1,J
+   7,G
+   2,D,G
+   5,G
+   1
    1,J
    1,K,G
-  16,R,D,X
-   2,R
+   5,R,D,X
+   3,R,J,G
+  22,R,D
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
-  11,R,J
+   5,R,J
+   6,R,K,G
    6,R
   40
 
 #lvl_6-end
-   5,R
+   1,R,J
+   4,R
    1,R,J
   14,R
    1,R,J
   14,R
-   4,R,J
-   7,R
+   1,R,J
+   2,R
   14,R,U,X
  135,R,D
 
-ChapterTime: 1:00.962(3586)
+ChapterTime: 0:58.140(3420)
