@@ -1,0 +1,65 @@
+# SecretSanta2023
+# https://gamebanana.com/mods/452173
+
+RecordCount: 220
+
+console load SecretSanta2023/3-Hard/bryse0n
+   1
+
+#Start
+ 190
+
+#lvl_a00
+***S
+   4,R,X
+  11,R,J
+   7,R
+   7,R,J
+   1,R
+   6,R,Z
+   2,R,J
+   1,R,K,G
+  10,R
+   6,R,J
+   5,R,D,X
+   4,R,K,G
+   2,R
+   2,R,J
+   3,R
+   9,R,J
+   3,R
+  15,R,D,X
+   1,D
+   1,R,D
+   1,R,D,J
+   3,R,K,G
+   3,R
+***
+  17,R,D,X
+  10,R,J
+   8,R
+  14,R,U,Z
+   1,L,K,G
+   9,R,K
+  10,R
+  40
+
+#lvl_a02
+  23,R,D,J
+  32,L,U,X
+   9,R
+   7,R,J
+  18,R,U,Z
+  15,U,X
+   1,R
+   3,K,G
+   9,R,K,G
+***S
+   7,R
+   4,R,Z
+   1,R,J
+   6
+  10,J
+  10,L,J
+  20,U,X
+  20,U,C
