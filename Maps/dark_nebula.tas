@@ -1,7 +1,7 @@
 # SecretSanta2023
 # https://gamebanana.com/mods/452173
 
-RecordCount: 1855
+RecordCount: 1987
 
 console load SecretSanta2023/3-Hard/bryse0n
    1
@@ -11,7 +11,7 @@ console load SecretSanta2023/3-Hard/bryse0n
 
 #lvl_a00
 #spinner cycle
-   2
+   1
 #--------------------
    4,R,X
   11,R,J
@@ -46,22 +46,25 @@ console load SecretSanta2023/3-Hard/bryse0n
   40
 
 #lvl_a02
-  23,R,D,J
-  32,L,U,X
-   9,R
-   7,R,J
-  18,R,U,Z
+  12,R,D,J
+  10,J
+  20,L,U,X
+   1
+   7,L
+  11,R
+  19,R,U,Z
   15,U,X
    1,R
    3,K,G
    6,R,K,G
-   3,R,J,G
+   5,R,J,G
    2,R
    1,R,K,G
    5,R,J,G
    8,R
-   1,J
-  10,D
+   1
+   9,D
+   1,L
    5,U,X
   19,L,J
    3,J
@@ -71,6 +74,7 @@ console load SecretSanta2023/3-Hard/bryse0n
    3,R,J
    8,R
   40
+
 #lvl_a04
    1,S
    1,D,J
@@ -100,9 +104,11 @@ console load SecretSanta2023/3-Hard/bryse0n
    6,R,J
    1,R
   13,R,X
-  13,L,J
+  11,L,J
+   3,L
   15,U,X
-  14,L
+  10,L
+   2
    4,L,Z
    1,L,J
    7,L,D
@@ -113,7 +119,8 @@ console load SecretSanta2023/3-Hard/bryse0n
    1,R,J
   11,R,D,X
    1,R,J
-   8,L
+   4,L
+   4,L
   43,L,J
    1,L,D
   22,L,U,Z
@@ -130,6 +137,7 @@ console load SecretSanta2023/3-Hard/bryse0n
    1,D,J
    1,O
   68
+
    8,L,Z
    1,R,J
    7,R
@@ -147,6 +155,7 @@ console load SecretSanta2023/3-Hard/bryse0n
    6,R,J,G
    2,R
   40
+
 #lvl_a10
    4
    1,J
@@ -272,8 +281,6 @@ console load SecretSanta2023/3-Hard/bryse0n
    2,R
    3,R,J,G
    7,R
-
-
    1,R,J
    3,R
   12,R,D,X
@@ -291,34 +298,40 @@ console load SecretSanta2023/3-Hard/bryse0n
    3,R
   24,R,J
   14,R,U,X
-   5,R,J,G
-   7,R
+   3,R,J,G
+   1,R
+   1,K,G
+   1,R
+   4
+   1,R
+   5,L
    4,R,Z
    1,R,J
-   6,R,K,G
+   2,R,K,G
+   5,R,J,G
   40
 #lvl_a13
-   1,R,K
-   2,R,J,G
-   6,R,K,G
-  10,R,J,G
-  10,R
-  38,R,G
+   1,R,J
+   2,R,K,G
+   6,R,J,G
+  11,R,K,G
+   8,R
+  32,R,G
    1,R
   36,R,D,X
-  34,R,J
+  20,R,J
+  11,R
   13,R,U,X
-  11,R,G
+  12,R,G
    1,R
-  13,R,U,X
-  10,R,G
-   9,R,G
+  12,R,U,X
+  18,R,G
    1,R
    5,R,U,X
-   1,L,J,G
-   8,R,G
-   1,R
-  20,R,D,X
+   7,L,J,G
+   1,R,G
+   4,R
+  18,R,D,X
    1,R,J
    8,R,D,X
    1,R,J
@@ -329,49 +342,50 @@ console load SecretSanta2023/3-Hard/bryse0n
    1,L
    8,L,D,X
   10,L,G
-  10,L,J
+   2,L,G
+   5,L,J
   15,L,D,X
-  14,R
+   3,L,D
+  12,R
   14,R,U,X
    1,R,J,G
   15,R,D,X
-  18,R,K
- 105,R,J
+  17,R,K
+ 100,R,J
   14,R,U,X
-  10,R,J,G
-   4,R
-   2
+   2,J,G
    1,R
-   4,R,Z
-   1,R,J
-   5,R,K,G
-   4,R,J,G
-   1,R
-   1,R,K,G
-   3,R
    1
-   6,R
-   6,R,J
-   5,R,U,X
+   1,R
+   3
+   1,R
+   4,L
+   4,L,Z
+   1,R,J
+   2,R,K,G
+   4,R,J,G
+   5,R,K,G
+  16,R,J,G
   40
 #lvl_a14
+  10,R,U,X
+   1,R,J,G
+   3,R
+   1,R,J,G
    9,R
-   3,R,J,G
-   9,R
-   1,R,J
-   9,R,D,X
+   1
+   7,R,D,X
   10,R,G
-   1,R
+   1
    5,R,X
    9,R,G
-   1,R
+   1
    5,R,X
    9,R,G
    1,R
   15,R,D,X
    5,R
-   7,R,J
-   1,J
+   6,R,J
   14,R,U,X
  135
-ChapterTime: 0:50.320(2960)
+ChapterTime: 0:49.759(2927)
