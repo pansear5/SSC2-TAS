@@ -1,15 +1,18 @@
-RecordCount: 3260
+RecordCount: 3243
 
 console load SecretSanta2023/1-Easy/ricky06
    1
 
 #Start
+
  110
    1,S
    1,D,J
   34
 
 #lvl_a-00
+
+
   10,R,J
   15,U,X
   15,U,C
@@ -27,7 +30,9 @@ console load SecretSanta2023/1-Easy/ricky06
   12,R,D,X
   43
 
+
 #lvl_a-01
+
    4,R,D
    9,R,U,X
    3,R,J,G
@@ -56,7 +61,9 @@ console load SecretSanta2023/1-Easy/ricky06
    7,L,D
   40
 
+
 #lvl_a-03
+
   19,L,D
   10,R,D,X
    5,R,J
@@ -83,7 +90,9 @@ console load SecretSanta2023/1-Easy/ricky06
    3,R
   43
 
-#lvl_a-05 (0)
+
+#lvl_a-05(0)
+
    2
    1,R
   10,R,U,X
@@ -92,7 +101,9 @@ console load SecretSanta2023/1-Easy/ricky06
    3,J
   40
 
-#lvl_a-06 (0)
+
+#lvl_a-06(0)
+
    4,J
    1,L
    1,R
@@ -114,7 +125,9 @@ console load SecretSanta2023/1-Easy/ricky06
   29,R,D
   40
 
+
 #lvl_a-05(1)
+
    8,D
   15,D,X
   11,D,C
@@ -129,7 +142,9 @@ console load SecretSanta2023/1-Easy/ricky06
   10,U,X
   40
 
+
 #lvl_a-06(1)
+
   13,L,J
    3,R,J
   14,U,X
@@ -152,7 +167,9 @@ console load SecretSanta2023/1-Easy/ricky06
    9,D,X
   40
 
+
 #lvl_a-05(2)
+
   13,D
   18,L,D
   10,L,D,X
@@ -161,7 +178,9 @@ console load SecretSanta2023/1-Easy/ricky06
   14,D,X
   40
 
+
 #lvl_a-08
+
    8,L,D
   19,R,D
    5,R,J,Z
@@ -195,7 +214,9 @@ console load SecretSanta2023/1-Easy/ricky06
    5,R,U,C
   40
 
+
 #lvl_a-09
+
    1,S
    1,D,J
   34
@@ -228,7 +249,9 @@ console load SecretSanta2023/1-Easy/ricky06
    8,R,J
   43
 
+
 #lvl_a-11
+
    5,R
    8,R,J,G
   10,R,Z
@@ -336,7 +359,9 @@ console load SecretSanta2023/1-Easy/ricky06
    9,D,X
   43
 
+
 #lvl_a-13
+
   15,L,D
   15,L,D,X
   10,L,C
@@ -363,7 +388,9 @@ console load SecretSanta2023/1-Easy/ricky06
   13,R,D,X
   40
 
+
 #lvl_a-14
+
    1
    1,R,J
   14,R,D,X
@@ -416,7 +443,9 @@ console load SecretSanta2023/1-Easy/ricky06
    2,R,J
   40
 
+
 #lvl_a-17
+
    6,R,J
   18,R,D,X
   12,R,J
@@ -425,13 +454,17 @@ console load SecretSanta2023/1-Easy/ricky06
    8,R
    1,R,J
    2,R
+
 #bug
    1,R
+
    1,S
    1,D,J
  140
 
+
 #lvl_b-00
+
    1,S
    1,D,J
    1,O
@@ -454,7 +487,9 @@ console load SecretSanta2023/1-Easy/ricky06
    7,R,J
   40
 
-#lvl_b-02
+
+#lvl_b-02(0)
+
    5,R,J
   15,R,D,X
   11,R,U,C
@@ -467,7 +502,9 @@ console load SecretSanta2023/1-Easy/ricky06
    2,R
   40
 
+
 #lvl_b-04
+
    7,R
   15,D,X
   22,R,D
@@ -513,7 +550,9 @@ console load SecretSanta2023/1-Easy/ricky06
    4,L
   40
 
-#lvl_b-02(2)
+
+#lvl_b-02(1)
+
    3,L
    1,L,J
   13,L,U,Z
@@ -525,7 +564,10 @@ console load SecretSanta2023/1-Easy/ricky06
   18,L,D,X
   40
 
+
+
 #lvl_b-03
+
    1,L,J
    9,L,U,X
    1,L,J,G
@@ -562,7 +604,9 @@ console load SecretSanta2023/1-Easy/ricky06
   11,R,D,X
   40
 
-#lvl_b-02(3)
+
+#lvl_b-02(2)
+
    3
    1,R,J
   11,R,U,X
@@ -580,7 +624,9 @@ console load SecretSanta2023/1-Easy/ricky06
   11,R,J,Z
   40
 
+
 #lvl_b-05
+
  210,R
    7,R,J
    6,K
@@ -594,7 +640,9 @@ console load SecretSanta2023/1-Easy/ricky06
    2,J
   40
 
+
 #lvl_b-06
+
    8,R
    1,R,J,G
    2,R
@@ -603,7 +651,9 @@ console load SecretSanta2023/1-Easy/ricky06
    5,R
   40
 
+
 #lvl_b-07
+
    1,R
    1,R,J
   12,R,U,X
@@ -642,7 +692,9 @@ console load SecretSanta2023/1-Easy/ricky06
    5,R,U,Z
   40
 
+
 #lvl_b-08
+
    5,R
    1,L,J,G
    5,R,J
@@ -661,7 +713,9 @@ console load SecretSanta2023/1-Easy/ricky06
    5,R,J
   40
 
+
 #lvl_b-10
+
   12,R
    4,R,J,G
    5,R,Z
@@ -691,7 +745,9 @@ console load SecretSanta2023/1-Easy/ricky06
    3,R,J
   40
 
+
 #lvl_b-12
+
    3,R,J
   15,R,D,X
    2,R
@@ -755,7 +811,9 @@ console load SecretSanta2023/1-Easy/ricky06
   13,R,J,G
   40
 
+
 #lvl_b-14
+
    2,R,J
   14,U,Z
    1,J
@@ -776,7 +834,9 @@ console load SecretSanta2023/1-Easy/ricky06
   14,U,X
   40
 
+
 #lvl_b-16
+
    7,R,J
    1,R
    3
@@ -825,7 +885,9 @@ console load SecretSanta2023/1-Easy/ricky06
    8,K,G
   43
 
+
 #lvl_b-17
+
    1,K
    6,L,K
   14,L,U,Z
@@ -845,7 +907,9 @@ console load SecretSanta2023/1-Easy/ricky06
   11,D,X
   40
 
-#lvl_b-18
+
+#lvl_b-18(0)
+
   22,L,D
    4,L
   15,L,X
@@ -864,8 +928,9 @@ console load SecretSanta2023/1-Easy/ricky06
    8,U,X
   40
 
+
 #lvl_b-19
-***s
+
    6,R,J
    1,L,J
    1,L,K
@@ -912,9 +977,7 @@ console load SecretSanta2023/1-Easy/ricky06
    1
    1,R,J,G
    7,R
-***
-   4,R,Z
-   1,R,J
+   5,R,J,Z
   10,R
   10,R,D,X
    5,R,J
@@ -923,66 +986,39 @@ console load SecretSanta2023/1-Easy/ricky06
   15,R,X
   18,R,C
   15,R,X
-***
-#faster, desyncs
-#  15,L,U,C
-#  15,R,D,X
-#  15,R,D,C
-#   5,D,X
-#  10,R
-#  10,D,X
-#   5,R
-#  15,R,D,X
-#  15,R,D,C
-#  15,R,D,X
-#  15,R,D,C
-#  15,R,D,X
-#   5,L,C
-#  10,R
-#   5,R,X
-#  10,L
-#  15,R,X
-#  15,R,C
-#  15,R,X
-#   5,L,C
-#  10,R
-#   5,R,J,Z
-#   7,R
-#   8,R,J
-#  14,R,U,X
-#   1,J
-#  14,R,Z
-#   1,R,J
-#   6,R,K,G
-  15,R,C
-  15,R,X
-  15,R,C
-  15,R,X
-  15,R,C
-  15,R,X
-  15,R,C
-  15,R,X
-  15,R,C
-  15,R,X
-  15,R,C
-  15,R,X
-  15,R,C
-  15,R,X
-  15,R,C
-  15,R,X
+  15,L,U,C
+  15,R,D,X
   15,R,D,C
-   4,Z
-   1,R,J
+   5,D,X
+  10,R
+  10,D,X
+   5,R
+  15,R,D,X
+  15,R,D,C
+  15,R,D,X
+  15,R,D,C
+  15,R,D,X
+   5,L,C
+  10,R
+   5,R,X
+  10,L
+  15,R,X
+  15,R,C
+  15,R,X
+   5,L,C
+  10,R
+   5,R,J,Z
    7,R
-   9,R,J
-  15,R,U,X
+   8,R,J
+  14,R,U,X
+   1,J
   14,R,Z
    1,R,J
    6,R,K,G
-
    1,S
    1,D,J
-  72,O
+   1,O
+  71
    9,U,X
    1,L,J
    1,L,K,G
@@ -991,7 +1027,9 @@ console load SecretSanta2023/1-Easy/ricky06
    4,L,D
   43
 
-#lvl_b-18(2)
+
+#lvl_b-18(1)
+
    9,L,D
   12,R,D,X
    1,L,J
@@ -1007,7 +1045,9 @@ console load SecretSanta2023/1-Easy/ricky06
   14,L,D,X
   40
 
+
 #lvl_b-20
+
    1,L,J
  123,L,D,X
   14,R,Z
@@ -1023,7 +1063,9 @@ console load SecretSanta2023/1-Easy/ricky06
   12,U,X
   40
 
+
 #lvl_b-21
+
   10,L,J
    5,L
   14,R,Z
@@ -1055,13 +1097,17 @@ console load SecretSanta2023/1-Easy/ricky06
   14,L,X
    1,L,J,G
    7,L
+
 #bug
    1,L
+
    1,S
    1,D,J
   34
 
+
 #lvl_c-00
+
    5,R,J,Z
    7,R
   12,R,J
@@ -1089,7 +1135,9 @@ console load SecretSanta2023/1-Easy/ricky06
    1,R,J
   40
 
+
 #lvl_c-01
+
   22,R,D
    5,R
   16,R,Z
@@ -1097,7 +1145,9 @@ console load SecretSanta2023/1-Easy/ricky06
   33,R,D
   40
 
+
 #lvl_c-02
+
    3,R,D
    6,D
    1,R,D
@@ -1146,13 +1196,22 @@ console load SecretSanta2023/1-Easy/ricky06
   34
    5,R
   14,R,X
+
+#bug
    1
+
    1,S
    1,D,J
   34
 
+
 #lvl_d-00
+
+
+
   26,D,C
+
+
    6,R,D,X
    1,R,J
    7,R
@@ -1181,7 +1240,9 @@ console load SecretSanta2023/1-Easy/ricky06
    5,R,D
   40
 
+
 #lvl_d-01
+
    1,R
    1,S
    1,D,J
@@ -1196,7 +1257,9 @@ console load SecretSanta2023/1-Easy/ricky06
    5,R
   40
 
+
 #lvl_d-02
+
    7,R
   28,D,X
    8,R,D
@@ -1224,7 +1287,9 @@ console load SecretSanta2023/1-Easy/ricky06
    7,R,U,X
   40
 
+
 #lvl_d-03
+
    8
   14,R,U,X
    1,J,G
@@ -1249,7 +1314,9 @@ console load SecretSanta2023/1-Easy/ricky06
    7,R,D,X
   40
 
+
 #lvl_d-04
+
    7
    1,R,J
   15,R,D,X
@@ -1259,7 +1326,9 @@ console load SecretSanta2023/1-Easy/ricky06
   11,D,X
   40
 
+
 #lvl_d-05
+
    4,R,D
   10,R,D,X
    2,R,J
@@ -1296,7 +1365,9 @@ console load SecretSanta2023/1-Easy/ricky06
    8,R,U,Z
   40
 
+
 #lvl_d-06
+
    6
    1,J
   13,R,U,X
@@ -1357,6 +1428,7 @@ console load SecretSanta2023/1-Easy/ricky06
   40
 
 #lvl_d-07
+
   18,L,J
   14,R,Z
    1,L,J
@@ -1372,8 +1444,10 @@ console load SecretSanta2023/1-Easy/ricky06
    1,L,D,J
   14,L,U,X
    1,L,J,G
+
   18,L,K,G
    4,L
+
   12,L,J
   15,L,D,X
    1,J
@@ -1386,6 +1460,7 @@ console load SecretSanta2023/1-Easy/ricky06
   40
 
 #lvl_d-09
+
    3
   15,L,D,X
    2,L
@@ -1394,7 +1469,9 @@ console load SecretSanta2023/1-Easy/ricky06
    1,D,J
   34
 
+
 #lvl_d-10
+
    9,L,U,X
    6,R
    9,R,D,C
@@ -1449,8 +1526,9 @@ console load SecretSanta2023/1-Easy/ricky06
    1,L,J
   14,L,D,X
 
+
 #lvl_d-11
-***s
+
    1
    5,L,C
   10,L,J
@@ -1491,6 +1569,7 @@ console load SecretSanta2023/1-Easy/ricky06
    1,R,J
 
 #lvl_d-12
+
   14,R,D,X
    1,R,J
   15,R,D,X
@@ -1526,7 +1605,9 @@ console load SecretSanta2023/1-Easy/ricky06
    1,R,J
   14,R,D,X
 
+
 #lvl_d-13
+
    1,R,J
   14,R,D,X
    1,R,J
@@ -1617,7 +1698,9 @@ console load SecretSanta2023/1-Easy/ricky06
   14,R,D,X
    3,R,J
 
+
 #lvl_d-13a
+
   15,L,D,X
   15,L,C
   15,L,X
@@ -1664,7 +1747,9 @@ console load SecretSanta2023/1-Easy/ricky06
   14,L,Z
    1,L,J
 
+
 #lvl_d-14
+
   15,L,U,X
   15,L,U,C
    6,U,X
@@ -1720,7 +1805,9 @@ console load SecretSanta2023/1-Easy/ricky06
   27,L,D,C
   14,L,D,X
 
+
 #lvl_d-15
+
    1,L,J
   15,L,D,X
   15,R,C
@@ -1801,7 +1888,10 @@ console load SecretSanta2023/1-Easy/ricky06
    1,R,J
   14,R,D,X
 
+
 #lvl_d-16
+
+
    1,R,J
   15,R,D,X
   15,R,C
@@ -1907,6 +1997,7 @@ console load SecretSanta2023/1-Easy/ricky06
    1,R,J
 
 #lvl_d-17
+
   13,R,D,X
    1,L,J
  500
@@ -1920,13 +2011,17 @@ console load SecretSanta2023/1-Easy/ricky06
    1,R,J
   14,R,D,X
    2,R,J
+
 #bug
    1,R
+
    1,S
    1,D,J
   34
 
+
 #lvl_d-18
+
    6,R,J
   15,R,U,X
   15,U,C
@@ -1957,7 +2052,9 @@ console load SecretSanta2023/1-Easy/ricky06
    5,R,D,X
   40
 
+
 #lvl_d-19
+
    9
    1,R,J
   14,R,D,X
@@ -2007,7 +2104,9 @@ console load SecretSanta2023/1-Easy/ricky06
    6,R,D,C
   40
 
+
 #lvl_d-20
+
   24,R
   15,R,U,X
   15,R,C
@@ -2057,7 +2156,9 @@ console load SecretSanta2023/1-Easy/ricky06
    7,R,D,X
   40
 
+
 #lvl_d-21
+
    5
    1,R,J
    7,R
@@ -2122,7 +2223,9 @@ console load SecretSanta2023/1-Easy/ricky06
    7,R,D,X
   40
 
+
 #lvl_d-22
+
    5
    3,R,J
   15,R,U,X
@@ -2160,7 +2263,9 @@ console load SecretSanta2023/1-Easy/ricky06
   14,R,D,X
   40
 
+
 #lvl_d-23
+
    1,R,J
   10,R,D,X
    1,R,J
@@ -2209,7 +2314,9 @@ console load SecretSanta2023/1-Easy/ricky06
   14,R,D,X
   40
 
+
 #lvl_d-24
+
    1,R,J
   14,R,D,X
    6,R,J
@@ -2254,7 +2361,9 @@ console load SecretSanta2023/1-Easy/ricky06
    5,R,D,K,X
   40
 
+
 #lvl_d-25
+
    7,R
   16,R,J
   15,U,X
@@ -2292,7 +2401,9 @@ console load SecretSanta2023/1-Easy/ricky06
   15,U,X
   40
 
+
 #lvl_d-26
+
   11,J
   13,U,X
   15,L,D,C
@@ -2338,7 +2449,9 @@ console load SecretSanta2023/1-Easy/ricky06
    5,R,D,X
   40
 
+
 #lvl_d-27
+
    9
    1,R,J
   14,R,D,X
