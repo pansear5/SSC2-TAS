@@ -1,4 +1,4 @@
-RecordCount: 1699
+RecordCount: 1806
 
 console load SecretSanta2023/2-Medium/Nyan
    1
@@ -594,6 +594,7 @@ EndRepeat
    3,D
   14,L,Z
    1,R,J
+ 
 
 #lvl_YEARTHREE_X
    4,R
@@ -602,26 +603,20 @@ EndRepeat
    3,R
    3,R
   14,R,U,X
-   1,R,K,G
+   1,R,J,G
   11,R
-   2,R,G
-  15,D,X
-  11
+   1,R,G
+  22
   22,R,Z
-   4,R,K
-   1,R,J
-   3,R,J
-  20,R,U,X
-   5,L,K
-   5,L,D
-  10,R,D
-  12,D
+   4,R,J
+   6,R,K
+   6,R
   12,R,X
-   4,R,K
-   1,J
-  15,R,Z
+   4,R,J
+   2,K
+  16,R,Z
   17,R
-  21,R,X
+  20,R,X
    4,L,G
   18,L,X
   38,R,G
@@ -632,59 +627,44 @@ EndRepeat
   17,R,D,X
    8,R,K
   19,L,J
-   2,J
+   3,J
   16,L,X
    6,R,K
    1,R,J
    7,R,J
   25,R,D
    8,D
+#key cycle
+  10,R,G
   16,R,G
   12,R,C
    4,R,K
    1,R
    1,R,J
-  15,R,D,X
-   6,R,J
-  12,R
-  23,R,X
-   4,R,K
+  16,R,D,X
+   1,R,J
+  22,R
+  21,R,X
    4,R,J
-  14,R
-  23,R,X
-   4,R,K
-   4,R,J
-  14,R
-  15,R,X
-   8,R
-   4,R,K
-  15,R,J
-  23,R,D,X
-   6,R,K
-   9,L,J
-  26,K
-   1,K
-   1,L,K
-   1,L
-   4,L,D
-   1,L
-   7,L,Z
-   2,R,J
-   4,R
    3,R,K
-  15,J
-   1,J
-   3,J
-   1,J
-   1,J
-  14,G
-   1
-   4
-  10,L
-   4,L
-   7,L,Z
-   2,R,J
    5,R
+  10,R,J
+  23,R,X
+   8,R,J
+  14,R,K
+  24,R,X
+   6,R,K
+  14,R,J
+  15,R,D,X
+   8,R
+  15,D,X
+  59
+   5,J
+  12
+   6,L
+   7,L,Z
+   1,R,J
+   6,R
    1,R,J
    6,R,D,X
    1,R,J
@@ -703,4 +683,4 @@ EndRepeat
   12,R,U,X
  135
 
-ChapterTime: 1:14.579(4387)
+ChapterTime: 1:13.831(4343)
