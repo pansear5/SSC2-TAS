@@ -1,0 +1,41 @@
+# SecretSanta2023
+# https://gamebanana.com/mods/452173
+
+RecordCount: 42
+
+console load SecretSanta2023/0-Lobbies/3-Hard Bosssauce 1
+   1
+
+#Start
+  36
+  11,L,Z
+   1,L,J
+   7,L
+   2,L,J
+   9,L
+   1,L,N
+   9,R,Z
+   1,R,J
+
+#lvl_1
+   4,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   6,R
+   1,R,N
+   3,R
+
+#lvl_Ecl1psed
+  12,R,J
+   5,R,K,G
+   3,J
+  14,R,Z
+   1,R,J
+   9,R,D,X
+   6,R,J
+  10,R
+   1,R,N
+
+#0:02.601
+FileTime: 0:02.601(153)
