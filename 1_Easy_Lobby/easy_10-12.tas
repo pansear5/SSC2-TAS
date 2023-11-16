@@ -18,7 +18,7 @@ console load SecretSanta2023/0-Lobbies/1-Easy 1976 504
    1,R,J
   10,R,D,X
    1,R,J
-   8,R
+   7,R
    1,N
    6,R,Z
    1,R,J
@@ -30,6 +30,7 @@ console load SecretSanta2023/0-Lobbies/1-Easy 1976 504
    4,R
    1,R,N
 
-#0:02.159(127)
+#0:02.142(126)
+
 
  

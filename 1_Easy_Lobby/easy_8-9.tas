@@ -17,7 +17,7 @@ console load SecretSanta2023/0-Lobbies/1-Easy 576 600
    1,R,J
   12,R,D,X
    1,R,J
-   7,R
+   6,R
    1,N
    7,R,Z
    1,R,J
@@ -30,4 +30,5 @@ console load SecretSanta2023/0-Lobbies/1-Easy 576 600
    5,R,Z
    1,R,J,N
 
-#0:01.632(96)
+#0:01.615(95)
+
