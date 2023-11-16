@@ -1,0 +1,53 @@
+#console clrsav
+console hearts 14 SecretSanta2023/1-Easy   1
+
+console load SecretSanta2023/0-Lobbies/1-Easy 1264 600
+   1
+
+#Start
+  36
+   4,Z
+   8,L,J
+   4,L
+   2,L,J
+  13,L,Z
+   1,L,J
+   1,N
+   9,R,Z
+   1,R,J
+   4,R
+   7,R,J
+  29,R,D,X
+   1,S
+   1,D,J
+  34
+  18,R,D
+   5,R,Z
+   2,R,J
+   3,R
+   1,R,J,G
+  10,R
+   1,R,J
+  12,R,D,X
+   1,R,J
+  12,R
+   1,R,J
+  10,R,D,X
+  43
+
+#lvl_2
+   4,R,D,X
+repeat 6
+   1,R,J
+  14,R,D,X
+endrepeat
+   1,R,J
+  29,R,D,X
+   2,R,J
+   8,R
+  10,R,J
+  14,R,U,X
+ 135
+
+#0:08.007(471)
+  
