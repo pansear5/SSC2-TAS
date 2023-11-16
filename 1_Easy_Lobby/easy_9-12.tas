@@ -1,0 +1,42 @@
+console load SecretSanta2023/0-Lobbies/1-Easy 1552 464
+   1
+
+#Start
+  36
+   4,Z
+   1,L,J
+  27,L,D
+   1,N
+   6,R,Z
+   1,R,J
+   4,R
+   3
+   1,R,J
+  11,R
+  15,D,X
+   3,D
+  22,L,D
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  12,L,D,X
+   3,L,J
+   9,L
+   4,Z
+   1,L,J
+  10,L
+   1,N
+   6,R,Z
+   1,R,J
+   4,R
+   3
+   5,R,J
+   4,R
+  15,R,D,X
+   4,R
+   1,R,N
+
+#0:03.043(179)
