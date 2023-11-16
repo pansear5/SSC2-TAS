@@ -1,25 +1,17 @@
-# SecretSanta2023
-# https://gamebanana.com/mods/452173
-
-RecordCount: 30
-
 console load SecretSanta2023/0-Lobbies/3-Hard Dav 1
    1
 
 #Start
   36
-   4,L,Z
+   4,Z
    1,L,J
-  12,L,D
+  12,L
+   3,L
    1,L,J
-   9,L,D,X
-   1,L,J
-   8,L
-   1,L,N
+  15,L,D,X
+   1,N
    9,R,Z
    1,R,J
-
-#lvl_1
    4,R
    1,R,J
   14,R,D,X
@@ -27,8 +19,6 @@ console load SecretSanta2023/0-Lobbies/3-Hard Dav 1
    6,R
    1,R,N
    4,R,J
-
-#lvl_Bosssauce
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -36,5 +26,5 @@ console load SecretSanta2023/0-Lobbies/3-Hard Dav 1
    6,R
    1,R,N
 
-#0:02.261
-FileTime: 0:02.261(133)
+#0:01.649(97)
+

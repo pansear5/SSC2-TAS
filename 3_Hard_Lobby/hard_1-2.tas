@@ -1,35 +1,24 @@
-# SecretSanta2023
-# https://gamebanana.com/mods/452173
-
-RecordCount: 41
-
 console load SecretSanta2023/0-Lobbies/3-Hard HiveMindsRule 1
    1
 
 #Start
   36
-   1,R,J
-  14,L,D,X
-   1,L,J
-   6,L,J
-  16,L
-   1,L,N
+  10,L,Z
+   9,L,J
+  15,L
+   1,N
    9,R,Z
    1,R,J
-
-#lvl_1
    4,R
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,N
+   3,R,J
+   9,R
+   1,N
    9,R,Z
    1,R,J
-
-#lvl_Dav
    4,R
    1,R,J
   11,R,D,X
@@ -38,5 +27,5 @@ console load SecretSanta2023/0-Lobbies/3-Hard HiveMindsRule 1
   10,R
    1,R,N
 
-#0:02.720
-FileTime: 0:02.720(160)
+#0:02.040(120)
+
