@@ -1,0 +1,31 @@
+console load SecretSanta2023/0-Lobbies/3-Hard 1256 1384
+   1
+
+#Start
+  36
+   4,Z
+   1,L,J
+  12,L
+   1,L,N
+   1,L,J
+  10,L,D,X
+   1,L,J
+   5,L
+   1,L,J
+  13,L,D,X
+   1,L,J
+   1,L
+   8,L,D,X
+   1,L,J
+   6,L
+   1,N
+   9,R,Z
+   1,R,J
+   4,R
+   1,R,J
+  10,R,D,X
+   8,R,J
+   5,R
+   1,N
+
+#0:01.496(88)
