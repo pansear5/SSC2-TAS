@@ -1,0 +1,33 @@
+console load SecretSanta2023/0-Lobbies/3-Hard HiveMindsRule 1
+   1
+
+#Start
+  36
+  10,L,Z
+   9,L,J
+  15,L
+   1,N
+   9,R,Z
+   1,R,J
+   4,R
+   9,R,J
+  32,R,D,X
+repeat 3
+   1,R,J
+  14,R,D,X
+endrepeat
+   1,R,J
+  12,R,D,X
+   1,R,J
+   6,R
+   1,R,N
+   9,R,Z
+   1,R,J
+   4,R
+   1,R,J
+  10,R,D,X
+   8,R,J
+   5,R
+   1,N
+
+#0:02.856(168)

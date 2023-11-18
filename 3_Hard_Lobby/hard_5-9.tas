@@ -1,0 +1,41 @@
+console load SecretSanta2023/0-Lobbies/3-Hard 576 1392
+   1
+
+#Start
+  36
+  12,L,J
+   5,L,Z
+   3,L,J
+   2,L
+   1,L,J
+  16,L,D
+   1,N
+   9,L,Z
+   1,L,J
+   4,L
+   1,L
+   5,L,J
+   5,L
+  15,D,X
+#cant get the 6f bhop
+#free -1f
+   2,L,D
+   3,R,D
+   1
+   9,R,D
+   2,R,D
+   4,R,D
+   2,R
+   4,Z
+   1,R,J
+   6,R
+   1,N
+   3
+   6,R,Z
+   1,R,J
+   7,R
+   2,R,J
+  13,R,Z
+   1,R,J,N
+
+#0:02.210(130)
