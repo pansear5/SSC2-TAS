@@ -1,0 +1,36 @@
+# SecretSanta2023
+# https://gamebanana.com/mods/452173
+
+RecordCount: 33
+
+console load SecretSanta2023/0-Lobbies/2-Medium Phrog 1
+   1
+
+#Start
+  36
+   7,L,D,X
+   1,L,J
+   8,L
+  21,L,D,X
+
+#lvl_1
+   1,L,N
+   9,R,Z
+   1,R,J
+   4,R
+   1,R,J
+  12,R,D,X
+   1,R,J
+   6,R
+
+#lvl_Ru
+   1,R,N
+   9,R,Z
+   1,R,J
+   5,R
+   1,R,J
+   2,R
+  22,R,D,X
+   1,R,N
+
+#0:01.615(95)
