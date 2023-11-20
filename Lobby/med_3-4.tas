@@ -1,0 +1,39 @@
+# SecretSanta2023
+# https://gamebanana.com/mods/452173
+
+RecordCount: 56
+
+console load SecretSanta2023/0-Lobbies/2-Medium Nyan 1
+   1
+
+#Start
+  36
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  15,L,D,X
+
+#lvl_1
+   1,L,N
+   9,L,Z
+   1,L,J
+   4,L
+   1,L,J
+  12,L,D,X
+   1,L,J
+   6,L
+
+#lvl_Xolimono
+   1,L,N
+   9,R,Z
+   1,R,J
+   4,R
+   2,R,J
+   1,R
+  12,R,Z
+   1,R,J
+  16,R,D
+   1,R,N
+
+#0:01.615(95)
