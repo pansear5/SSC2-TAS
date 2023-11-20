@@ -4,9 +4,7 @@ console load SecretSanta2023/2-Medium/powerav
    1
 
 #Start
-
  110
-
 
 #lvl_a-0
    1,S
@@ -29,7 +27,6 @@ console load SecretSanta2023/2-Medium/powerav
    9,R,J,G
    9,R,U,X
   40
-
 
 #lvl_x-1
    6
@@ -70,7 +67,6 @@ EndStunPause
    2,R,J
    4,R
   40
-
 
 #lvl_x-2
    2,R

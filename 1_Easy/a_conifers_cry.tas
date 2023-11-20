@@ -177,6 +177,7 @@ console load SecretSanta2023/1-Easy/Donker19
    2,R
    3,R,J
   40
+
 #lvl_hike-7
    9,R,J
   15,R,D,X
@@ -330,7 +331,6 @@ endstunpause
    4,L
   12,L,J,G
    4,L,K,G
-
    6,L,J,G
    2,J
    1,L,J
@@ -443,7 +443,6 @@ endstunpause
    1,J
   12,R,K
   40
-
 
 #lvl_frost-hike-6
    1,R,J,G

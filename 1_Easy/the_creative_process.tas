@@ -158,7 +158,6 @@ endrepeat
    1,R,J
   14,R,D,X
   12,R,J
-
   14,R,U,X
    2,R,J,G
    7,R
@@ -297,7 +296,6 @@ endrepeat
 
 #lvl_07x3-Hallway
    4,R,J
-
   15,R,D,X
    1,R,J
   14,R
@@ -409,7 +407,6 @@ endrepeat
    3,J
   23,R,J
    7,R
- 
    1,S
    1,D,J
   34

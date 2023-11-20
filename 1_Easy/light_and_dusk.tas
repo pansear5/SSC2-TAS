@@ -1,10 +1,12 @@
-RecordCount: 1598
+RecordCount: 1599
 
 console load SecretSanta2023/1-Easy/Ezel
    1
 
 #Start
  190
+
+#lvl_A-00
    1,L
    1,L,J
    3,L
@@ -20,6 +22,7 @@ console load SecretSanta2023/1-Easy/Ezel
    3,R
    5,R,J,G
   40
+
 #lvl_A-01
    1,R,J
 stunpause
@@ -60,11 +63,13 @@ endstunpause
    6,R
    1,R,J
   40
+
 #lvl_A-06
   17,R,J
   14,U,Z
   12,R,J
   40
+
 #lvl_A-07 (0)
    3
   12,L,J
@@ -170,11 +175,9 @@ endstunpause
    1,L
    1,L,J
    3,J
-
   19,D,X
    5,L,J
    2,L
-#6f bhop
    7,L,Z
    1,L,J
    6,L
@@ -186,6 +189,7 @@ endstunpause
    1,L
    2,L,J
   30,L,D,X
+
 #lvl_B-04c (0)
   36,R,J
   11,R,U,C

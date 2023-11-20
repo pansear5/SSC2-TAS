@@ -45,6 +45,7 @@ console load SecretSanta2023/3-Hard/hivemindsrule
    1,R,J
    1,R
   40
+
 #lvl_a-02
    9,R
   11,R,D,X
@@ -137,6 +138,7 @@ console load SecretSanta2023/3-Hard/hivemindsrule
    9,R
    1,R,J
   40
+
 #lvl_a-03
   14,R,J
   11,R,X
@@ -163,6 +165,7 @@ console load SecretSanta2023/3-Hard/hivemindsrule
    1,R,J,G
    7,R
   40
+
 #lvl_a-04
    2,R
    6,R,J
@@ -200,7 +203,6 @@ console load SecretSanta2023/3-Hard/hivemindsrule
    1,R,J,G
   12,R,K,G
    4,R,K
-
    5,R,X
   16,R
   15,R,D,X
@@ -217,6 +219,7 @@ console load SecretSanta2023/3-Hard/hivemindsrule
    1,R,J,G
   10,R
   40
+
 #lvl_a-05
    1,R
    6,R,J
@@ -227,6 +230,7 @@ console load SecretSanta2023/3-Hard/hivemindsrule
   50,D
   71,R,D
   40
+
 #lvl_b-01
   27,R,D
    6,R,X
@@ -244,6 +248,7 @@ console load SecretSanta2023/3-Hard/hivemindsrule
    1,R,K,G
   11,R
   40
+
 #lvl_b-02
    5,R,J
    7,R
@@ -302,6 +307,7 @@ console load SecretSanta2023/3-Hard/hivemindsrule
    1,R,J
    2,R
   40
+
 #lvl_b-03
    1,R
    3,R,J
@@ -364,6 +370,7 @@ console load SecretSanta2023/3-Hard/hivemindsrule
    4,J
    5,R,D,X
   40
+
 #lvl_b-04
   10,R,D
   17,R,J
@@ -371,4 +378,5 @@ console load SecretSanta2023/3-Hard/hivemindsrule
    6,R,J
   15,R,U,X
  135,L,D
+
 ChapterTime: 0:54.672(3216)

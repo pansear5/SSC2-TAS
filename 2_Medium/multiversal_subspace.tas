@@ -4,9 +4,7 @@ console load SecretSanta2023/2-Medium/phant
    1
 
 #Start
-
  106
-
 
 #lvl_phant01
 
@@ -60,9 +58,7 @@ console load SecretSanta2023/2-Medium/phant
    1,R,J
   40
 
-
 #lvl_phant02
-
   44,R,D
   15,R,X
   20,R,J
@@ -93,9 +89,7 @@ EndStunPause
    3,R
   40
 
-
 #lvl_phant03
-
    7,R,D,X
 StunPause
    8,R,D
@@ -113,9 +107,7 @@ EndStunPause
    5,R,D
   40
 
-
 #lvl_phant03b
-
    4,R,D
    1,R
    1,R,D
@@ -138,9 +130,7 @@ EndStunPause
    1,R,J
   40
 
-
 #lvl_phant04
-
   14,R,D,X
   52,R,J
   17,R,X
@@ -199,7 +189,6 @@ EndStunPause
   40
 
 #lvl_phant05
-
    2
    5,R,J
    9,R
@@ -239,9 +228,7 @@ EndStunPause
    8,R,D,X
   40
 
-
 #lvl_phant06
-
    6
    1,X
    1,J
@@ -309,9 +296,7 @@ EndStunPause
    6,R,D,X
   40
 
-
 #lvl_phant07
-
    6,R,J
    7,R
    1,R,J
@@ -359,7 +344,6 @@ EndStunPause
   40
 
 #lvl_phant08
-
    1,R,N
    1,R,J
    2,R
@@ -421,9 +405,7 @@ EndStunPause
    9,R,D,X
   40
 
-
 #lvl_phant09
-
    4,R,J
   14,R
    3,R,J
@@ -435,12 +417,9 @@ EndStunPause
    3,R,J,G
   15,R
 
-
 #lvl_phant10
-
  189
   11,U,X
  135
-
 
 ChapterTime: 1:04.532(3796)

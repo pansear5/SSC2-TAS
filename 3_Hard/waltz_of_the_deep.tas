@@ -3,10 +3,10 @@ RecordCount: 4354
 console load SecretSanta2023/3-Hard/bosssauce
    1
 
+#Start
  190
 
 #lvl_a-00
-
 #Spinner Cycle
 #0-2
    2
@@ -54,9 +54,7 @@ console load SecretSanta2023/3-Hard/bosssauce
    8,R,U,X
   40
 
-
 #lvl_a-01
-
    6
    2,R,J,G
   13,R
@@ -110,7 +108,6 @@ EndStunPause
    3,R,J
    9,R
   40
-
 
 #lvl_a-02
    2,R
@@ -174,9 +171,7 @@ EndStunPause
   13,R,D,X
   40
 
-
 #lvl_a-03
-
    1
    9,R,J
    6,R
@@ -198,11 +193,9 @@ EndStunPause
   12,R,K,G
    3,R,J,G
    7,R
-
 #Spinner Cycle
    1
 #hit the space jam before the dash ends
-
    5,R,Z
    1,R,J
    8,R
@@ -271,7 +264,6 @@ EndStunPause
   40
 
 #lvl_a-04
-
    6,R,D,X
    1,R,J,G
    5,R
@@ -376,11 +368,9 @@ EndStunPause
   17,R,U,X
   12,R,J,G
    7,R
-
 #Spinner Cycle
    0
 #ultra landing next platform
-
    5,L,Z
    1,R,J
    6,R
@@ -390,9 +380,7 @@ EndStunPause
   16,R,D,X
   40
 
-
 #lvl_a-05
-
    6,R,D
    6,R,J
    7,R
@@ -459,9 +447,7 @@ EndStunPause
    6,R,U,Z
   40
 
-
 #lvl_a-06
-
   12
    5,J
    5,R
@@ -540,7 +526,6 @@ EndStunPause
   40
 
 #lvl_a-end
-
    9,R,J
   15,R,D,X
    5,R

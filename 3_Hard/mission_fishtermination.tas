@@ -5,8 +5,8 @@ console load SecretSanta2023/3-Hard/Aiden
 
 #Start
  190
-#lvl_1
 
+#lvl_1
    1,R,J
   14,R
    1,R,J
@@ -43,7 +43,6 @@ console load SecretSanta2023/3-Hard/Aiden
    7,R
 
 #lvl_2
-
    3,R,J
   18,R,D
    1,R,D,X
@@ -65,7 +64,6 @@ console load SecretSanta2023/3-Hard/Aiden
    9,R
 
 #lvl_3
-
    3,R,J
   18,R,D
    1,R,D,X
@@ -77,7 +75,6 @@ console load SecretSanta2023/3-Hard/Aiden
  237,D
 
 #lvl_a1
-
   61
    1,R,J
    8,R
@@ -137,7 +134,6 @@ console load SecretSanta2023/3-Hard/Aiden
   40
 
 #lvl_a2
-
    6,R
    1,R,J
    1,R,K,G
@@ -204,9 +200,7 @@ console load SecretSanta2023/3-Hard/Aiden
   15,R,D
   40
 
-
 #lvl_a3
-
    1,R
    2,R,J
    8,R
@@ -264,9 +258,7 @@ console load SecretSanta2023/3-Hard/Aiden
    5,D
   40
 
-
 #lvl_a4
-
    4,D
    1,R,D
    9,R,J
@@ -348,9 +340,7 @@ console load SecretSanta2023/3-Hard/Aiden
    6,R,D
   40
 
-
 #lvl_intermission
-
    9,R
    4,R,J
   27,R,U
@@ -374,9 +364,7 @@ console load SecretSanta2023/3-Hard/Aiden
   11,R
   40
 
-
 #lvl_b1
-
    3,R
    5,R,J
    1,S
@@ -443,9 +431,7 @@ console load SecretSanta2023/3-Hard/Aiden
    3,R,J
   40
 
-
 #lvl_b2
-
   13,R,J
    1,S
    1,D,J
@@ -508,9 +494,7 @@ console load SecretSanta2023/3-Hard/Aiden
   10,R,D
   40
 
-
 #lvl_b3
-
    3,R,J
   11,R
    2,R,J
@@ -556,6 +540,5 @@ console load SecretSanta2023/3-Hard/Aiden
   52,F,97.7
   23,R
  135
-
 
 ChapterTime: 1:33.806(5518)

@@ -89,7 +89,6 @@ EndRepeat
   43
 
 #lvl_intro_03(0)
-
   17,R
 Repeat 3
    1,R,J
@@ -501,7 +500,6 @@ Endrepeat
    9,L
   43
 
-
 #lvl_a-04(1)
    5,L
    2,L,J
@@ -588,7 +586,6 @@ Endrepeat
   12,L
   43
 
-
 #lvl_a-02(1)
    2,L
    1,L,J
@@ -616,7 +613,6 @@ Endrepeat
   11,L
   40
 
-
 #lvl_a-01(1)
    7,L
    1,L,J
@@ -625,12 +621,10 @@ Endrepeat
   14,L
    8,L,J
   19,L
+repeat 3  
    1,L,J
   14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
+endrepeat
    1,L,J
   15,L
   13,L,J
@@ -756,7 +750,6 @@ EndRepeat
   43
 
 #lvl_a-04(2)
-
    1,S
    1,D,J
   72,O
@@ -838,7 +831,6 @@ EndRepeat
    3,L
    1,L,J
    9,L,D
-/
   67,L,G
   11,L,D
    1,L
@@ -847,7 +839,6 @@ Repeat 4
    1,L,K
 EndRepeat
    4,U
-
 #  64,L,G
 #  11,L,D
 #  23,L
@@ -1092,6 +1083,7 @@ EndRepeat
    1,R,K
    1,J
   43
+
 #lvl_b-04(1)
    6,F,30
 Repeat 9
@@ -1165,6 +1157,7 @@ EndRepeat
    3,R,J
   16,R,K,G
   43
+
 #lvl_b-02(1)
    4,R
    1,R,J
@@ -1212,6 +1205,7 @@ endrepeat
    5,R
    1,R,J
   43
+
 #lvl_b-01(1)
    1,R,J
   10,R
@@ -1243,6 +1237,7 @@ endrepeat
    1,R,J
    1,R,K
   43
+
 #lvl_a-05(3)
    3,R,K
    6,D
@@ -1301,6 +1296,7 @@ endrepeat
    1,L,J
    9,L
   43
+
 #lvl_a-04(3)
    6,L
   92,D
@@ -1350,6 +1346,7 @@ endrepeat
    1,L,J
   12,L
   43
+
 #lvl_a-03(3)
    3,L
    5,L,J
@@ -1373,6 +1370,7 @@ endrepeat
    1,L,J
   12,L
   43
+
 #lvl_a-02(3)
    2,L
    1,L,J
@@ -1409,6 +1407,7 @@ endrepeat
    5,L,K
    9,L,D
   40
+
 #lvl_a-01(3)
    4,L
 Repeat 2
@@ -1450,6 +1449,7 @@ EndRepeat
    2,L,J
   15,L,D
 1001,D
+
 #lvl_shelter 2
    3,D
   10,R

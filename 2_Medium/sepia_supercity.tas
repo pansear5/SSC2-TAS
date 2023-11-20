@@ -4,11 +4,9 @@ console load SecretSanta2023/2-Medium/moladan
    1
 
 #Start
-
   33
 
 #lvl_a00
-
   11,L,Z
    1,R,J
    1,J
@@ -56,9 +54,7 @@ endrepeat
    5,R,D,X
   40
 
-
 #lvl_a01
-
    9
   12,R,J
    6,R,D,X
@@ -121,9 +117,7 @@ endrepeat
    8,R
   40
 
-
 #lvl_a02
-
    9,R,D,X
    1,R,J
   12,R,D
@@ -151,9 +145,7 @@ endrepeat
    2,R,K,G
   40
 
-
 #lvl_a03
-
    8
    3,J,G
    3,R,J
@@ -220,9 +212,7 @@ endrepeat
    2,R
   40
 
-
 #lvl_a04
-
    5,R
    2
    2,R
@@ -234,9 +224,7 @@ endrepeat
    6,R,J
   40
 
-
 #lvl_a05
-
    4,R,J
   16,R,D,X
   12,R,J
@@ -289,9 +277,7 @@ endrepeat
    7,R
   40
 
-
 #lvl_a06
-
    5,R
    1,R,J
   16,R,D
@@ -341,9 +327,7 @@ endrepeat
    7,L,K,G
   40
 
-
 #lvl_a07
-
    2,J,G
    1
    4,R
@@ -411,9 +395,7 @@ endrepeat
   12,L,D,X
   40
 
-
 #lvl_a08
-
    2
    1,L,J
   14,L,D,X
@@ -452,9 +434,7 @@ endrepeat
   13,U,X
   40
 
-
 #lvl_a09
-
    6,L,J
    3,R,J
    5,J
@@ -580,6 +560,5 @@ endrepeat
   32,R,J
   15,R,X
  135
-
 
 ChapterTime: 1:11.400(4200)

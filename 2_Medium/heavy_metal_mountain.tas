@@ -1,10 +1,8 @@
-# SecretSanta2023
-# https://gamebanana.com/mods/452173
-
 RecordCount: 8244
 
 console load SecretSanta2023/2-Medium/xolimono
    1
+
 #Start
 #lvl_Trailhead
 #spinner cycle in lvl_Rusty Machinery
@@ -29,10 +27,7 @@ console load SecretSanta2023/2-Medium/xolimono
    9,R
   40
 
- 
-
 #lvl_Outskirts
-
    2,R
    1,R,J
    1,J
@@ -55,7 +50,6 @@ console load SecretSanta2023/2-Medium/xolimono
   40
 
 #lvl_Mine Entrance
-
    2,R
   15,R,D,X
   16,R,J
@@ -91,7 +85,6 @@ console load SecretSanta2023/2-Medium/xolimono
   40
 
 #lvl_Short Fuse
-
    6,K,G
    8,R,K,G
    4,R,J,G
@@ -118,8 +111,8 @@ console load SecretSanta2023/2-Medium/xolimono
    1,R,J
    6,R,D,X
   40
-#lvl_Mineshaft
 
+#lvl_Mineshaft
    5
    1,R,J
    7,R
@@ -199,7 +192,6 @@ console load SecretSanta2023/2-Medium/xolimono
   40
 
 #lvl_Mineshaft_b
-
    9,R
    2,K,G
   11,L,K
@@ -213,7 +205,6 @@ console load SecretSanta2023/2-Medium/xolimono
   40
 
 #lvl_Pushback
-
   11,R,J
   11,K,G
   10,R,X
@@ -242,7 +233,6 @@ console load SecretSanta2023/2-Medium/xolimono
   40
 
 #lvl_Mechanical Chasm
-
    3,L
   10,L,X
    7,L,J
@@ -288,7 +278,6 @@ console load SecretSanta2023/2-Medium/xolimono
   40
 
 #lvl_Interlude 1
-
    4,L
   14,R,J
    9,R
@@ -331,7 +320,6 @@ console load SecretSanta2023/2-Medium/xolimono
   40
 
 #lvl_Rusty Machinery
-
   14,L,D,X
    4,L,J
    2
@@ -355,7 +343,6 @@ endstunpause
   40
 
 #lvl_Heavy Machinery
-
    3,L
    2,L,J
    9,L
@@ -379,6 +366,7 @@ endstunpause
    5,L,K,G
    8,L
   40
+
 #lvl_Freight Elevator
    4,L
    6,L,D,J
@@ -412,6 +400,7 @@ endstunpause
    2,R,J
    5,U,X
   40
+
 #lvl_Mountain Pass
   10,R,J
    2,R
@@ -473,7 +462,6 @@ endstunpause
   40
 
 #lvl_Mining Camp
-
    2,R,J
    5,R
    1,R,J
@@ -566,7 +554,6 @@ endstunpause
   40,K
 
 #lvl_Interlude 3
-
    1,R,D,K
    1,D,K
    1,R,K
@@ -587,9 +574,7 @@ endstunpause
    3,R,J
   40
 
-
 #lvl_High Altitude
-
   13,R
    5,R,D
   21,R,J
@@ -610,7 +595,6 @@ endstunpause
   40
 
 #lvl_Lit Fuse
-
    2,R
    5,R,D,X
   10,R,D
@@ -660,7 +644,6 @@ endstunpause
   14,U,X
   16,L,J
   40
-
 
 #lvl_Cliff Face
    1,L
@@ -718,7 +701,6 @@ endstunpause
   40
 
 #lvl_Windstorm
-
    2
    2,L
    5,L,J
@@ -822,7 +804,6 @@ endstunpause
   40
 
 #lvl_Final Ascent
-
    1,L,J
    9,L
   14,L,D,X
@@ -878,7 +859,6 @@ endstunpause
   40
 
 #lvl_Summit
-
   72
   10,L,X
    5,L,J
@@ -988,4 +968,5 @@ endstunpause
    9,L
   15,L,U,X
  135
+
 ChapterTime: 1:52.812(6636)

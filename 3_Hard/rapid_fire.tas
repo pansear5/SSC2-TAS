@@ -277,9 +277,6 @@ console, load, SecretSanta2023/3-Hard/Kazt SSC2023
 #  15,R,Z
 #  20,R,U,C
 # 100,R
-
-
-
    7,R,D
    1,R,D,J
    3,R
@@ -320,6 +317,7 @@ console, load, SecretSanta2023/3-Hard/Kazt SSC2023
    2,R,J
    2,R
   40
+
 #lvl_08
    1
    8,R
@@ -339,4 +337,5 @@ console, load, SecretSanta2023/3-Hard/Kazt SSC2023
   19,R,J,G
   14,U,X
  135,D
+
 ChapterTime: 0:37.774(2222)

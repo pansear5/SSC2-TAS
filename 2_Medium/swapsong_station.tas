@@ -118,7 +118,6 @@ EndRepeat
   40
 
 #lvl_a-03
-
   14,R
 Repeat 2
   15,D,C
@@ -174,7 +173,6 @@ EndRepeat
   40
 
 #lvl_a-04
-
   18,R,D,X
 Repeat 2
   15,D,C
@@ -255,7 +253,6 @@ EndRepeat
   12,R,U
    6,U
 #1f off making an extra dash here
-
   15,R,U
    3,U
   15,L,U,X

@@ -4,10 +4,9 @@ console load SecretSanta2023/2-Medium/skqw
    1
 
 #Start
-
   69
-#lvl_00
 
+#lvl_00
    7,R,Z
    1,R,J
    7,R
@@ -40,7 +39,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_01
-
   10,R,D
    1,R,J
    3,R
@@ -84,7 +82,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_02
-
    4,R
   15,R,D,X
    1,J
@@ -145,7 +142,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_03
-
    3,R
    1,R,J
    3,R
@@ -192,7 +188,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_04
-
   15,R,D
    2,R,J
   17,R,D,X
@@ -256,7 +251,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_05
-
    4,R,J
    1,R
    3,R,K,G
@@ -326,14 +320,12 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_06
-
    3
   24,R,D,J
   15,R,U,X
    1,R,D
 
 #lvl_r6
-
    3,R,D
   14,R,D,X
    1,L,J
@@ -353,7 +345,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_r5
-
    2,L
    4,L,J
    1,L,K,G
@@ -420,7 +411,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_r4
-
    1
    1,L,J
    1,L,K
@@ -453,7 +443,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_r3
-
    9,L
   11,L,J
    8,L
@@ -519,7 +508,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_r2
-
    2,L,D
    1,L,J
    3,L
@@ -565,7 +553,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_r1
-
    8,L,Z
    1,L,J
    7,L
@@ -610,7 +597,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_r0
-
    2,L
    4,L,D,J
    6,L,K,G
@@ -625,7 +611,6 @@ console load SecretSanta2023/2-Medium/skqw
   40
 
 #lvl_rend
-
    7,L
    8,L,J
   14,L,U,X
@@ -634,6 +619,5 @@ console load SecretSanta2023/2-Medium/skqw
   10,L,J
   14,L,X
  135
-
 
 ChapterTime: 1:19.271(4663)

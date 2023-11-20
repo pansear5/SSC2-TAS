@@ -4,7 +4,6 @@ console load SecretSanta2023/3-Hard/VA2M
    1
 
 #Start
-
   84
 
 #lvl_intro
@@ -95,7 +94,6 @@ EndStunPause
   14,U,X
   43
 
-
 #lvl_a02
   11,L
   10,L,D,X
@@ -181,7 +179,6 @@ EndStunPause
    1,J
   10
   10,L
-
    3,J
    2,L,J
   14,U,X
@@ -189,7 +186,6 @@ EndStunPause
    3,R,J
   14,U,X
   40
-
 
 #lvl_a04
   11
@@ -257,6 +253,7 @@ endstunpause
   12,R,U,Z
   11,J
   40
+
 #lvl_prea05
    3
    1,L,J
@@ -274,7 +271,6 @@ endstunpause
   15,U,X
   15,D,C
    1
-
 #Spinner Cycle
 #0-2
    2
@@ -288,7 +284,6 @@ StunPause
 EndStunPause
    4
   40
-
 
 #lvl_a05
   11,R
@@ -359,9 +354,7 @@ EndStunPause
    4,L,J
   40
 
-
 #lvl_a06
-
    5,R,J
    6,R
   10,R,Z
@@ -404,9 +397,7 @@ endstunpause
   14,R,J
   43
 
-
 #lvl_end
-
   11,R
   13,U,X
   18,R,J
@@ -447,4 +438,5 @@ endstunpause
    9,R,J
   14,U,X
  135
+
 ChapterTime: 1:06.011(3883)

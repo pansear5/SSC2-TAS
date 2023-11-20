@@ -51,6 +51,7 @@ console load SecretSanta2023/3-Hard/Cabob
    3,R,J,G
    5,R
   40
+
 #lvl_a-01
    2,R
    6,R,J
@@ -113,6 +114,7 @@ console load SecretSanta2023/3-Hard/Cabob
    1,R,J,G
    7,R
   40
+
 #lvl_a-03
   10,R,D
    1,R,J
@@ -143,6 +145,7 @@ console load SecretSanta2023/3-Hard/Cabob
    3,R
   13,R,D
   40
+
 #lvl_a-04
    7,R,D
   10,R,Z
@@ -226,9 +229,6 @@ console load SecretSanta2023/3-Hard/Cabob
   15,L,D,C
    2
   15,R,D,X
-
-
-
   17,L,D,C
   22
    9,L,X
@@ -258,7 +258,6 @@ console load SecretSanta2023/3-Hard/Cabob
   40
 
 #lvl_a-07
-
    1
    5,R,J,G
   13,R
@@ -282,7 +281,6 @@ console load SecretSanta2023/3-Hard/Cabob
   40
 
 #lvl_a-08
-
    6
   14,R,D,X
    1,R,J
@@ -343,6 +341,7 @@ console load SecretSanta2023/3-Hard/Cabob
    2,R,J
    6,R,U,C
   40
+
 #lvl_a-09
  143
 
