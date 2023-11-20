@@ -1,0 +1,21 @@
+console load SecretSanta2023/0-Lobbies/2-Medium
+   1
+
+#Start
+ 190
+   6,R,Z
+   1,R,J
+   8,R
+   1,R,J
+  15,R,D,X
+   1,N
+   6,R,Z
+   1,R,J
+   4,R
+  12,R,J
+  14,R,D,X
+   2,R,J
+  21,R,D
+   1,N
+
+#0:01.377(81)
