@@ -10,7 +10,6 @@ console load SecretSanta2023/1-Easy/Luma
   34
 
 #lvl_Intro
-
    6,L,D,X
    1,R,J
   11,R
@@ -89,8 +88,8 @@ endrepeat
    3,R
    4,R,J
   40
-#lvl_2
 
+#lvl_2
    5,R
    9,R,J
    5,R
@@ -121,7 +120,6 @@ endrepeat
   40
 
 #lvl_3
-
    1,R,J
    2,R
   15,R,D,X
@@ -146,7 +144,6 @@ endrepeat
    1,R,J,G
    7,R
   40
-
 
 #lvl_4
    3,R
@@ -185,6 +182,7 @@ endrepeat
    1,R,J
    1,R
   40
+
 #lvl_5
    6,R,D
    1,R,J
@@ -211,6 +209,7 @@ endrepeat
    1,R,J
    1,R
   40
+
 #lvl_6
    6,R
    1,R,J
@@ -268,6 +267,7 @@ endrepeat
    1,R,J
   11,R
   40
+
 #lvl_7
    3,R
    1,R,J
@@ -316,6 +316,7 @@ endrepeat
    6,R
    1,R,J
   40
+
 #lvl_Outro
    1,R,J
   14,R,U,X
@@ -325,5 +326,6 @@ endrepeat
    8,R
   14,R,D,X
  135
+
 ChapterTime: 0:40.443(2379)
 
