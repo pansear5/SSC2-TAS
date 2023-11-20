@@ -1,34 +1,46 @@
-RecordCount: 2385
-console load SecretSanta2023/1-Easy/AliceQuasar
+RecordCount: 2562
 
+console load SecretSanta2023/1-Easy/AliceQuasar
    1
 
-#lvl_test
+#Start
+ 190
 
- 887,R,D
+#lvl_test
+ 677
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   1,R,J
+   1
+   1,R
+   1
+   9,R
+   1,R,D,J
    1,S
    1,D,J
-  69,O
-  11,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-  14,R,U,X
+  34
+   1,J
+  12,R,U,X
    1,R,J,G
-   5,R
    1,R,J
-   1,R
+   5,R,K,G
+   2,R
   40
 
-
 #lvl_test2
-
-   3,R
+   2
+   1,R
+   3,R,J
    1,R,J
-  10,R
-  14,R,U,X
+   2,R,J
+   1,R,J
+   1,R,J
+   1,J
+  14,R,X
    1,R,J,G
-   9,R
+   7
+   2,R
    1,R,J
   22,R,D,X
    1,R,J
@@ -36,41 +48,62 @@ console load SecretSanta2023/1-Easy/AliceQuasar
   40
 
 #lvl_test3
-
-   3
+   3,R,D,X
+repeat 5
    1,R,J
-Repeat,5
   14,R,D,X
+endrepeat
    1,R,J
-EndRepeat
    7,R,D,X
   40
 
 #lvl_test4
-
-   7
+   7,R,D,X
    1,R,J
-   1,S
-   1,D,J
-   1,O
-  64
+  11,R,D,X
+   1,R,J
+   7,R
+   1,N
    1,S
    1,D,J
   34
-   4,L,Z
+   6,R,Z
+   1,R,J
+   5,R
+   1,S
+   1,D,J
+  34
+   2,R
+   1,R,J
+  13,R,D,X
+   1,R,J
+   7,R
+   1,N
+   1,S
+   1,D,J
+  34
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
    1,L,J
-   7,L
+   1,S
+   1,D,J
+  34
+   2,L
+  10,L,D,X
    1,L,J
-   8,L
-  18,D,X
+   4,L
+  16,D,X
   40
 
 #lvl_test5
- 116,D
+ 110,D
+   6
    1
+   1,D
 
 #lvl_sw-11
-
   10,L,Z
    1,R,J
    6,R
@@ -86,7 +119,6 @@ EndRepeat
   40
 
 #lvl_sw-2
-
   15,R,D,X
    1,R
    4,R,J
@@ -97,7 +129,6 @@ EndRepeat
   40
 
 #lvl_sw-6
-
   10,R,D,X
    1,L,J
    4,L
@@ -120,7 +151,6 @@ EndRepeat
   40
 
 #lvl_sw-3
-
    3
    1,R,J
    7,R
@@ -141,7 +171,6 @@ EndRepeat
   40
 
 #lvl_sw-4
-
    3,R
    1,R,J
   15,D,X
@@ -176,7 +205,6 @@ EndRepeat
   40
 
 #lvl_sw-0
-
   14,R,D,X
    1,R,K
   14,L,Z
@@ -212,7 +240,6 @@ EndRepeat
   40
 
 #lvl_sw-1
-
    7,R
    1,R,J
   11,R,U,X
@@ -239,7 +266,6 @@ EndRepeat
   40
 
 #lvl_sw-5
-
    8
    1,J
    1,R,J
@@ -265,7 +291,6 @@ EndRepeat
   40
 
 #lvl_sw-7
-
   15,R,D,X
    3,R,J
    1,S
@@ -283,7 +308,6 @@ EndRepeat
   40
 
 #lvl_sw-8
-
    5,R,G
    7,R,J,G
    4,R,J
@@ -315,7 +339,6 @@ EndRepeat
   40
 
 #lvl_sw-9
-
   12,R,J,G
    1,R
    5,R,U,X
@@ -343,7 +366,6 @@ EndRepeat
   40
 
 #lvl_sw-12
-
    7,R,G
   10,R,J,G
    7,R,G
@@ -370,7 +392,6 @@ EndRepeat
   40
 
 #lvl_sw-10
-
    9,R,G
    1,S
    1,D,J
@@ -411,9 +432,7 @@ EndRepeat
    1,K
    3,R
 
-
 #lvl_test6
-
    1,R
    1,S
    1,D,J
@@ -430,16 +449,13 @@ endRepeat
    3,R
  783
 
-
 #lvl_error
-
-  60
+  61
    4,L,D,J
   11,L,D,X
    1,L,J
 
 #lvl_end0
-
    1,L
    1,S
    1,D,J
@@ -466,4 +482,4 @@ endRepeat
  135
 
 
-ChapterTime: 1:09.921(4113)
+ChapterTime: 1:24.031(4943)
