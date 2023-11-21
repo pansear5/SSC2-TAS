@@ -1,4 +1,4 @@
-RecordCount: 1324
+RecordCount: 1329
 
 console load SecretSanta2023/2-Medium/Rocketguy2
    1
@@ -7,10 +7,10 @@ console load SecretSanta2023/2-Medium/Rocketguy2
  190
 
 #lvl_start
- 189
+ 189,D
 
 #lvl_a-Intro-00
-   8
+   7
    6,L,Z
    1,R,J
   17,R
@@ -480,4 +480,4 @@ console load SecretSanta2023/2-Medium/Rocketguy2
    4,R
  135
 
-ChapterTime: 1:06.283(3899)
+ChapterTime: 1:06.266(3898)
