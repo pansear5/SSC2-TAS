@@ -1,0 +1,41 @@
+console load SecretSanta2023/0-Lobbies/2-Medium 1668 1144
+   1
+
+#Start
+  36
+   2,L
+   4,L,J
+   6,L,K,G
+  14,L,U,X
+   3,L,J,G
+#maybe gultra cancel on left wall
+  21,L
+   1,N
+   7,L,Z
+   1,L,J
+   3,L
+   1,L,J,G
+  14,L
+   1,L,J
+  19,L,D,X
+   1,L
+   1,L,J
+  24,L,D,X
+   1,N
+  12,R,Z
+   1,R,J
+  12,R,D
+   1,R,J
+   1,R
+   1,R,J
+   6,R
+   8,R,U,Z
+   1,L,J,G
+   7,R,J
+   5,R
+   1,R,J
+   3,R
+   1,R,N
+
+#0:02.822(166)
+

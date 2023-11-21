@@ -1,0 +1,40 @@
+console load SecretSanta2023/0-Lobbies/2-Medium Nyan 1
+   1
+
+#Start
+  36
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  15,L,D,X
+   1,L,N
+   7,R,Z
+   1,R,J
+   4,R
+  12,R,J
+  15,U,Z
+  12,L,J,G
+   1
+   2,L,K,G
+   7,L
+   4,Z
+   2,L,J
+   7,L
+   1,N
+   1
+   5,R,Z
+   1,R,J
+   4,R
+   1,R,D,J
+   2,R
+   1
+   2,R
+   1,R,J
+   2,R
+  14,R,U,X
+   1,R,J,G
+  26,D
+   1,N
+
+#0:02.499(147)
