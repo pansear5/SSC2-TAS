@@ -1,0 +1,32 @@
+console load SecretSanta2023/0-Lobbies/2-Medium Xolimono 1
+   1
+
+#Start
+  36
+   4,L,Z
+   1,L,J
+  12,L,D
+   5,L,J
+   2,L,J
+  11,L,Z
+   1,L,J
+  13,L
+   1,N
+   9,R,Z
+   1,R,J
+   4,R
+   1,R,J
+  12,R,D,X
+   1,R,J
+   6,R
+   1,N
+   9,R,Z
+   1,R,J
+   4,R
+   1,R,J
+  14,R,D,X
+   2,R,J
+   7,R
+   1,N
+
+#0:01.802(106)
