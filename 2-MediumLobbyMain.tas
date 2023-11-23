@@ -1,0 +1,105 @@
+#This file was made based off the files in the BL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load SecretSanta2023/0-Lobbies/2-Medium
+EnforceMaingame
+   1
+
+#Start
+Read,2_Medium_Lobby/med_0-2,Start
+Read,EnterLevel,Start
+Read,2_Medium/sepia_supercity,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_2-1,Start
+Read,EnterLevel,Start
+Read,2_Medium/multiversal_subspace,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_1-4,Start
+Read,EnterPostcard,Start
+Read,2_Medium/heavy_metal_mountain,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_4-3,Start
+Read,EnterLevel,Start
+Read,2_Medium/garden_of_eden,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_3-7,Start
+Read,EnterLevel,Start
+Read,2_Medium/christmas_1d,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_7-6,Start
+Read,EnterPostcard,Start
+Read,2_Medium/the_resolutive_dance_of_madeline_and_alice,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_6-5,Start
+Read,EnterLevel,Start
+Read,2_Medium/desolution_industries,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_5-9,Start
+Read,EnterLevel,Start
+Read,2_Medium/aperture,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_9-8,Start
+Read,EnterLevel,Start
+Read,2_Medium/industrial_efflorescence,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_8-10,Start
+Read,EnterLevel,Start
+Read,2_Medium/where_i_was,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_10-11,Start
+Read,EnterLevel,Start
+Read,2_Medium/haphazard_highrise,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_11-12,Start
+Read,EnterLevel,Start
+Read,2_Medium/blackstone_compound,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_12-13,Start
+Read,EnterLevel,Start
+Read,2_Medium/swapsong_station,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_13-14,Start
+Read,EnterLevel,Start
+Read,2_Medium/frosty_forest,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_14-15,Start
+Read,EnterLevel,Start
+Read,2_Medium/wisteria,Start
+   1,O
+  32
+
+Read,2_Medium_Lobby/med_15-16,Start
+  61
+   1,O
+
+FileTime: 21:10.053(74709)

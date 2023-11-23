@@ -1,0 +1,105 @@
+#This file was made based off the files in the BL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load SecretSanta2023/0-Lobbies/3-Hard
+EnforceMaingame
+   1
+
+#Start
+Read,3_Hard_Lobby/hard_0-1,Start
+Read,EnterPostcard,Start
+Read,3_Hard/heresy_sanguine_river,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_1-2,Start
+Read,EnterLevel,Start
+Read,3_Hard/caves_of_mechanus,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_2-3,Start
+Read,EnterLevel,Start
+Read,3_Hard/waltz_of_the_deep,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_3-4,Start
+Read,EnterLevel,Start
+Read,3_Hard/a_gift_of_exhilaration,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_4-5,Start
+Read,EnterLevel,Start
+Read,3_Hard/rapid_fire,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_5-6,Start
+Read,EnterLevel,Start
+Read,3_Hard/astlibra,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_6-7,Start
+Read,EnterLevel,Start
+Read,3_Hard/mission_fishtermination,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_7-8,Start
+Read,EnterLevel,Start
+Read,3_Hard/the_space_scrapers,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_8-9,Start
+Read,EnterLevel,Start
+Read,3_Hard/where_the_dead_reside,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_9-13,Start
+Read,EnterLevel,Start
+Read,3_Hard/the_high_way,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_13-15,Start
+Read,EnterLevel,Start
+Read,3_Hard/cerulean_couloir,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_15-14,Start
+Read,EnterPostcard,Start
+Read,3_Hard/labyrinth_mu,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_14-10,Start
+Read,EnterLevel,Start
+Read,3_Hard/dark_nebula,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_10-11,Start
+Read,EnterLevel,Start
+Read,3_Hard/illusionary_archipelago,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_11-12,Start
+Read,EnterLevel,Start
+Read,3_Hard/unearthed,Start
+   1,O
+  32
+
+Read,3_Hard_Lobby/hard_12-16,Start
+  61
+   1,O
+
+FileTime: 17:48.501(62853)
