@@ -28,6 +28,9 @@ Read,1_Easy/dungeon_of_id,Start
 
 Read,1_Easy_Lobby/easy_3-4,Start
 Read,EnterLevel,Start
+   1,S
+   1,D,J
+  32
 Read,1_Easy/the_summer_before_christmas,Start
    1,O
   32
@@ -90,4 +93,4 @@ Read,1_Easy_Lobby/easy_13-14,Start
   61
    1,O
 
-FileTime: 
+FileTime: 23:47.609(83977)
