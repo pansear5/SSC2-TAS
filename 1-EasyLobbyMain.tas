@@ -1,0 +1,93 @@
+#This file was made based off the files in the BL folder.
+Unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load SecretSanta2023/0-Lobbies/1-Easy
+EnforceMaingame
+   1
+
+#Start
+Read,1_Easy_Lobby/easy_0-2,Start
+Read,EnterLevel,Start
+Read,1_Easy/senseis_lost_castle,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_2-1,Start
+Read,EnterLevel,Start
+Read,1_Easy/american_highschool_simulator,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_1-3,Start
+Read,EnterLevel,Start
+Read,1_Easy/dungeon_of_id,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_3-4,Start
+Read,EnterLevel,Start
+Read,1_Easy/the_summer_before_christmas,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_4-5,Start
+Read,EnterLevel,Start
+Read,1_Easy/stutterstep,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_5-6,Start
+Read,EnterLevel,Start
+Read,1_Easy/pool_day,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_6-7,Start
+Read,EnterLevel,Start
+Read,1_Easy/light_and_dusk,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_7-8,Start
+Read,EnterLevel,Start
+Read,1_Easy/the_creative_process,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_8-9,Start
+Read,EnterLevel,Start
+Read,1_Easy/down_the_drain,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_9-11,Start
+Read,EnterLevel,Start
+Read,1_Easy/kuroi_yume,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_11-10,Start
+Read,EnterPostcard,Start
+Read,1_Easy/a_conifers_cry,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_10-12,Start
+Read,EnterLevel,Start
+Read,1_Easy/obsidian_badlands,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_12-13,Start
+Read,EnterLevel,Start
+Read,1_Easy/mysterious_mansion,Start
+   1,O
+  32
+
+Read,1_Easy_Lobby/easy_13-14,Start
+  61
+   1,O
+
+FileTime: 
