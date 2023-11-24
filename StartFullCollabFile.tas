@@ -1,0 +1,94 @@
+Set,Language,english
+Set,ScreenShake,Off
+Set,DisableFlashes,true
+Set,SpeedrunClock,2
+Set,Everest.ShowModOptionsInGame,False
+Set,Everest.UseKeyboardForTextInput,False
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+Set,CrouchDashMode,Press
+Set,GrabMode,Hold
+Set,GravityHelper.ControlScheme,Absolute
+EnforceMaingame
+Unsafe
+Add 2
+Add 1,J
+Add 89
+Add 1,J
+Add 94
+Add 1,J
+Add 61
+
+   1,D
+   1,J
+Skip
+  70
+Add 41
+##GRINCHELINE INPUTS
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,J
+   1,D
+   1,R
+   1,F,90
+   1,J
+   1,U
+   1,J
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,D
+   1,J
+   1,L
+   1,U
+   1,L
+   1,J
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,R
+   1,J
+   1,L
+   1,F,270
+   1,L
+   1,J
+   1,L
+   1,D
+   1,L
+   1,J
+   1,R
+   1,F,90
+   1,U
+   1,R
+   1,F,90
+   1,R
+   1,F,90
+   1,J
+   1,L
+   1,D
+   1,L
+   1,F,270
+   1,L
+   1,J
+   1,U
+   1,J
+   1,L
+   1,F,270
+   1,L
+   1,F,270
+   1,L
+   1,D
+   1,F,180
+   1,J
+##
+   1,S
+  48
+   1,U
+   1,J
+Add 131
+   1

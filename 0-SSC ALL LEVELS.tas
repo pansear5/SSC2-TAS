@@ -1,0 +1,30 @@
+#To sync:
+#Use Celeste v.1.4.0.0
+#Use Everest v.1.3876
+#Use Secret Santa 2023 1.0.4
+#Please let us know if future versions
+#Appear to be desyncing the TAS
+
+#Use the bindings in the CelesteTAS readme
+#Change your default map to Secret Santa 2023
+#Start from file creation "Begin"
+#Make sure map select shows up
+#Open and close Mod Options if it doesn't
+
+Read,StartFullCollabFile
+
+Read,0-prologue,Start
+
+Read,LoadEasyLobby
+
+Read,1-EasyLobbyMain,Start
+
+Read,LoadLobbyfromHeart
+
+Read,2-MediumLobbyMain,Start
+
+Read,LoadLobbyfromHeart
+
+Read,3-HardLobbyMain,Start
+
+FileTime: 
