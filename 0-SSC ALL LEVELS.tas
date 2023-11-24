@@ -26,5 +26,27 @@ Read,2-MediumLobbyMain,Start
 Read,LoadLobbyfromHeart
 
 Read,3-HardLobbyMain,Start
+  59
+   1,J
+ 196
+#Endscreen
+ 195
+#Exit
+   1,J
+  43
+   1,J
+#Overworld
+ 220
+   1,X
+  32
+#Journal
+   1,N
+  54
+   1,R
+ 300
+   1,R
+ 300
+   1,X
 
-FileTime: 
+
+FileTime: 1:02:51.331
