@@ -1,9 +1,10 @@
-RecordCount: 439
+RecordCount: 604
 
 console load SecretSanta2023/1-Easy/toto00
    1
 
 #Start
+
   84
 
 #lvl_start
@@ -17,6 +18,7 @@ console load SecretSanta2023/1-Easy/toto00
    5,K
   40
 
+
 #lvl_a-01
    8,R
    1,R,J,G
@@ -24,22 +26,22 @@ console load SecretSanta2023/1-Easy/toto00
    1,K
    2,R,K
   34,R,U,X
-   6,R,Z
+   5,R,Z
    1,R,J
    7,R
-   1,R,J
-  12,R,U,X
-   4,R,J,G
-   1,R,K,G
+   2,R,J
+  10,R,U,X
+   6,R,J,G
    5,R
    1,R,J,G
-   4,R
+   5,R
   40
 
 #lvl_a-02
   24,R,D
-  13,D
-   1
+   9,D
+   3
+   1,D
   15,R,Z
    1
   20,L,J,G
@@ -59,7 +61,9 @@ console load SecretSanta2023/1-Easy/toto00
    8,R,U,Z
   40
 
+
 #lvl_a-03
+
    3,L
    1,L,J,G
   11,R,J
@@ -73,16 +77,16 @@ console load SecretSanta2023/1-Easy/toto00
   12,R,J,G
    6,R,K,G
    7,R
-   4,Z
-   1,R,J
-   6,R
-   1,R,J
+   4,R,Z
+   4,R,J
    3,R
-  23,R,D,X
-  14,L,Z
+   2,R,J
+  16,R,D
+  14,L,D,X
    1,R,J
    8,R,U,Z
   40
+
 
 #lvl_a-04
    3
@@ -110,30 +114,30 @@ console load SecretSanta2023/1-Easy/toto00
    6,R
   40
 
+
 #lvl_a-05
   16,R,D
    6,D
-   5
    1,D
+   3
+   2,D
    5,R,X
-   1,R,J,G
+   2,R,J,G
+   9,R
+   1,R,J
+   8,R
+   5,R,J,G
+   5,R
+   7,R,J
+   6,R
+   7,U,Z
+   8,R,J
+   1,R,K,G
+   9,R
+  12
+   5,D
    1
-   4,R
-   1,J
-   1,R
-   1,R,J
-   5,R
-   1,R,J
-   5,R
-   1,R,J,G
-   3,R
-   5
-  18,U,X
-   6,L,U,C
-  19,R,D
-   5,L,X
-  10,R,D
-  19,D
+   1,D
    7,L,Z
    1,R,J
    3
@@ -142,7 +146,9 @@ console load SecretSanta2023/1-Easy/toto00
    8,R,U,Z
   40
 
+
 #lvl_a-06
+
    3
    3,L,J,G
    9,R,J
@@ -163,7 +169,9 @@ console load SecretSanta2023/1-Easy/toto00
    2
   40
 
+
 #lvl_a-07
+
    1
    1,J
   17
@@ -209,7 +217,9 @@ console load SecretSanta2023/1-Easy/toto00
    3,R,J
   40
 
+
 #lvl_a-08
+
   18,R,U,X
   28,R,C
   12,R,X
@@ -258,9 +268,11 @@ console load SecretSanta2023/1-Easy/toto00
   10,D,X
   40
 
+
 #lvl_heart
+
   10,D
  135
 
-ChapterTime: 0:42.024(2472)
+ChapterTime: 0:41.786(2458)
 
