@@ -1,16 +1,18 @@
-RecordCount: 1116
+RecordCount: 1347
 
 console load SecretSanta2023/2-Medium/phant
    1
 
 #Start
+
  106
+
 
 #lvl_phant01
 
 #Spinner Cycle
 #0-2
-   0
+   2
 #------
   10,L,Z
    1,R,J
@@ -27,52 +29,61 @@ console load SecretSanta2023/2-Medium/phant
    7,R,D
    2,R
    1,R,D
-   2,R
+   1,R
+   1,R,D
   15,R,Z
    1
   17,R
   14,R,U,X
-  19,G
-  22,L,X,G
-   7,L,C,G
-   3,R,G
-  27,R
-  14,R,Z
-  66,R,U,J,G
+  19,R,G
+  12,R,X,G
+  10,G
+   4,R,C,G
+   1,L
+   2,R,K,G
+   7,R
+   5,R,J
+   6,J
+   1
+  10,L,Z
+   2,R,J
+  12,R,G
+  52,R,U,J,G
    1,R,X,G
    1,L
-   4,R
-  41,R,X
-  38,R,D
+  10,R
+  55,R,X
+  25,R,D
   15,R,D,X
   10,R
    1,R,J
   18,R
    3,R,D
-   2,R
-   1,R,D
-   1,R
+   4,R
    6,R,Z
    1,R,J
    6,R
-   1,R,J
+   1,J
   40
 
+
 #lvl_phant02
-  44,R,D
-  15,R,X
-  20,R,J
-   1
    1,R
-   1
-  20,R
+  24,D
+   3,R,D
+  10,L,Z
+   1,R,J
+   4,R
+  15,R,D,X
+   4,R
+   8,R,D
+   1,R,J
+  17,R
    1,R,K
-  13,R
-   2,R,D
-   1,R
-  29,R,X
-   8,R,J
-   4,L,J,G
+  20,R
+  24,R,X
+   2,R,J
+  10,J
   10,R,Z
    1,R,J
    1,J
@@ -89,7 +100,9 @@ EndStunPause
    3,R
   40
 
+
 #lvl_phant03
+
    7,R,D,X
 StunPause
    8,R,D
@@ -106,6 +119,7 @@ EndStunPause
    4,D
    5,R,D
   40
+
 
 #lvl_phant03b
    4,R,D
@@ -129,6 +143,7 @@ EndStunPause
    7,R
    1,R,J
   40
+
 
 #lvl_phant04
   14,R,D,X
@@ -180,15 +195,17 @@ EndStunPause
    1,L
   18,R
    1,R,J
-   8,R,D
-  15,R,U,X
-  23,R,D
+   5,R,D
+  15,R,Z
+  18,R,D
   14,R,Z
+
    1,R,J
-  12,R,D,X
+  11,R,D,X
   40
 
 #lvl_phant05
+
    2
    5,R,J
    9,R
@@ -227,6 +244,7 @@ EndStunPause
    1,R,D,J
    8,R,D,X
   40
+
 
 #lvl_phant06
    6
@@ -296,7 +314,9 @@ EndStunPause
    6,R,D,X
   40
 
+
 #lvl_phant07
+
    6,R,J
    7,R
    1,R,J
@@ -344,6 +364,7 @@ EndStunPause
   40
 
 #lvl_phant08
+
    1,R,N
    1,R,J
    2,R
@@ -372,29 +393,17 @@ EndStunPause
    4,U,J,G
    1,L,J
   15,R,D,X
+   7,R,J
+  11,R
+  15,R,U,X
    1,R,J
-   5,J
-   6,R,J
-  15,R,D,X
-   4,R,D,J
-   6,R
+  27,R,U
    1,R,J
-   7,J
-   1,R,J
-   1,J
-   3,U
-   9,R,U
-   1,U
-   1,R,U
-  14,R,U,X
-   2,R,J
-  15,R
-   1
-  10,R
+  29,R,U
   15,R,Z
-  17,R
-   4
-   5,D
+  17,R,D
+   7,D
+   2
    4,Z
    1,R,J
    6,R
@@ -405,7 +414,9 @@ EndStunPause
    9,R,D,X
   40
 
+
 #lvl_phant09
+
    4,R,J
   14,R
    3,R,J
@@ -417,9 +428,12 @@ EndStunPause
    3,R,J,G
   15,R
 
+
 #lvl_phant10
+
  189
   11,U,X
  135
 
-ChapterTime: 1:04.532(3796)
+
+ChapterTime: 1:03.818(3754)
