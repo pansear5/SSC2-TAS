@@ -1,4 +1,4 @@
-RecordCount: 911
+RecordCount: 1036
 
 console load SecretSanta2023/1-Easy/tobyaaa
    1
@@ -15,16 +15,16 @@ console load SecretSanta2023/1-Easy/tobyaaa
   15,R,D,X
    1,R,J
   14,R,D,X
-   4,R,J
-  14,R,Z
+   5,R,J
+  14,R,D,X
    1,R,J
-  13,R,D,X
+  11,R,D,X
   37,R
    1,R,J
   14,R,D,X
-   2,R,J
+   1,R,J
    1,R
-   3,R,J
+   4,R,J
   14,R,D,X
    1,R,J,G
    4,R
@@ -232,4 +232,4 @@ console load SecretSanta2023/1-Easy/tobyaaa
   14,L,U,X
  135
 
-ChapterTime: 0:52.428(3084)
+ChapterTime: 0:52.411(3083)
