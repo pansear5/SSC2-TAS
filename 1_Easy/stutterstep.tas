@@ -1,4 +1,4 @@
-RecordCount: 1731
+RecordCount: 2035
 
 console load SecretSanta2023/1-Easy/EllisVesper
    1
@@ -79,12 +79,12 @@ console load SecretSanta2023/1-Easy/EllisVesper
   14,R,J,G
   16,U,X
    1,R
-  33,R
-  17,R,X
+  36,R
+  15,R,Z
   20,L,C
   18,L,U,X
   15,U,C
-   5,L
+   3,L
   21,D,X
   15,L,D,C
    1,L,D
@@ -138,45 +138,23 @@ console load SecretSanta2023/1-Easy/EllisVesper
    1,R,J,G
    1,R,K,G
    5,R
-   6,R,Z
+   4,Z
    1,R,J
    7,R
-   1,R,J
-   6,R,D,X
-   8,R,J
-   4,R
-   9
-   4,L
-   2
-  15,U,X
-  26
-   1,F,45
-  13
-   2,F,42
-   8,F,0.0001
-   8
-   1,F,205
-   1
-   1,F,205
-   1
-   1,F,205
-  50
-   1,F,205
-   1
-   1,F,205
-  12
-  15,D,X
-  66
-analogueMode,square
-   1,F,300
-analogueMode,ignore
-  39,F,272
-  26,F,0.001
-  27,F,320
-  12,F,0
-  11,F,300
-  25,F,303
-  28,F,285
+   5,R,J
+  27,R,X
+   3
+  15,U,C
+  27,L,U
+  16,U
+  22,F,15
+  16,U
+  14,F,194
+  50,F,262
+  19,L,U,X
+  40,U
+  29,F,301.4
+  38,F,292
   14,U,X
   11,L,J
   40
@@ -185,29 +163,25 @@ analogueMode,ignore
   11,R,K
    7,U,X
    8,R,J
-  15,R
-   1,R,D
-   6,D
-  13,J
-   1,R,J
-  15,D,X
-  11,L,J
-   5,L
-   2,L,J
-   5,L
-   4
-  15,L,Z
+  22,R
+   5,R,J
+   6,J
    3
-  18,L,D
-  18,L,J
-  12,L,K,G
-   6,L,J,G
-  15,U,Z
-  26,L
-  16,R
-  16,L
-  15,U,X
-  11,U,C
+  15,L,D,X
+   9,L,J
+  15,L,Z
+   1,D
+  19,L,D
+  12,L,J
+   7,L
+  14,U,G
+   7,J,G
+   5,K,G
+   4,L,K
+   1,K
+  19,L,U,X
+  16,L,Z
+  14,U,C
   15,R,U,X
   10,R,C
   26
@@ -221,13 +195,15 @@ analogueMode,ignore
   35,F,301
   46,F,269.8
    4,F,0
-  14,U,X
-   4,L,J
+  14,U,Z
+   3,L,J
   40
 
 #lvl_b08
+
    4,L,J
-   7,R,J
+   4,R,J
+   3,J
   10,R,D,X
    6,L,J
   15,L,U,X
@@ -342,4 +318,4 @@ analogueMode,ignore
    5,L,D,X
  134,L
 
-ChapterTime: 0:59.568(3504)
+ChapterTime: 0:56.763(3339)
