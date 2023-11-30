@@ -1,4 +1,4 @@
-RecordCount: 1375
+RecordCount: 2227
 
 console load SecretSanta2023/1-Easy/banana23
    1
@@ -7,139 +7,140 @@ console load SecretSanta2023/1-Easy/banana23
   61
 
 #lvl_b-01
+
    5,R
-   6,R,J
-   1
-   7,R
-   1,R,J
-  12,R
-   1,R,D,J
-   1,R,K,G
-   1,R,J,G
-   4,R
-   1,R,J,G
-   9,R
-   4,R,J
-   3,R
-   1
-   1,R
+   5,R,J
+   5,R
    1,R,J
    1,R
-   2,R,J
-   9,R
-   1,R,J,G
-   1,R,K,G
-   9,R
    3,R,J
+   4,R
+   1
+   1,R
+   1
    1,R
    1
    3,R
-   2,R,J
-   1
-   1,R
-   3,R
-   1,R,J,G
-   1,R,K,G
-  10,R
    1,R,J
+   1,R,K,G
+   1,R,J,G
    4,R
    1,R,J,G
-  23,R,D
-   2,R,D
+   2,R
+   1
+   6,R
    4,R,J
-   5,R
-   1,R,J,G
-   7,R,K,G
-   9,R
-   1,R,J
-  10,R
-   3,R,D
-   1,D
+  12,R
+   1
+   1,R
+   1
+   1,R
    1,R,J,G
    1,R,K,G
+   1,R
+   1
    9,R
-  19,R,D,J
-  14,R
-   1,R,J,G
-   1,J
-   7,R,J
-   1,R
-  27,R
-   2,R,J,G
-  12,R
-   3
-   1,J
-   6,R,J
+   3,R,D,J
    5,R
+   3,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1
    1,R,J
-   2,R
+   1,R,K,G
+   8,R
+   2
    1,R
+   1,R,J
+  21,R,D
+   2,R
+   1,R,J,G
+   1,R,K,G
+   4
+   1,R
+   1
+   3,R
+   1,R,J
+  20,R,D
+   1,R,J,G
+   1,R,K,G
+  11,R
+  11,R,J
+  20,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+   8,R,J
+  27,R,D
+   7,R,J
+   6,R
+   3,R,J
    6,R
    1,R,J,G
    1,R,K,G
-   5,R
-   2,R,J
-   4,R
+   7
+   3,R
+   1,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1
+   2,R
+   1
+   1,D
    1,R,J
    1,R,K,G
-   9,R
-   1,R,J
-   5,R
-   2,R,J
-   2,R
+   1,R,J,G
+  16,R
    1,R,J
   18,R
    1,R,J
-  18,R
-   1,R,J
-   2,R
+   3,R
   40
 
 #lvl_b-00
   11,R
-   1
-   1,R,J
-   2,R,J
-   1,J
-   1,R,J
-   5,R
    7,R,J
-  11,R
+   8,R
+   1,R,J
+   5,R,D
    1,D
+   1,R,D
+   1,D
+   5,R,D
    1,R,J
   14,R
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R
-   1
-  13,R
-   1
-   1,R
-   1,R,J
-   1,R,J
-   1
-   2,R
-   1,R,J,G
-   1,R,K,G
-  12,R
 #6 tile overhang
 #completely different route
 #probably slower?
+#   1,R,J
+#   1,R,K,G
+#   1,R,J,G
+#   1,R
+#   1
+#  13,R
+#   1
+#   1,R
+#   1,R,J
+#   1,R,J
+#   1
+#   2,R
+#   1,R,J,G
+#   1,R,K,G
+#  12,R
 #   1,R,J
 #   5,R
 #   3,R,J
 #  14,R
 #   2,R,J
-#  11,R
-#   1
-#   1,D,J
-#   3,L,J
-#   2,D,J
-#   2,L,J
+#   8,R
+#   1,R,J
+#   1,R
+#   8,D,J
 #   1,J
-#   1
-#   1,L
+#   2
 #   1,R
 #   1,K,G
 #   1,L
@@ -148,26 +149,42 @@ console load SecretSanta2023/1-Easy/banana23
 #  10,L,J
 #   5,L
 #  50,L,J
-   2,R,J
-  31,R
    1,R,J
    1,R,K,G
    1,R,J,G
-  11,R
-   1,R,J
+   1
+   1,R
+   1
   10,R
+   1
+   3,R
+   1,R,J
+   4,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+   3,R,J
+   5,R
+   2,R,J
+  18,R
+   1
+   1,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+  13,R
+   1,R,J
+   8,R
   40
 
 #lvl_a-01
-   4,R
-   1,R,D,J
-  13,R
-   1
+   6,R
+   1,R,J
+  14,R
 #the cycle........
+   9,R,J
+  22,R
    1
-   1,R
-   3
-  29,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -196,81 +213,104 @@ console load SecretSanta2023/1-Easy/banana23
 
 #lvl_a-02 (0)
   10,R
-   1,R,J
-  18,R
-   2,R,J
-  50,R
    3,R,J
+  14,R
+   3
+   3,R
+   2,R,J
+   1,R
+   1,R,K,G
+   1,R,J,G
    1,J
+  14,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
    1,R,J
-  15,R
-  10,R,D
+  21,R,D
+   3,R,J
+   9,R
+   4,R,J
+   9,R
    1,R,J,G
    1,R,K,G
-  10,R
-   1,R,J
-  24,R
-   1,R,J
-   1,R,K,G
+   4
    2,R
    1
-   3,R
-   1,R
-   1,R
-   1,R,J
-   1,J
-   9,R,J
    4,R
+   1,R,J
+   1,R,K,G
+   3,R,J,G
+   5,R
+   2,R,J
+  25,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+   2,R,K,G
+   1,K
+   5,R,K
+   5,R
+   2,R,K
+   1,R
+  20,R,K
+   4,J,G
+   1,R,J
+   3,R
    1,R,K,G
    1,R,J,G
    9,R
-   1,R,J
-  14,R
-   1,R,J
-  17,R
-   1,R,J,G
-   1,R,K,G
-  11,R
-   1,R,J
-  30,R,D
-   1,R,D,J
-  18,R
-   9,R,J
-   1,R,K,G
-   2,R,J,G
-  11,R
-   1,R,J
-  14,R
+   6,R,J
    5,R
-   1,R,J
-   1,J
    2,R,J
-   5,R
-   1,R,J,G
-   1,R,K,G
-  10,R
-   3,R,J
-   5,R
-   1,R,J
-   2,R
-   1,R,J
    1,R
    1,R,J
-   9,R
-   5,R,J
-   5,R
-   1,R,J
-  17,R,D
+   7,R
    1,R,J,G
    1,R,K,G
-  11,R
+   1,R
+   1
+   7,R
+   2,R,J
+   9,R
+   1,R,J
+   6,R
+   1,L
+   5,J,G
+   5
+   1,J
+   4,R
+   1,R,J
+   4,R
+   1,R,J,G
+  12,R,K,G
+   5,R
+   5,R,K
+  16,R,D
+   5,R,J
+   9,R
+   2,R,J
+   6,R
+   2
+   2,D
+   2,R
+   1,R,D
+   1,R,D,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+   1
+   9,R
    1,R,J
   21,R
    1,R,J
   14,R
    1,R,J
-  26,R
+  21,R
   19,R,J
+   2,J
   10,K,G
    1,L,K
    1,R,K
@@ -363,21 +403,24 @@ console load SecretSanta2023/1-Easy/banana23
    5,R
    1,R,K,G
    1,R,J,G
-   9,R
+   5
+   4,R
    1,R,J
-   1
-  14,R
+  17,R,D
    1,R,J,G
-  13,R
-   4,R,J
+   1,R,K,G
+  11,R
+   3,R,J
    5,R
    2,R,J
-   6,R
+   5,R
    1,R,J,G
-   3,R,K,G
-  10,R
+   2,R,K,G
+   5,R
+   2,R,J
+   5,R
    1
-   4,R
+   2,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -426,74 +469,79 @@ console load SecretSanta2023/1-Easy/banana23
    1,R
    1,R,K,G
    1,R,J,G
-   9,R
-   1,R,J
-   4,R
-   1,R,J,G
+   1,R
    1
-   8,R
+   7,R
+   1,R,J
+   3,R
+   1,R,J,G
+   6,R
+   2
   40
 
 #lvl_b-13 (0)
    1
-   3,R
+   4,R
    1,R,J
   14,R
   11,R,J
-   7,R
-   1,R,J
-  17,R
+  24,R
    6,R,J
-   8,R
-   1,R,J
    9,R
+   1,R,J
+   8,R
    2,R,J
-   6,R
-   2,R,J
-   1
    2,R
    1
-   4,R
-   9,R,D,J
-   5,R
+   3,R
    2,R,J
-  14,R
-  17,L,D
-   1,L,J
-  14,L,D
-  10,D
+   8,R
+   9,R,J
+  21,R
+  16,L,D
+   6,L,J
+   6,L,D
+  11,D
   40
 
 #lvl_a-10
-   8,D
-  10,L,D
+
+   4,D
+  11,L,D
+   3,L
    1,L,D,J
    1,L,K,G
-   2,L,J,G
-  10,L
-   1,J
+   4,L,J,G
    3,L
-   5,D
-  21,L,D
-  10,L,J
-  19,L
+   3,L,J
+   1,L,K
    1,L,J
-   9,L
-   7,R,D,X
-   2,R,J
-   9,R
-   2,R,J
-  11,U,X
-   3,R,J
-  11,R
-  11,R,D,X
-   4,R,J
-  14,U,X
-   9,L,J
+  26,L,D
+   1,L,J
+  19,L
+   5,L,J
+   1,L,K,G
+   2,L,J,G
+   1,J
+   2,L,J
+   2,L
+   3
+  10,L,D,X
+   1,R,J
+   1,J
+   6,R,J
+  13,R,U,Z
+   1,L
+   7,J,G
+   5,R,K,G
+   3,R
+   7,R,J
+  15,U,X
+   5,L,J
   40
 
 #lvl_b-13 (1)
-   7,R,J
+   6,R,J
    1,R,K,G
   11,R,J,G
   15,U,Z
@@ -533,142 +581,124 @@ console load SecretSanta2023/1-Easy/banana23
    2,D
    7,L,D
    5,D
-  23,L,D
-  13,L,D,X
-   1,L,K
-   5,L
-  15,D,X
-   7,L,D
-   1,L,J
-  15,D,X
-  24,L,D
-   4,L
-   1,L,J
-   3,L
-  15,D,X
-  11,R,D
-   4,Z
+  12,L,D
+  12,L
+   1,G
+   6,L,J,G
+  41,L,D,X
+   6,D
+  21,L,D
+   8,R,D
+   1,D
+   3,R,D
+  14,R,D,X
    1,R,J
-  21,D
+   1,R
+  13,D,X
   40
 
 #lvl_b-11 (0)
-   8,L,D
+   9,L,D
   13,R,D,X
    1,R,J
    2,R
   15,D,X
-   2,R,D
-   1
-   4,R,D
+   7,L,D
+   3,L
+   2,L,D
+   4,Z
+   2,R,J
+   1,R,K,G
+   3
+   6,R
+   2,R,D,J
+   7,R,D,X
+   1,R,J,G
+   1,R
+   2
    2,R
-   1,R,D
-   6,L,D,X
+   2,R,J
+   6,R
+   5,R,D,J
+  12,R,D,X
+   9,R,J,G
+  18,R
    1,R,J
+   2,R
+   6,R,D,X
+   2,R,J,G
    6,R
    1,R,J
+   2,R
    1,R,J
-   7,R,D,X
-   2,R,J,G
-  13,R
-   3,R,J
-   3,R,J
-  12,R,D,X
-   7,R,J,G
-   5,R
-   1,R,J
-   1
-  10,R
-   1
-   3,R,D,J
-   1,R
-#never land this dultra
-   9,R,D,X
-   7,R,J,G
-   8,R
   40
 
 #lvl_b-12
-   3,R
-   6,R,J
-   7,R
-   7,R,J
+
+  10,R,J
+   8,R
+   1,R,K,G
    5,R
-  15,D
-   5,R,D
-   2,D
-   4
-   6,J,G
-   4,R,J
-  10,R,Z
-   2,L,J
-   3,L
-   1,L,J
+   3,R,K
+   1,K
+   1,R,K
+  15,D,X
    1,L
-  11,L,U,X
+   1,R
+   1,R,J
+   4,R,K
+  13,R,Z
+   2,L,J
+  14,L,U,X
    1,L,J,G
    9,L
    1,L,J
-   2,L
+   1,L,J
   12,L,D,X
-   1,L,J,G
+   2,L,J,G
   19,L
-   1,L,J
-   1,L,J
    2,L,J
   40
 
 #lvl_b-11 (1)
-  16,L,J
-  17,L,D,X
-   1,L,J
-   1,J
-  15,L,J
-  13,L,D,X
-   4,L,J,G
+   9,L,J
    5,L
-   2,L,J
-   8,L
-   1,L,J
-   1
-   2,L
-   1
-  10,L
+  16,L,D,X
+  11,L,J
+  12,L,D,X
+   3,L,J,G
+   1,L
+   1,L,K,G
+   5,L
+   1,L,K
+   7,L
   13,L,D,J
   15,L,D,X
-   2,L,J
-   8,L
-   5,L,J
-   5,L
-  11,L,D,X
-   1,L,J,G
-  16,L
-   6,L,J
-   7,L,D,X
-   1,L,J,G
-   6,L,J
+   4,L,D,J
+  11,L,K,G
+   3,L
+  15,L,D,X
+   1,L,J
+   5,L,U,X
+   5,L,J,G
   40
 
 #lvl_b-08
-   1,L,J
+   3,L,J
    5,L
-   1,L,J
-  15,L
-  12,L,J
-   6,L,K,G
-  12,L,D,X
+  14,L,Z
+   8,L,J,G
   40
 
 #lvl_b-02
-   3,L,D,X
-   1,L
-  13,L,J
+   2,L
+   4
+   2,J
+   4
   15,U,X
-   9,R,J,G
-   1
-   1,J,G
+   1,R,J,G
    7,R
-   7,R,J
+   6,R,J
   15,U,X
   40
 
@@ -696,7 +726,7 @@ console load SecretSanta2023/1-Easy/banana23
   40
 
 #lvl_a-03
-  92
+  99
   10,J
   14,L,D,X
    1,R,J
@@ -707,4 +737,4 @@ console load SecretSanta2023/1-Easy/banana23
   15,R,U,X
  135
 
-ChapterTime: 1:12.522(4266)
+ChapterTime: 1:09.513(4089)
