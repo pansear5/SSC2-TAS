@@ -1,4 +1,4 @@
-RecordCount: 1197
+RecordCount: 1229
 
 console load SecretSanta2023/1-Easy/Jan
    1
@@ -110,7 +110,7 @@ endrepeat
    1,S
    1,D,J
   34
-   1,R
+   1,R,D
    3,R,G
    2,R
    9,L,U,X
@@ -121,33 +121,36 @@ endrepeat
    7,L
    9,L,J
    3,L
-   9,L,Z
+   8,L,Z
    1,L,J
-   1,L
+   2,L
   40
 
 #lvl_03x1-Hallway(1)
-   5,L
-Repeat 4
+   4,L
    1,L,J
   14,L,D,X
-endrepeat
    1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+   5,L,D,X
   40
 
 #lvl_03-Math(1)
-   2,L,J
-  23,L,D,X
-   1,L,J
    8,L
-  11,D,X
+   1,L,J
+   1,L
+  28,L,D,X
   40
 
 #lvl_02x2-Hallway(1)
+   1,D
+  34,R,D
    8,L,D
-   3,L
-  23,R,D
-  12,L,D
   40
 
 #lvl_02-Entranceway(1)
@@ -451,4 +454,4 @@ endrepeat
   14,R,U,X
  135,R,D
 
-ChapterTime: 1:10.686(4158)
+ChapterTime: 1:10.584(4152)
