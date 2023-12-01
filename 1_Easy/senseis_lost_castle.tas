@@ -1,4 +1,4 @@
-RecordCount: 4757
+RecordCount: 4900
 
 console load SecretSanta2023/1-Easy/ABuffZucchini
    1
@@ -556,54 +556,48 @@ endrepeat
    1,R,J
   18,R,D
    1,R,J
-  37,R,D
-   1,R,J
-  23,R,D
-   1,R,J
-  14,R
-  16,R,Z
-   2,R,J
-   1,R
-   2,R,J
-   7,R
-  43,R,J
+  17,R,D
+  16,D
+   4
+   5,R,X
+   1,R,J,G
+   2
+  21,R,D
+   2,R,D,J
+   3,R,D
+   1,R,D,J
+  15,R
+  42,R,J
   16,R,U,X
    1,L,J,G
   20,R,J
-  17,R,X
-  43,R
-   2
-   8,R
+  64,R,X
+   1,R,D
+   1,R
+   1,R,D
+   1,R
+   1,R,D
    1,R,J,G
-   2,R,K,G
-   1,K
-   5,R
-   1,R,K
-   7,R
+   1,R,K,G
+  11,R
    1,R,J
-   5,R
-   2,R,J
-   1,R
+   9,R
    1,R,J
-   1,R
-   1,R,J
-   1,R
+   4,R
    1,R,J,G
-   8,R,K,G
-   5,R
-   1,R,K
+   1,R,K,G
+   1,R
+   1
    7,R
+   8,R,J
+   6,R,K,G
+   1,R,J,G
+   4,L,J
    7,R,J
    1,R,K,G
-   3,L,K
-   3,K
-   2,L,K
-   2,R,K
-   1,R,J,G
-   1,R,K,G
-   7,R,J,G
+  11,R,J,G
   18,L,X
-   9,U,C
+   8,U,C
  135
 
-ChapterTime: 1:13.899(4347)
+ChapterTime: 1:13.525(4325)
