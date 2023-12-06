@@ -1,4 +1,4 @@
-RecordCount: 6604
+RecordCount: 6654
 
 console load SecretSanta2023/3-Hard/bosssauce
    1
@@ -495,28 +495,33 @@ EndStunPause
   15,U,X
   31,R
   15,R,Z
-   6
-   6,L,J
-   6,L
-  10,R,D,X
+   5,R
+   4,R,Z
    1,R,J
-   3,R,K,G
-  13,R,J,G
-  15,R,D,X
+   1,R
    1,R,J
+   1,R,K,G
+   9,R
+   8,R,J
+   3,R
+  11,R,D,X
   40
 #lvl_a-end
-   9,R,J
+   4
+  11,R,J
   15,R,D,X
-   5,R
-  10,R,J
-   5,R
-   3,R,J
-   9,R
+   3,R
+   2,R,J
+  16,R
+   5,R,J
+   7,R
+   1,R,J
+   1,R
+   1,R,J
   14,R,U,X
    1,R,J,G
    1,L
    6,R
   10,U,X
  135
-ChapterTime: 1:07.473(3969)
+ChapterTime: 1:07.354(3962)
