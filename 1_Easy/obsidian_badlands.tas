@@ -1,4 +1,4 @@
-RecordCount: 1943
+RecordCount: 2050
 
 console load SecretSanta2023/1-Easy/Luma
    1
@@ -311,21 +311,20 @@ endrepeat
    2
    3,K,G
    7,R
-   6,L,D,X
+   7,L,D,X
    1,R,J
    6,R
    1,R,J
   40
 
 #lvl_Outro
-   1,R,J
-  14,R,U,X
+  13,R,D,X
    1,S
    1,D,J
   34
-   8,R
-  14,R,D,X
+   4,R
+  14,R,U,X
  135
 
-ChapterTime: 0:40.443(2379)
+ChapterTime: 0:40.358(2374)
 
