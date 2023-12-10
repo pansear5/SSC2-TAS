@@ -1,4 +1,4 @@
-RecordCount: 1375
+RecordCount: 1880
 
 console load SecretSanta2023/1-Easy/Jan
    1
@@ -7,19 +7,18 @@ console load SecretSanta2023/1-Easy/Jan
  190
 
 #lvl_01-Intro
-   5,R
 repeat 22
    1,R,J
   14,R
 endrepeat
    1,R,J
-   7,R
+  12,R
    1,S
    1,D,J
   34
-   7,R
+   2,R
    1,R,J
-   6,R
+  11,R
 
 #lvl_02-Entranceway(0)
    1,R
@@ -54,14 +53,17 @@ endrepeat
    1,R
   14,U,X
   10,J
-  11,R
-   4,R,J
+  11
+   4,L,J
   13,U,X
   40
 
 #lvl_03-Math(0)
-  11,R
-   6,R,D,X
+   1,R,J
+   5,R
+   4
+   1,R
+   5,R,D,X
    1,R,J
    3,R
    1,R,J
@@ -69,13 +71,12 @@ endrepeat
    1,D,J
   34
    3,R
-   6,R,J
+   7,R,D,J
   14,R,U,X
-   2,R,J,G
-   7,R
-   6,R,Z
-   1,R,J
-   2,R
+   1,R,J,G
+   1,R
+   1,R,J,G
+   6,R
   40
 
 #lvl_03x1-Hallway(0)
@@ -110,24 +111,23 @@ endrepeat
    1,S
    1,D,J
   34
-   1,R,D
-   3,R,G
-   2,R
-   9,L,U,X
-   1,L,J,G
-   7,L
-   4,Z
+   1,R
+   5,R,G
+   7,L,K
+   3,L,J,G
+   5,L,V
    1,L,J
-   7,L
-   9,L,J
-   3,L
-   8,L,Z
+   4,L
    1,L,J
    2,L
+  11,L,J
+   7,L,V
+   1,L,J
+   4,L
   40
 
 #lvl_03x1-Hallway(1)
-   4,L
+   2,L
    1,L,J
   14,L,D,X
    1,L,J
@@ -137,35 +137,34 @@ endrepeat
    1,L,J
   14,L,D,X
    1,L,J
-   5,L,D,X
+   6,L,D,X
   40
 
 #lvl_03-Math(1)
    8,L
    1,L,J
-   1,L
-  28,L,D,X
+  27,L,D,X
   40
 
 #lvl_02x2-Hallway(1)
    1,D
   24,R,D
   11,D
-   7,L,D
+   6,L,D
+   1,D
   40
 
 #lvl_02-Entranceway(1)
-   5,D
-   2,L,D
+   7,R,D
   14,L,D,X
    1,L,J
-  17,L,D,X
-  17,R,D
+  15,L,D,X
+  19,R,D
    6,R,Z
    1,R,J
    7,R
    1,R,J
-  10,R,D,X
+   9,R,D,X
    1,R,J
    7,R
    7,R,J
@@ -173,21 +172,24 @@ endrepeat
    1,J,G
    7,R
 #Waiting for the key to apply
-   2
+   0
 #------
-   7,R,Z
+   7,L,D,X
    1,R,J
-   2,R
+   6,R
   40
 
 #lvl_02x1-Hallway(0)
-   4,R
-Repeat 4
+
+Repeat 3
    1,R,J
   14,R,D,X
 endrepeat
    1,R,J
-   5,R,D,X
+   1,R
+  14,R,D,X
+   1,R,J
+   7,R,D,X
   40
 
 #lvl_04-Celeste(0)
@@ -260,44 +262,55 @@ endrepeat
   40
 
 #lvl_04-Celeste(1)
-  10,R,D
+   1,R,D
+   1,D
+   3,R,D
+   1,D
+   4,R,D
   14,L,D,X
   15,L,J
   15,L,D,X
-  12,L
+   5,L
+   6,L,D
    1,L,J
-   6,L,D,X
-   1,L,J
-   1,L
+   7,L,D,X
   40
 
 #lvl_02x1-Hallway(1)
-   6,L
-Repeat 4
+   7,L
+Repeat 2
    1,L,J
   14,L,D,X
 endrepeat
+   1,L,J
+   2,L
+  14,L,D,X
+   1,L,J
+  11,L,D,X
   40
 
 #lvl_02-Entranceway(2)
-   3,L,J
-  22,L,D,X
+   3,L
+   1,L,J
+  15,L,D,X
+   1,L
+   6,L,D
    1,L,J
   14,L,D,X
    1,L,J
-   5,L
+   3,L
   10,D,X
   40
 
 #lvl_02x3-Hallway
-   4,L
-   6,L,D
-  16,R,D
-  20,D
+  10,L,D
+  17,R,D
+  18,D
   40
 
 #lvl_07-Other
-  11,D
+   4,R,D
+   6
    1,S
    1,D,J
   34
@@ -326,7 +339,7 @@ endrepeat
   12,R,D
    4,R
   15,L,D,X
-  36,D
+  39,D
   13,J
   15,U,X
   46,D
@@ -339,23 +352,28 @@ endrepeat
    2,D
    1,R,D
   22,D
-   5,L,D
+   4,L,D
+   1,R,D
   40
 
 #lvl_12-Bad-Mapping
-   3,R,D
+   2,D
+   1,L,D
   15,R,D,X
-   7,R,D
-  18,R,D,X
-   6,L
-   6,R
+   4,D
+   1,R,J
+  15,R,D,X
+   2
+   2,D
+   8,R,D
    1,G
-  20,R,J,G
+  18,R,J,G
+   2,J
   15,U,X
   14,R,J
    8,R
    1,R,J
-   7,R
+   6,R
    6,R,Z
    1,R,J
    7,R
@@ -396,33 +414,39 @@ endrepeat
   11,R
   10,R,Z
    1,R,J
-  20,L
+  14,R,D
+   6,L,D
   15,L,Z
-  14,R
-  17,R,D
-   6,R,Z
+  10,L,D
+   1,D
+  20,R,D
+   6,R,V
    1,R,J
    7,R
    1,R,J
-   6,R,D,X
+   4,R,D,X
+   1,R,J
+   1,R
   40
 
 #lvl_15-Bad-Mapping
-   1,R,J
-   5
-   2,R
-  11,R,D,J
-   2,L,K,G
-   9,R,K
-  11,R,J,G
-  11,R,X
-   3,R,J,G
-   1,K,G
-   1,K
-  10,R,K
-   5,R
-   2,R,K
-  13,R
+   6,R
+   9,R,D,J
+   2,L,J
+   3,L,K,G
+   2,K
+   1,R,K
+   2,K
+   1,R,K
+   1,R,K
+   1,R,J,G
+  11,R,K,G
+   3,R
+   8,R,X
+   1,R,J,G
+   2,J
+  19,R,J
+  11,R
    1,S
    1,D,J
   34
@@ -435,29 +459,36 @@ endrepeat
    1,R,J
   14,R
    1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
   14,R,D,X
    1,R,J
    7,R
-Repeat 7
    1,R,J
   14,R
-endrepeat
    1,R,J
-   6,R
+  14,R
+   3,R,J
+   5,R
+   1,R,J
    1,S
    1,D,J
   34
+   2,R,J
+   1,R
+   1,R,J
    8,R
+  10,R,Z
    1,R,J
-  14,R
+   6,R
    1,R,J
-  14,R
-   1,R,J
-   4,R,Z
-   1,R,J
-   7,R
-  13,R,J
+  11,R
   14,R,U,X
  135,R,D
-
-ChapterTime: 1:10.431(4143)
+ChapterTime: 1:09.411(4083)
