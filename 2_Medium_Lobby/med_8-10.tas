@@ -32,11 +32,12 @@ console load SecretSanta2023/0-Lobbies/2-Medium 1024 1320
    6,R
    1,R,J
    1,R,K,G
-   1
-  13,R
-  14,R,U,X
+   1,K
+  14,R
+  13,R,U,X
    1,R,J,G
-  10,R
+   9,R
    1,N
 
-#0:03.281(193)
+#0:03.264(192)
+
