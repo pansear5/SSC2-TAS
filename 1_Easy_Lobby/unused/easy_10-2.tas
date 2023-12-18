@@ -2,26 +2,28 @@ console load SecretSanta2023/0-Lobbies/1-Easy 1976 504
    1
 
 #Start
+
   36
-   8,L,J
-   4,L,K,G
-  10,L,X
    7,L,J
-   8,L,Z
-   3,L,J
-  13
-  11,L,D
+   5,L,Z
+   1,L,J
+  10,L,K,G
+   7,L
+   1,L,J
+  10,L
+  15,D,X
    1,N
-   7,R,Z
+   7,L,Z
    1,L,J
    4,L
+   1,L,D,J
+   1,J
    8,L,J
-  15,L,D,X
-  16,L
-  13,L,D
-  17,L,D,X
-   5,L
-   1,N
+   2,L
+  40,L,D,X
+  17,L,D,C
+   1,L
+   1,L,N
    4,Z
    1,R,J
    3,R
@@ -33,4 +35,4 @@ console load SecretSanta2023/0-Lobbies/1-Easy 1976 504
   14,R,D,X
    1,N
 
-#0:02.924(172)
+#0:02.720(160)
