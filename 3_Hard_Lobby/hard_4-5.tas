@@ -15,11 +15,10 @@ console load SecretSanta2023/0-Lobbies/3-Hard Ecl1psed 1
   10,R,Z
    1,R,J
    1,R,K,G
-   3,R
+   6,R
   14,R,D,X
    1,R,J
-  15,R,D,X
-   6,R,D
+  16,R,D,X
    1,R,N
    1,R,J
    8,R
@@ -29,4 +28,5 @@ console load SecretSanta2023/0-Lobbies/3-Hard Ecl1psed 1
   18,R,D
    1,N
 
-#0:02.210(130)
+#0:02.176(128)
+
