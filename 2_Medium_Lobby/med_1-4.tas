@@ -25,8 +25,8 @@ console load SecretSanta2023/0-Lobbies/2-Medium 1000 1152
   14,L
    1,L,J
   14,L,D,X
-   3,L,J
-  11,L
+   1,L,J
+  14,L,D,X
    1,N
    7,R,Z
    1,R,J
@@ -37,4 +37,5 @@ console load SecretSanta2023/0-Lobbies/2-Medium 1000 1152
   14,R,D
    1,N
 
-#0:02.958(174)
+#0:02.924(172)
+
