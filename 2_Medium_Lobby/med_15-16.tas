@@ -11,106 +11,97 @@ console load SecretSanta2023/0-Lobbies/2-Medium 620 1104
   18,L
    4,Z
    1,L,J
-   6,L
-   6
+   2,L
+  10
    1,N
-   1
-   6,R,D,C
+   6,R,Z
    1,L,J
-   4,L,K,G
-   7,L
-   6,L
-  14,L,D,X
-   1,L,J
-  15,L,D
-  14,L,D,X
-   2,R,J
-  15,R,D,X
-  13,D
-   3
-   2,D
-   1
+   5,L
+   6,L,J
+   5,L
+  23,L,D,X
    1,D
+   1,L
+   2,L,D
+   4,D
    1
-   7,R,Z
+   2,D
+   1,L,D
+   1,D
+   1,L,D
+   1,L,D
+  28,R,D,X
+   2,R
+   2,R,D
+   8,R,Z
    1,R,J
    6,R
    1,R,J
-  10,R,D,X
+  13,R,D,X
    1,S
    1,D,J
-  36
+  34
    6,R,J
-  11,R,X
-   1,R,J,G
-  10,R
-   7,R,J
-  15,R,D,X
+   7,R
+   3,R,J
+   2,R
+  16,R,D,X
    1,R,J
-   1,R
+   2,R,K,G
+   8,R
   40
 
 #lvl_2
+   3,R
+   1,R,J
+   2
+  12,R
+   1,R,J
   13,R
-   2,R,J
-  16,R
-   4
    1,R,N
   63
-   4,Z
-   1,L,J
-   6,L
-   9,L,J
+   9,R,J
+repeat,5
   11,K,G
+   1,L,K
+   1,J
+  23,R,J
+   1,J
+endrepeat
+   1,K,G
+   1,R,K
+   5,K
+   1,R,K
+   1,K
    1,R,K
    1,L,K
-  14,L,J,G
-  11,K,G
    1,R,K
+repeat,2
+  13,R,J,G
+   1,K,G
+   2,R,K
+   4,K
+   1,R,K
+   1,K
+   1,R,K
+   1,L,K
+   1,R,K
+endrepeat
+  14,R,J,G
+   1,K,G
+   1,R,K
+   5,K
+   1,R,K
+   1,K
+   1,R,K
+   1,L,K
+   1,R,K
+  15,R,J,G
+   1,K
+  21,R,K
   15,U,X
-   1,L
-  11,J,G
-   1,R,J
-  14,L,K,G
-  11,J,G
-   1,R,J
-  14,L,K,G
-#add repeat commands
-  11,J,G
-   1,R,J
-   1,K
-  23,L,K
-   1,K
-  11,J,G
-   1,R,J
-   1,K
-  23,L,K
-   1,K
-  11,J,G
-   1,R,J
-   1,K
-  23,L,K
-   1,L,K
-  11,J,G
-   1,R,J
-   1,K
-  23,L,K
-   1,K
-  11,J,G
-   1,R,J
-   1,K
-  23,L,K
-   1,K
-  11,J,G
-   1,R,J
-   1,K
-  23,L,K
-   1,K
-  11,J,G
-   1,R,J
-   1,L,J
-  19,L,K,G
-   1,L
+   4,R
+  29,L,J
    6,L,Z
    1,L,J
    7,L
@@ -142,4 +133,4 @@ endrepeat
   17,U,X
  135
 
-#0:18.768(1104)
+#0:18.292(1076)
