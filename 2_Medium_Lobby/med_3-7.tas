@@ -9,14 +9,15 @@ console load SecretSanta2023/0-Lobbies/2-Medium Nyan 1
    1,L,J
   15,L,D,X
    1,L,N
-   7,R,Z
+   6,R,Z
    1,R,J
-   4,R
-  12,R,J
-  15,U,Z
+   1,R
+   2,R,J
+   1,R
+   1,R,J
+  12,R,K
+  15,U,X
   12,L,J,G
-   1
-   2,L,K,G
    7,L
    4,Z
    2,L,J
@@ -37,4 +38,5 @@ console load SecretSanta2023/0-Lobbies/2-Medium Nyan 1
   26,D
    1,N
 
-#0:02.499(147)
+#0:02.448(144)
+
