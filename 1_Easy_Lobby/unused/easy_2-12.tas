@@ -3,23 +3,21 @@ console load SecretSanta2023/0-Lobbies/1-Easy 552 368
 
 #Start
   36
-   4,Z
-   7,L,J
+   6,L,Z
+   5,L,J
    1,L,K,G
   10,L
-  10
+   6
    1,N
-   6,R,Z
+   9,R,Z
    1,R,J
-   1,R,K,G
-  10,R
+   4,R
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,C
-   2,R,J
-   5,R
+  14,R,D,X
    1,R,J
+  15,R,D,X
    1,R
    1,R,N
    6,R,Z
@@ -35,5 +33,6 @@ console load SecretSanta2023/0-Lobbies/1-Easy 552 368
    5,R
    1,R,N
 
-#0:02.040(120)
+
+#0:01.989(117)
 
